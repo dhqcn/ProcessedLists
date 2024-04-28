@@ -8,8 +8,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: node20
-      - name: Use Node.js
+      - uses: actions/checkout@v3
+      - name: Use node20
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
       - run: node writeFile.js 
       - run: node process_AIP-Alpha7-latest.js
       - name: Commit & Push
