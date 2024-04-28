@@ -25,7 +25,9 @@ jobs:
 
           git checkout -b "$branch_name"
 
-          git commit -m "Update CSV file"
+          git add ProcessedLists/AIP-Alpha-latest.txt
+
+          git commit -m "Update TXT file"
 
           git push origin "$branch_name"
 
