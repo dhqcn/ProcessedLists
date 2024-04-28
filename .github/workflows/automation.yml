@@ -13,6 +13,6 @@ jobs:
         with:
           node-version: 18.x
       - run: node writeFile.js 
-      - run: node process_s_drop.js
+      - run: node process_AIP-Alpha7-latest.js
       - name: Commit & Push
         uses: actions-x/commit@v6
