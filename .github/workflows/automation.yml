@@ -1,7 +1,7 @@
 name: ProcessingLists
 on:
   schedule:
-    - cron: "0 0/12 * * *" # Runs every 12 hours (UTC)
+    - cron: "0 0/8 * * *" # Runs every 08 hours (UTC)
   workflow_dispatch:
 
 jobs:
