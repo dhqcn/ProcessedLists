@@ -4,4 +4,4 @@ This is an automated script run by GitHub Action, aiming to download and trim th
 - DShield IP Blocklist (https://www.dshield.org/block.txt)
 so that they can be used in Skynet for AsusMerlin routers.
 
-All credits go to user: UoFruitE (https://github.com/UoFruitE) for the idea and the Java scripts.
+All credits go to user: UoFruitE (https://github.com/UoFruitE/ProcessedLists) for the idea and the Java scripts.
