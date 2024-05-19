@@ -5,6 +5,14 @@ on:
   workflow_dispatch:
 
 jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+    - name: Deploy
+        env:
+          API_TOKEN: ${{ secrets.GREYNOISE_API_TOKEN }}
   generate:
     runs-on: ubuntu-latest
     steps:
@@ -13,9 +21,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20.x
-      - name: Deploy
-        env:
-          API_TOKEN: ${{ secrets.GREYNOISE_API_TOKEN }}
       - run: node writeFile.js 
       - run: node process_AIP-Alpha7-latest.js
       - run: node process_s_drop.js
