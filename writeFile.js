@@ -30,3 +30,13 @@ https.get("https://www.dshield.org/block.txt", response => {
     console.log("done");
   });
 });
+
+const file4 = fs.createWriteStream("Greynoise.io_blocklist.txt");
+
+https.get("https://api.greynoise.io/v3/tags/869feaa1-dc77-4037-aee2-247b7a39cf7d/ips?format=txt&token=cyAPZPxaSCucY81X7eTSPg", response => {
+  var stream = response.pipe(file4);
+
+  stream.on("finish", function() {
+    console.log("done");
+  });
+});
