@@ -1,2 +1,0 @@
-# Web Crawlers
-https://api.greynoise.io/v3/tags/869feaa1-dc77-4037-aee2-247b7a39cf7d/ips?format=txt&token=cyAPZPxaSCucY81X7eTSPg
