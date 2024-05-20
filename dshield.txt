@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-05-20T07:00:26.688339
+#    updated: 2024-05-20T15:15:27.383287
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 62.122.184.0	62.122.184.255	24	912	CHANGWAY-AS	HK	noc@ameurotel.com
 172.233.25.0	172.233.25.255	24	900	AKAMAI-ASN1	NL	abuse@akamai.com
 176.111.174.0	176.111.174.255	24	895	CHANGWAY-AS	HK	noc@ameurotel.com
-79.124.49.0	79.124.49.255	24	883	TAMATIYA-AS	BG	noc@4vendeta.com
-64.62.197.0	64.62.197.255	24	854	HURRICANE	US	abuse@he.net
+79.124.49.0	79.124.49.255	24	884	TAMATIYA-AS	BG	noc@4vendeta.com
+64.62.197.0	64.62.197.255	24	855	HURRICANE	US	abuse@he.net
