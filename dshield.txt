@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-05-24T06:30:29.371022
+#    updated: 2024-05-24T16:00:30.786986
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -38,11 +38,11 @@
 176.111.174.0	176.111.174.255	24	1218	CHANGWAY-AS	HK	noc@ameurotel.com
 206.168.34.0	206.168.34.255	24	1196	-	-	-
 80.75.212.0	80.75.212.255	24	1022	-	-	-
-167.248.133.0	167.248.133.255	24	1007	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.255	24	1014	CENSYS-ARIN-01	US	None
 167.94.145.0	167.94.145.255	24	977	CENSYS-ARIN-02	US	None
-79.110.62.0	79.110.62.255	24	955	-	-	-
+79.110.62.0	79.110.62.255	24	956	-	-	-
 167.94.146.0	167.94.146.255	24	930	CENSYS-ARIN-02	US	None
 64.62.197.0	64.62.197.255	24	896	HURRICANE	US	abuse@he.net
+115.231.78.0	115.231.78.255	24	874	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 51.158.154.0	51.158.154.255	24	872	Online SAS	FR	abuse@proxad.net
-115.231.78.0	115.231.78.255	24	872	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-154.212.141.0	154.212.141.255	24	854	MULTA-ASN1	US	abuse@multacom.com
+154.212.141.0	154.212.141.255	24	855	MULTA-ASN1	US	abuse@multacom.com
