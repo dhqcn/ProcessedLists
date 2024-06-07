@@ -40,3 +40,13 @@ https.get("https://api.greynoise.io/v3/tags/869feaa1-dc77-4037-aee2-247b7a39cf7d
     console.log("done");
   });
 });
+
+const file5 = fs.createWriteStream("dropv6.txt");
+
+https.get("https://www.spamhaus.org/drop/dropv6.txt", response => {
+  var stream = response.pipe(file5);
+
+  stream.on("finish", function() {
+    console.log("done");
+  });
+});
