@@ -9,6 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: OTX_Georgs_Honeypot download
+        with: # Set the secret as an input
+          super_secret: ${{ secrets.OTXALIENVAULT_API_TOKEN }}
       - name: Use node20
         uses: actions/setup-node@v4
         with:
