@@ -18,5 +18,6 @@ jobs:
       - run: node process_s_drop.js
       - run: node process_s_dropv6.js
       - run: node process_dshield.js
+      - run: node process_OTX_Georgs_Honeypot.js
       - name: Commit & Push
         uses: actions-x/commit@v6
