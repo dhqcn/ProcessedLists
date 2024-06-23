@@ -53,7 +53,7 @@ https.get("https://www.spamhaus.org/drop/dropv6.txt", response => {
 const file6 = fs.createWriteStream("OTX_Georgs_Honeypot.csv");
 
 https.get("https://otx.alienvault.com/otxapi/pulses/606d75c11c08ff94089a9430/export/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlBldGVySHV5bmgiLCJ2YWx1ZSI6WyI2MDZkNzVjMTFjMDhmZjk0MDg5YTk0MzAiLCJjc3YiXSwiZXhwIjoxNzE5MjM2NjgzfQ.nJdbqjtQqoaxDjZ2c0ig2Jzo0PVrGPJkIdMJUBzPf0o&format=csv", response => {
-  var stream = response.pipe(file5);
+  var stream = response.pipe(file6);
 
   stream.on("finish", function() {
     console.log("done");
