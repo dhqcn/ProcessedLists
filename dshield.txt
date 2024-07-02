@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-07-02T06:00:24.768038
+#    updated: 2024-07-02T15:15:25.906035
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -37,12 +37,12 @@
 152.89.198.0	152.89.198.255	24	1018	CHANGWAY-AS	HK	noc@ameurotel.com
 172.232.206.0	172.232.206.255	24	1009	AKAMAI-ASN1	NL	abuse@akamai.com
 176.111.174.0	176.111.174.255	24	887	CHANGWAY-AS	HK	noc@ameurotel.com
-79.110.62.0	79.110.62.255	24	882	-	-	-
+79.110.62.0	79.110.62.255	24	883	-	-	-
 167.94.145.0	167.94.145.255	24	881	CENSYS-ARIN-02	US	None
-103.102.230.0	103.102.230.255	24	872	SKOALI	FR	>>UNKNOWN<<
-167.94.146.0	167.94.146.255	24	849	CENSYS-ARIN-02	US	None
-172.233.85.0	172.233.85.255	24	838	AKAMAI-ASN1	NL	abuse@akamai.com
-199.45.154.0	199.45.154.255	24	824	CENSYS-ARIN-03	US	None
+103.102.230.0	103.102.230.255	24	874	SKOALI	FR	>>UNKNOWN<<
+167.94.146.0	167.94.146.255	24	850	CENSYS-ARIN-02	US	None
+172.233.85.0	172.233.85.255	24	843	AKAMAI-ASN1	NL	abuse@akamai.com
+199.45.154.0	199.45.154.255	24	825	CENSYS-ARIN-03	US	None
 64.62.197.0	64.62.197.255	24	804	HURRICANE	US	abuse@he.net
 45.93.20.0	45.93.20.255	24	796	CHANGWAY-AS	HK	noc@ameurotel.com
-154.212.141.0	154.212.141.255	24	791	MULTA-ASN1	US	abuse@multacom.com
+154.212.141.0	154.212.141.255	24	793	MULTA-ASN1	US	abuse@multacom.com
