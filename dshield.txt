@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-07-24T07:00:28.376324
+#    updated: 2024-07-24T14:15:28.685485
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,10 +26,10 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-206.168.34.0	206.168.34.255	24	2200	-	-	-
-167.94.138.0	167.94.138.255	24	1822	CENSYS-ARIN-01	US	None
+206.168.34.0	206.168.34.255	24	2201	-	-	-
+167.94.138.0	167.94.138.255	24	1824	CENSYS-ARIN-01	US	None
 198.235.24.0	198.235.24.255	24	1608	GOOGLE-CLOUD-PLATFORM	US	None
-185.242.226.0	185.242.226.255	24	1549	AS49870-BV	NL	abuse@westcall.ru
+185.242.226.0	185.242.226.255	24	1550	AS49870-BV	NL	abuse@westcall.ru
 205.210.31.0	205.210.31.255	24	1512	GOOGLE-CLOUD-PLATFORM	US	None
 193.163.125.0	193.163.125.255	24	1441	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 147.185.132.0	147.185.132.255	24	1215	GOOGLE-CLOUD-PLATFORM	US	None
@@ -37,12 +37,12 @@
 79.110.62.0	79.110.62.255	24	1029	-	-	-
 167.94.146.0	167.94.146.255	24	997	CENSYS-ARIN-02	US	None
 103.102.230.0	103.102.230.255	24	982	SKOALI	FR	>>UNKNOWN<<
-199.45.154.0	199.45.154.255	24	979	CENSYS-ARIN-03	US	None
+199.45.154.0	199.45.154.255	24	980	CENSYS-ARIN-03	US	None
 45.128.232.0	45.128.232.255	24	900	AS-PFCLOUD	GB	tittuvi@gmail.com
-172.232.195.0	172.232.195.255	24	876	AKAMAI-ASN1	NL	abuse@akamai.com
+172.232.195.0	172.232.195.255	24	883	AKAMAI-ASN1	NL	abuse@akamai.com
 64.62.197.0	64.62.197.255	24	873	HURRICANE	US	abuse@he.net
 154.212.141.0	154.212.141.255	24	869	MULTA-ASN1	US	abuse@multacom.com
 185.224.128.0	185.224.128.255	24	828	AS49870-BV	NL	abuse@westcall.ru
 45.148.10.0	45.148.10.255	24	816	PPTECHNOLOGY	GB	abuse@vegatele.com
 89.248.163.0	89.248.163.255	24	803	INT-NETWORK	SC	abuse@ipvolume.net
-115.231.78.0	115.231.78.255	24	756	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+115.231.78.0	115.231.78.255	24	757	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
