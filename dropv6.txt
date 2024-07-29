@@ -1,7 +1,7 @@
-; Spamhaus IPv6 DROP List 2024/07/28 - (c) 2024 The Spamhaus Project SLU
+; Spamhaus IPv6 DROP List 2024/07/29 - (c) 2024 The Spamhaus Project SLU
 ; https://www.spamhaus.org/drop/dropv6.txt
 ; Last-Modified: Sun, 14 Jul 2024 16:38:01 GMT
-; Expires: Mon, 29 Jul 2024 00:43:36 GMT
+; Expires: Mon, 29 Jul 2024 08:43:36 GMT
 2001:678:6c4::/48 ; SBL626637
 2001:678:724::/48 ; SBL631364
 2001:678:738::/48 ; SBL635837
@@ -78,7 +78,6 @@
 2a13:ef45::/32 ; SBL639438
 2a14:7c0:1e00::/40 ; SBL643208
 2a14:7c0:3400::/38 ; SBL648398
-2a14:7c0:4c00::/40 ; SBL639167
 2a14:7c2::/32 ; SBL648565
 2a14:7c3::/32 ; SBL641930
 ; EOF
