@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-09-04T07:00:30.950257
+#    updated: 2024-09-04T14:00:32.223634
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,19 +27,19 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 95.214.27.0	95.214.27.255	24	1379	-	-	-
-206.168.34.0	206.168.34.255	24	1286	-	-	-
+206.168.34.0	206.168.34.255	24	1287	-	-	-
 198.235.24.0	198.235.24.255	24	1226	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	1184	GOOGLE-CLOUD-PLATFORM	US	None
-83.222.190.0	83.222.190.255	24	1110	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+83.222.190.0	83.222.190.255	24	1111	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 167.94.138.0	167.94.138.255	24	1091	CENSYS-ARIN-01	US	None
 185.242.226.0	185.242.226.255	24	1049	AS49870-BV	NL	abuse@westcall.ru
 193.163.125.0	193.163.125.255	24	1042	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-147.185.132.0	147.185.132.255	24	1030	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.132.0	147.185.132.255	24	1031	GOOGLE-CLOUD-PLATFORM	US	None
 79.110.62.0	79.110.62.255	24	1013	-	-	-
 154.213.184.0	154.213.184.255	24	1012	MULTA-ASN1	US	abuse@multacom.com
 185.224.128.0	185.224.128.255	24	881	AS49870-BV	NL	abuse@westcall.ru
 167.94.145.0	167.94.145.255	24	849	CENSYS-ARIN-02	US	None
-45.84.89.0	45.84.89.255	24	808	HUICAST_TELECOM	HK	ripe@newtonad.ro
+45.84.89.0	45.84.89.255	24	809	HUICAST_TELECOM	HK	ripe@newtonad.ro
 89.248.163.0	89.248.163.255	24	803	INT-NETWORK	SC	abuse@ipvolume.net
 193.41.206.0	193.41.206.255	24	774	-	-	-
 167.94.146.0	167.94.146.255	24	767	CENSYS-ARIN-02	US	None
