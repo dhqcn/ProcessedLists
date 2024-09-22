@@ -14,9 +14,9 @@ jobs:
         with:
           node-version: 20.x
       - run: node writeFile.js 
-      # run: node process_AIP-Alpha7-latest.js
       - run: node process_s_drop.js
       - run: node process_s_dropv6.js
       - run: node process_dshield.js
+      - run: node process_AIP-Alpha7-latest.js
       - name: Commit & Push
         uses: actions-x/commit@v6
