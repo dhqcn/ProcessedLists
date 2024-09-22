@@ -1,15 +1,5 @@
 const fs = require("fs");
 const https = require("https");
-#
-# const file = fs.createWriteStream("AIP-Alpha7-latest.csv");
-#
-# https.get("https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP-Alpha7-latest.csv", response => {
-#  var stream = response.pipe(file);
-#
-#  stream.on("finish", function() {
-#    console.log("done");
-#  });
-#});
 
 const file = fs.createWriteStream("drop.txt");
 
@@ -45,6 +35,16 @@ const file4 = fs.createWriteStream("dropv6.txt");
 
 https.get("https://www.spamhaus.org/drop/dropv6.txt", response => {
   var stream = response.pipe(file4);
+
+  stream.on("finish", function() {
+    console.log("done");
+  });
+});
+
+const file5 = fs.createWriteStream("AIP-Alpha7-latest.csv");
+
+https.get("https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP-Alpha7-latest.csv", response => {
+  var stream = response.pipe(file5);
 
   stream.on("finish", function() {
     console.log("done");
