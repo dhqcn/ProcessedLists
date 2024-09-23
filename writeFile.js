@@ -40,3 +40,13 @@ https.get("https://www.spamhaus.org/drop/dropv6.txt", response => {
     console.log("done");
   });
 });
+
+const file5 = fs.createWriteStream("processed_AIP-Alpha7-latest.txt");
+
+https.get("https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP-Alpha7-latest.csv", response => {
+  var stream = response.pipe(file5);
+
+  stream.on("finish", function() {
+    console.log("done");
+  });
+});
