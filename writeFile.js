@@ -41,7 +41,7 @@ https.get("https://www.spamhaus.org/drop/dropv6.txt", response => {
   });
 });
 
-const file5 = fs.createWriteStream("processed_AIP-Alpha7-latest.txt");
+const file5 = fs.createWriteStream("AIP-Alpha7-latest.csv");
 
 https.get("https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AIP-Alpha7-latest.csv", response => {
   var stream = response.pipe(file5);
