@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-10-01T08:00:39.772346
+#    updated: 2024-10-01T14:00:39.178911
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,10 +27,10 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 83.222.190.0	83.222.190.255	24	2749	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-83.222.191.0	83.222.191.255	24	2707	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+83.222.191.0	83.222.191.255	24	2712	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 5.188.206.0	5.188.206.255	24	2642	KREZ999AS	BG	abuse@fastvps.biz
 78.128.113.0	78.128.113.255	24	1779	MITI2000	BG	>>UNKNOWN<<
-45.84.89.0	45.84.89.255	24	1336	HUICAST_TELECOM	HK	ripe@newtonad.ro
+45.84.89.0	45.84.89.255	24	1337	HUICAST_TELECOM	HK	ripe@newtonad.ro
 185.242.226.0	185.242.226.255	24	1223	AS49870-BV	NL	abuse@westcall.ru
 185.224.128.0	185.224.128.255	24	1141	AS49870-BV	NL	abuse@westcall.ru
 95.214.27.0	95.214.27.255	24	1120	-	-	-
@@ -41,7 +41,7 @@
 167.94.138.0	167.94.138.255	24	990	CENSYS-ARIN-01	US	None
 154.213.184.0	154.213.184.255	24	970	MULTA-ASN1	US	abuse@multacom.com
 193.163.125.0	193.163.125.255	24	944	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-147.185.132.0	147.185.132.255	24	897	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.132.0	147.185.132.255	24	898	GOOGLE-CLOUD-PLATFORM	US	None
 141.98.11.0	141.98.11.255	24	871	HOSTBALTIC	LT	>>UNKNOWN<<
 91.191.209.0	91.191.209.255	24	864	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 167.94.145.0	167.94.145.255	24	823	CENSYS-ARIN-02	US	None
