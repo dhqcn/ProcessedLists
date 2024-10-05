@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-10-05T07:15:36.928550
+#    updated: 2024-10-05T14:30:39.111420
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,11 +26,11 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-83.222.190.0	83.222.190.255	24	2815	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+83.222.190.0	83.222.190.255	24	2816	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 83.222.191.0	83.222.191.255	24	2785	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 147.185.132.0	147.185.132.255	24	1341	GOOGLE-CLOUD-PLATFORM	US	None
 45.84.89.0	45.84.89.255	24	1309	HUICAST_TELECOM	HK	ripe@newtonad.ro
-35.203.210.0	35.203.210.255	24	1300	GOOGLE-CLOUD-PLATFORM	US	None
+35.203.210.0	35.203.210.255	24	1301	GOOGLE-CLOUD-PLATFORM	US	None
 147.185.133.0	147.185.133.255	24	1291	GOOGLE-CLOUD-PLATFORM	US	None
 35.203.211.0	35.203.211.255	24	1279	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.150.0	162.216.150.255	24	1271	GOOGLE	US	network-abuse@google.com
@@ -40,7 +40,7 @@
 103.102.230.0	103.102.230.255	24	1164	SKOALI	FR	>>UNKNOWN<<
 198.235.24.0	198.235.24.255	24	1160	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	1154	GOOGLE-CLOUD-PLATFORM	US	None
-167.94.138.0	167.94.138.255	24	1103	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	1104	CENSYS-ARIN-01	US	None
 95.214.27.0	95.214.27.255	24	1080	-	-	-
 154.213.184.0	154.213.184.255	24	1003	MULTA-ASN1	US	abuse@multacom.com
 193.163.125.0	193.163.125.255	24	892	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
