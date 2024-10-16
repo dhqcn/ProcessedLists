@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-10-16T07:45:34.469183
+#    updated: 2024-10-16T13:45:37.710679
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-206.168.34.0	206.168.34.255	24	1961	-	-	-
+206.168.34.0	206.168.34.255	24	1962	-	-	-
 45.84.89.0	45.84.89.255	24	1806	HUICAST_TELECOM	HK	ripe@newtonad.ro
 198.235.24.0	198.235.24.255	24	1586	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.138.0	167.94.138.255	24	1577	CENSYS-ARIN-01	US	None
@@ -38,11 +38,11 @@
 185.242.226.0	185.242.226.255	24	1421	AS49870-BV	NL	abuse@westcall.ru
 79.110.62.0	79.110.62.255	24	1408	-	-	-
 193.163.125.0	193.163.125.255	24	1372	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-147.185.132.0	147.185.132.255	24	1259	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.132.0	147.185.132.255	24	1261	GOOGLE-CLOUD-PLATFORM	US	None
 185.224.128.0	185.224.128.255	24	1230	AS49870-BV	NL	abuse@westcall.ru
 92.63.197.0	92.63.197.255	24	1108	TK-NET	SC	>>UNKNOWN<<
-80.75.212.0	80.75.212.255	24	1072	-	-	-
+80.75.212.0	80.75.212.255	24	1073	-	-	-
 193.41.206.0	193.41.206.255	24	1055	-	-	-
-167.94.145.0	167.94.145.255	24	1027	CENSYS-ARIN-02	US	None
-167.94.146.0	167.94.146.255	24	971	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.255	24	1028	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.255	24	972	CENSYS-ARIN-02	US	None
 83.222.191.0	83.222.191.255	24	960	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
