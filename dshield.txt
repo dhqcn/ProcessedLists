@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-10-26T07:30:41.171658
+#    updated: 2024-10-26T15:00:44.062406
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,11 +27,11 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 147.185.132.0	147.185.132.255	24	1823	GOOGLE-CLOUD-PLATFORM	US	None
-206.168.34.0	206.168.34.255	24	1777	-	-	-
+206.168.34.0	206.168.34.255	24	1778	-	-	-
 45.84.89.0	45.84.89.255	24	1750	HUICAST_TELECOM	HK	ripe@newtonad.ro
 147.185.133.0	147.185.133.255	24	1748	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.150.0	162.216.150.255	24	1748	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.255	24	1721	GOOGLE-CLOUD-PLATFORM	US	None
+35.203.210.0	35.203.210.255	24	1722	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.149.0	162.216.149.255	24	1697	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.255	24	1692	GOOGLE-CLOUD-PLATFORM	US	None
 79.110.62.0	79.110.62.255	24	1617	-	-	-
@@ -45,4 +45,4 @@
 185.224.128.0	185.224.128.255	24	1122	AS49870-BV	NL	abuse@westcall.ru
 80.75.212.0	80.75.212.255	24	1077	-	-	-
 193.41.206.0	193.41.206.255	24	1077	-	-	-
-167.94.145.0	167.94.145.255	24	1040	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.255	24	1042	CENSYS-ARIN-02	US	None
