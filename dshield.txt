@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-11-02T06:30:40.317439
+#    updated: 2024-11-02T13:45:42.277075
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -33,11 +33,11 @@
 119.188.247.0	119.188.247.255	24	1505	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
 120.220.44.0	120.220.44.255	24	1478	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
 119.188.246.0	119.188.246.255	24	1334	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
-45.125.45.0	45.125.45.255	24	1134	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
-206.168.34.0	206.168.34.255	24	1095	-	-	-
+45.125.45.0	45.125.45.255	24	1136	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
+206.168.34.0	206.168.34.255	24	1096	-	-	-
 147.185.133.0	147.185.133.255	24	941	GOOGLE-CLOUD-PLATFORM	US	None
 147.185.132.0	147.185.132.255	24	924	GOOGLE-CLOUD-PLATFORM	US	None
-45.84.89.0	45.84.89.255	24	921	HUICAST_TELECOM	HK	ripe@newtonad.ro
+45.84.89.0	45.84.89.255	24	922	HUICAST_TELECOM	HK	ripe@newtonad.ro
 167.94.138.0	167.94.138.255	24	920	CENSYS-ARIN-01	US	None
 35.203.211.0	35.203.211.255	24	910	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.150.0	162.216.150.255	24	909	GOOGLE	US	network-abuse@google.com
