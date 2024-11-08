@@ -1,7 +1,7 @@
-; Spamhaus DROP List 2024/11/07 - (c) 2024 The Spamhaus Project SLU
+; Spamhaus DROP List 2024/11/08 - (c) 2024 The Spamhaus Project SLU
 ; https://www.spamhaus.org/drop/drop.txt
 ; Last-Modified: Wed, 06 Nov 2024 11:12:55 GMT
-; Expires: Thu, 07 Nov 2024 14:11:09 GMT
+; Expires: Fri, 08 Nov 2024 01:41:09 GMT
 1.10.16.0/20
 1.19.0.0/16
 1.32.128.0/18
