@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-12-03T07:15:34.575967
+#    updated: 2024-12-03T15:30:38.459653
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-147.78.47.0	147.78.47.255	24	1520	FLYSERVERS-ASN	PA	>>UNKNOWN<<
+147.78.47.0	147.78.47.255	24	1521	FLYSERVERS-ASN	PA	>>UNKNOWN<<
 8.147.176.0	8.147.176.255	24	1132	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
 39.102.184.0	39.102.184.255	24	1101	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
 8.141.34.0	8.141.34.255	24	1074	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
@@ -37,11 +37,11 @@
 206.168.34.0	206.168.34.255	24	793	-	-	-
 185.242.226.0	185.242.226.255	24	782	AS49870-BV	NL	abuse@westcall.ru
 120.220.44.0	120.220.44.255	24	762	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
-79.110.62.0	79.110.62.255	24	736	-	-	-
-167.94.138.0	167.94.138.255	24	730	CENSYS-ARIN-01	US	None
+79.110.62.0	79.110.62.255	24	737	-	-	-
+167.94.138.0	167.94.138.255	24	732	CENSYS-ARIN-01	US	None
 119.188.240.0	119.188.240.255	24	702	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
-205.210.31.0	205.210.31.255	24	670	GOOGLE-CLOUD-PLATFORM	US	None
-198.235.24.0	198.235.24.255	24	659	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.255	24	672	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.255	24	660	GOOGLE-CLOUD-PLATFORM	US	None
 60.214.102.0	60.214.102.255	24	657	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
 193.163.125.0	193.163.125.255	24	656	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 147.185.132.0	147.185.132.255	24	620	GOOGLE-CLOUD-PLATFORM	US	None
