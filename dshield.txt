@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-12-04T10:15:35.346507
+#    updated: 2024-12-04T15:15:34.877842
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,7 +28,7 @@
 #     
 83.222.190.0	83.222.190.255	24	2491	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 83.222.191.0	83.222.191.255	24	2095	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-147.78.47.0	147.78.47.255	24	1704	FLYSERVERS-ASN	PA	>>UNKNOWN<<
+147.78.47.0	147.78.47.255	24	1705	FLYSERVERS-ASN	PA	>>UNKNOWN<<
 185.242.226.0	185.242.226.255	24	1123	AS49870-BV	NL	abuse@westcall.ru
 119.188.247.0	119.188.247.255	24	995	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
 119.188.245.0	119.188.245.255	24	974	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
@@ -38,11 +38,11 @@
 60.214.102.0	60.214.102.255	24	898	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
 120.220.44.0	120.220.44.255	24	882	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
 193.163.125.0	193.163.125.255	24	872	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-79.110.62.0	79.110.62.255	24	863	-	-	-
+79.110.62.0	79.110.62.255	24	864	-	-	-
 167.94.138.0	167.94.138.255	24	844	CENSYS-ARIN-01	US	None
 119.188.240.0	119.188.240.255	24	826	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
 206.168.34.0	206.168.34.255	24	825	-	-	-
-147.185.132.0	147.185.132.255	24	788	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.132.0	147.185.132.255	24	789	GOOGLE-CLOUD-PLATFORM	US	None
 95.214.27.0	95.214.27.255	24	727	-	-	-
 185.91.127.0	185.91.127.255	24	708	FERDINANDZINK	DE	abuse@vodafone.net.tr
 119.188.246.0	119.188.246.255	24	687	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
