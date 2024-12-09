@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-12-09T06:45:38.022815
+#    updated: 2024-12-09T13:45:41.013232
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -32,7 +32,7 @@
 111.180.204.0	111.180.204.255	24	868	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 111.180.202.0	111.180.202.255	24	850	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 1.95.249.0	1.95.249.255	24	848	HWCSNET Huawei Cloud Service data center	CN	ipas@cnnic.cn
-111.173.119.0	111.173.119.255	24	802	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+111.173.119.0	111.173.119.255	24	803	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 111.180.196.0	111.180.196.255	24	763	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 79.110.62.0	79.110.62.255	24	700	-	-	-
 206.168.34.0	206.168.34.255	24	678	-	-	-
@@ -44,5 +44,5 @@
 154.213.184.0	154.213.184.255	24	598	MULTA-ASN1	US	abuse@multacom.com
 198.235.24.0	198.235.24.255	24	568	GOOGLE-CLOUD-PLATFORM	US	None
 111.51.81.0	111.51.81.255	24	563	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
-147.185.133.0	147.185.133.255	24	558	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.133.0	147.185.133.255	24	559	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	554	GOOGLE-CLOUD-PLATFORM	US	None
