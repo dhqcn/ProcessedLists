@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-12-29T06:45:41.944121
+#    updated: 2024-12-29T15:00:44.231595
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,7 +29,7 @@
 91.191.209.0	91.191.209.255	24	2595	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 80.94.95.0	80.94.95.255	24	2518	SS-NET	BG	hostmaster@ssnet.eu
 79.124.49.0	79.124.49.255	24	2332	TAMATIYA-AS	BG	noc@4vendeta.com
-78.128.112.0	78.128.112.255	24	2145	AS_4MEDIA	BG	abuse@4media.bg
+78.128.112.0	78.128.112.255	24	2147	AS_4MEDIA	BG	abuse@4media.bg
 206.168.34.0	206.168.34.255	24	1415	-	-	-
 185.242.226.0	185.242.226.255	24	1301	AS49870-BV	NL	abuse@westcall.ru
 167.94.138.0	167.94.138.255	24	1240	CENSYS-ARIN-01	US	None
