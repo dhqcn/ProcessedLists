@@ -1,7 +1,7 @@
-; Spamhaus IPv6 DROP List 2024/12/25 - (c) 2024 The Spamhaus Project SLU
+; Spamhaus IPv6 DROP List 2024/12/29 - (c) 2024 The Spamhaus Project SLU
 ; https://www.spamhaus.org/drop/dropv6.txt
 ; Last-Modified: Sun, 08 Dec 2024 22:59:23 GMT
-; Expires: Wed, 25 Dec 2024 08:09:09 GMT
+; Expires: Sun, 29 Dec 2024 08:39:09 GMT
 2001:678:6c4::/48
 2001:678:724::/48
 2001:678:738::/48
