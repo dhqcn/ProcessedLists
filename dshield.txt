@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-01-13T07:00:39.335548
+#    updated: 2025-01-13T15:30:40.630993
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-194.180.49.0	194.180.49.255	24	2536	-	-	-
+194.180.49.0	194.180.49.255	24	2539	-	-	-
 185.224.3.0	185.224.3.255	24	2506	-	-	-
 91.191.209.0	91.191.209.255	24	2201	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 95.214.55.0	95.214.55.255	24	1547	MEVSPACE	PL	abuse@skynode.pl
@@ -38,11 +38,11 @@
 35.203.210.0	35.203.210.255	24	1216	GOOGLE-CLOUD-PLATFORM	US	None
 185.242.226.0	185.242.226.255	24	1216	AS49870-BV	NL	abuse@westcall.ru
 162.216.150.0	162.216.150.255	24	1205	GOOGLE	US	network-abuse@google.com
-193.163.125.0	193.163.125.255	24	1202	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.255	24	1203	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 162.216.149.0	162.216.149.255	24	1161	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.255	24	1157	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.255	24	1138	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.146.0	167.94.146.255	24	1074	CENSYS-ARIN-02	US	None
-45.142.193.0	45.142.193.255	24	1048	MAGHOST_	RO	office@magbross.ro
+45.142.193.0	45.142.193.255	24	1049	MAGHOST_	RO	office@magbross.ro
 205.210.31.0	205.210.31.255	24	1044	GOOGLE-CLOUD-PLATFORM	US	None
 193.41.206.0	193.41.206.255	24	921	-	-	-
