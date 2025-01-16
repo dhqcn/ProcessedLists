@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-01-16T07:45:34.333422
+#    updated: 2025-01-16T14:45:37.182228
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,7 +27,7 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 194.180.49.0	194.180.49.255	24	2217	-	-	-
-167.94.146.0	167.94.146.255	24	2210	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.255	24	2212	CENSYS-ARIN-02	US	None
 146.19.48.0	146.19.48.255	24	1831	SYNHDIGITAL SynhDigital	FR	>>UNKNOWN<<
 185.242.226.0	185.242.226.255	24	1499	AS49870-BV	NL	abuse@westcall.ru
 206.168.34.0	206.168.34.255	24	1419	-	-	-
@@ -42,7 +42,7 @@
 83.222.191.0	83.222.191.255	24	893	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 193.41.206.0	193.41.206.255	24	836	-	-	-
 64.62.197.0	64.62.197.255	24	835	HURRICANE	US	abuse@he.net
-167.94.145.0	167.94.145.255	24	798	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.255	24	799	CENSYS-ARIN-02	US	None
 92.255.57.0	92.255.57.255	24	753	LD007-AS	HK	dl@hostway.ru
 199.45.154.0	199.45.154.255	24	750	CENSYS-ARIN-03	US	None
 154.213.184.0	154.213.184.255	24	749	MULTA-ASN1	US	abuse@multacom.com
