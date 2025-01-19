@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-01-19T08:00:24.789105
+#    updated: 2025-01-19T15:00:26.154829
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,7 +29,7 @@
 194.180.49.0	194.180.49.255	24	2367	-	-	-
 89.248.165.0	89.248.165.255	24	2166	INT-NETWORK	SC	abuse@ipvolume.net
 167.94.146.0	167.94.146.255	24	2070	CENSYS-ARIN-02	US	None
-89.248.163.0	89.248.163.255	24	1515	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.255	24	1516	INT-NETWORK	SC	abuse@ipvolume.net
 206.168.34.0	206.168.34.255	24	1298	-	-	-
 147.185.132.0	147.185.132.255	24	1232	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.138.0	167.94.138.255	24	1231	CENSYS-ARIN-01	US	None
@@ -43,6 +43,6 @@
 103.102.230.0	103.102.230.255	24	1097	SKOALI	FR	>>UNKNOWN<<
 198.235.24.0	198.235.24.255	24	1052	GOOGLE-CLOUD-PLATFORM	US	None
 95.214.55.0	95.214.55.255	24	1036	MEVSPACE	PL	abuse@skynode.pl
-45.142.193.0	45.142.193.255	24	1019	MAGHOST_	RO	office@magbross.ro
+45.142.193.0	45.142.193.255	24	1020	MAGHOST_	RO	office@magbross.ro
 205.210.31.0	205.210.31.255	24	980	GOOGLE-CLOUD-PLATFORM	US	None
-64.62.197.0	64.62.197.255	24	850	HURRICANE	US	abuse@he.net
+178.215.238.0	178.215.238.255	24	851	-	-	-
