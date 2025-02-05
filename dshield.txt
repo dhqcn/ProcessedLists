@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-02-04T16:00:42.086465
+#    updated: 2025-02-05T00:00:42.790893
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,7 +29,7 @@
 194.180.49.0	194.180.49.255	24	2497	-	-	-
 45.144.212.0	45.144.212.255	24	2204	BURSABIL	TR	abuse@bursabil.com.tr
 185.242.226.0	185.242.226.255	24	1648	AS49870-BV	NL	abuse@westcall.ru
-204.76.203.0	204.76.203.255	24	1451	INTELLIGENCE-ATOM-HOSTING	KN	None
+204.76.203.0	204.76.203.255	24	1452	INTELLIGENCE-ATOM-HOSTING	KN	None
 206.168.34.0	206.168.34.255	24	1438	-	-	-
 167.94.138.0	167.94.138.255	24	1349	CENSYS-ARIN-01	US	None
 193.163.125.0	193.163.125.255	24	1329	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
