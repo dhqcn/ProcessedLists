@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-02-21T15:15:41.465580
+#    updated: 2025-02-22T00:00:41.768163
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -32,7 +32,7 @@
 35.203.211.0	35.203.211.255	24	1069	GOOGLE-CLOUD-PLATFORM	US	None
 35.203.210.0	35.203.210.255	24	1058	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.149.0	162.216.149.255	24	1051	GOOGLE	US	network-abuse@google.com
-147.185.132.0	147.185.132.255	24	1023	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.132.0	147.185.132.255	24	1024	GOOGLE-CLOUD-PLATFORM	US	None
 193.68.89.0	193.68.89.255	24	1008	VERSIA	LV	abuse@vernet.lv
 206.168.34.0	206.168.34.255	24	926	-	-	-
 185.242.226.0	185.242.226.255	24	918	AS49870-BV	NL	abuse@westcall.ru
@@ -45,4 +45,4 @@
 109.236.61.0	109.236.61.255	24	715	-	-	-
 204.76.203.0	204.76.203.255	24	689	INTELLIGENCE-ATOM-HOSTING	KN	None
 57.129.64.0	57.129.64.255	24	676	OVH	FR	abuse@ovh.net
-45.148.10.0	45.148.10.255	24	674	PPTECHNOLOGY	GB	abuse@vegatele.com
+45.148.10.0	45.148.10.255	24	675	PPTECHNOLOGY	GB	abuse@vegatele.com
