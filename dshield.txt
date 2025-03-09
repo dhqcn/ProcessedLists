@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-03-09T06:15:34.088539
+#    updated: 2025-03-09T15:30:34.583077
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,10 +26,10 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-104.156.155.0	104.156.155.255	24	2249	HAWAIIRESEARCH	US	None
+104.156.155.0	104.156.155.255	24	2251	HAWAIIRESEARCH	US	None
 194.180.49.0	194.180.49.255	24	2097	-	-	-
 45.139.104.0	45.139.104.255	24	1497	-	-	-
-206.168.34.0	206.168.34.255	24	1493	-	-	-
+206.168.34.0	206.168.34.255	24	1494	-	-	-
 147.185.132.0	147.185.132.255	24	1369	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.138.0	167.94.138.255	24	1359	CENSYS-ARIN-01	US	None
 147.185.133.0	147.185.133.255	24	1271	GOOGLE-CLOUD-PLATFORM	US	None
