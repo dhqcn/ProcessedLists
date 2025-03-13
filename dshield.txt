@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-03-13T06:45:33.539249
+#    updated: 2025-03-13T14:15:33.908869
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,13 +26,13 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-45.142.193.0	45.142.193.255	24	2368	MAGHOST_	RO	office@magbross.ro
+45.142.193.0	45.142.193.255	24	2369	MAGHOST_	RO	office@magbross.ro
 194.180.49.0	194.180.49.255	24	1820	-	-	-
 103.102.230.0	103.102.230.255	24	1295	SKOALI	FR	>>UNKNOWN<<
 206.168.34.0	206.168.34.255	24	1292	-	-	-
 57.129.64.0	57.129.64.255	24	1272	OVH	FR	abuse@ovh.net
 193.163.125.0	193.163.125.255	24	1256	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-167.94.138.0	167.94.138.255	24	1254	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	1255	CENSYS-ARIN-01	US	None
 185.242.226.0	185.242.226.255	24	1242	AS49870-BV	NL	abuse@westcall.ru
 89.248.165.0	89.248.165.255	24	1205	INT-NETWORK	SC	abuse@ipvolume.net
 198.235.24.0	198.235.24.255	24	1199	GOOGLE-CLOUD-PLATFORM	US	None
@@ -42,7 +42,7 @@
 204.76.203.0	204.76.203.255	24	1100	INTELLIGENCE-ATOM-HOSTING	KN	None
 147.185.132.0	147.185.132.255	24	1052	GOOGLE-CLOUD-PLATFORM	US	None
 141.11.104.0	141.11.104.255	24	991	PATH-NETWORK	US	None
-185.91.127.0	185.91.127.255	24	928	FERDINANDZINK	DE	abuse@vodafone.net.tr
+185.91.127.0	185.91.127.255	24	930	FERDINANDZINK	DE	abuse@vodafone.net.tr
 195.184.76.0	195.184.76.255	24	917	EAJ-GLOBAL	GB	>>UNKNOWN<<
 193.41.206.0	193.41.206.255	24	912	-	-	-
 64.62.197.0	64.62.197.255	24	900	HURRICANE	US	abuse@he.net
