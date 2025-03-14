@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-03-14T06:45:46.543458
+#    updated: 2025-03-14T15:00:49.965776
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,12 +27,12 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 45.142.193.0	45.142.193.255	24	2743	MAGHOST_	RO	office@magbross.ro
-162.216.150.0	162.216.150.255	24	1205	GOOGLE	US	network-abuse@google.com
-162.216.149.0	162.216.149.255	24	1199	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.255	24	1206	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.255	24	1200	GOOGLE	US	network-abuse@google.com
 147.185.133.0	147.185.133.255	24	1189	GOOGLE-CLOUD-PLATFORM	US	None
 35.203.210.0	35.203.210.255	24	1182	GOOGLE-CLOUD-PLATFORM	US	None
 35.203.211.0	35.203.211.255	24	1175	GOOGLE-CLOUD-PLATFORM	US	None
-147.185.132.0	147.185.132.255	24	1100	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.132.0	147.185.132.255	24	1101	GOOGLE-CLOUD-PLATFORM	US	None
 194.180.49.0	194.180.49.255	24	971	-	-	-
 206.168.34.0	206.168.34.255	24	940	-	-	-
 45.148.10.0	45.148.10.255	24	927	PPTECHNOLOGY	GB	abuse@vegatele.com
