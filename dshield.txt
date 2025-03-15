@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-03-15T06:45:44.172155
+#    updated: 2025-03-15T15:00:47.364263
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -45,4 +45,4 @@
 83.222.191.0	83.222.191.255	24	784	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 204.76.203.0	204.76.203.255	24	781	INTELLIGENCE-ATOM-HOSTING	KN	None
 109.236.61.0	109.236.61.255	24	698	-	-	-
-185.242.226.0	185.242.226.255	24	694	AS49870-BV	NL	abuse@westcall.ru
+185.242.226.0	185.242.226.255	24	695	AS49870-BV	NL	abuse@westcall.ru
