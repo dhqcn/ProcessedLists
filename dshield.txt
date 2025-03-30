@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-03-30T07:00:33.497893
+#    updated: 2025-03-30T14:15:36.002173
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,7 +29,7 @@
 206.168.34.0	206.168.34.255	24	1143	-	-	-
 154.81.156.0	154.81.156.255	24	1094	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
 147.185.132.0	147.185.132.255	24	1005	GOOGLE-CLOUD-PLATFORM	US	None
-167.94.138.0	167.94.138.255	24	979	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	980	CENSYS-ARIN-01	US	None
 194.180.48.0	194.180.48.255	24	938	-	-	-
 162.216.150.0	162.216.150.255	24	869	GOOGLE	US	network-abuse@google.com
 120.220.44.0	120.220.44.255	24	868	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
@@ -41,8 +41,8 @@
 147.185.133.0	147.185.133.255	24	844	GOOGLE-CLOUD-PLATFORM	US	None
 57.129.64.0	57.129.64.255	24	835	OVH	FR	abuse@ovh.net
 162.216.149.0	162.216.149.255	24	835	GOOGLE	US	network-abuse@google.com
-45.82.78.0	45.82.78.255	24	821	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
-45.148.10.0	45.148.10.255	24	817	PPTECHNOLOGY	GB	abuse@vegatele.com
+45.82.78.0	45.82.78.255	24	822	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
+45.148.10.0	45.148.10.255	24	819	PPTECHNOLOGY	GB	abuse@vegatele.com
 198.235.24.0	198.235.24.255	24	781	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	776	GOOGLE-CLOUD-PLATFORM	US	None
 185.242.226.0	185.242.226.255	24	760	AS49870-BV	NL	abuse@westcall.ru
