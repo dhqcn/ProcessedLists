@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-04-02T15:00:43.514446
+#    updated: 2025-04-02T23:00:43.142882
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,7 +30,7 @@
 103.23.244.0	103.23.244.255	24	1352	UPI-AS-ID Universitas Pendidikan Indonesia	ID	munir@upi.edu
 154.81.156.0	154.81.156.255	24	1346	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
 206.168.34.0	206.168.34.255	24	1314	-	-	-
-198.235.24.0	198.235.24.255	24	1230	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.255	24	1231	GOOGLE-CLOUD-PLATFORM	US	None
 57.129.64.0	57.129.64.255	24	1188	OVH	FR	abuse@ovh.net
 167.94.138.0	167.94.138.255	24	1168	CENSYS-ARIN-01	US	None
 205.210.31.0	205.210.31.255	24	1159	GOOGLE-CLOUD-PLATFORM	US	None
@@ -40,7 +40,7 @@
 45.9.120.0	45.9.120.255	24	1047	VELIANET-AS velia.net Internetdienste GmbH	DE	abuse@velia.net
 195.178.110.0	195.178.110.255	24	1009	DATAFOREST	DE	abuse@timeweb.ru
 147.185.132.0	147.185.132.255	24	952	GOOGLE-CLOUD-PLATFORM	US	None
-195.184.76.0	195.184.76.255	24	932	EAJ-GLOBAL	GB	>>UNKNOWN<<
+195.184.76.0	195.184.76.255	24	934	EAJ-GLOBAL	GB	>>UNKNOWN<<
 45.148.10.0	45.148.10.255	24	928	PPTECHNOLOGY	GB	abuse@vegatele.com
 170.39.218.0	170.39.218.255	24	916	BULLIONET	FR	abuse@lineacom.it
 185.242.226.0	185.242.226.255	24	880	AS49870-BV	NL	abuse@westcall.ru
