@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-04-04T07:45:43.364253
+#    updated: 2025-04-04T15:00:45.463742
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,8 +30,8 @@
 162.216.150.0	162.216.150.255	24	1679	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.255	24	1643	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.255	24	1642	GOOGLE-CLOUD-PLATFORM	US	None
-35.203.211.0	35.203.211.255	24	1609	GOOGLE-CLOUD-PLATFORM	US	None
-194.180.48.0	194.180.48.255	24	1517	-	-	-
+35.203.211.0	35.203.211.255	24	1610	GOOGLE-CLOUD-PLATFORM	US	None
+194.180.48.0	194.180.48.255	24	1521	-	-	-
 147.185.132.0	147.185.132.255	24	1503	GOOGLE-CLOUD-PLATFORM	US	None
 154.81.156.0	154.81.156.255	24	1360	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
 57.129.64.0	57.129.64.255	24	1280	OVH	FR	abuse@ovh.net
@@ -43,6 +43,6 @@
 205.210.31.0	205.210.31.255	24	1036	GOOGLE-CLOUD-PLATFORM	US	None
 170.39.218.0	170.39.218.255	24	1007	BULLIONET	FR	abuse@lineacom.it
 103.102.230.0	103.102.230.255	24	930	SKOALI	FR	>>UNKNOWN<<
-91.196.152.0	91.196.152.255	24	917	ATT-INTERNET4	US	abuse@att.net
+91.196.152.0	91.196.152.255	24	918	ATT-INTERNET4	US	abuse@att.net
 64.62.156.0	64.62.156.255	24	877	HURRICANE	US	abuse@he.net
 185.91.127.0	185.91.127.255	24	868	FERDINANDZINK	DE	abuse@vodafone.net.tr
