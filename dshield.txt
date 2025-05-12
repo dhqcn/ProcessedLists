@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-05-12T06:15:32.594535
+#    updated: 2025-05-12T15:00:33.729127
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,14 +27,14 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 83.222.191.0	83.222.191.255	24	2455	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-208.87.242.0	208.87.242.255	24	2427	AS40676	US	noc@psychz.net
+208.87.242.0	208.87.242.255	24	2428	AS40676	US	noc@psychz.net
 208.87.243.0	208.87.243.255	24	2159	AS40676	US	noc@psychz.net
 104.255.152.0	104.255.152.255	24	2148	NETMINDERS	CA	dreckner@reckner.com
 108.181.24.0	108.181.24.255	24	1978	AS40676	US	noc@psychz.net
 104.156.155.0	104.156.155.255	24	1882	HAWAIIRESEARCH	US	None
 199.19.95.0	199.19.95.255	24	1454	NETMINDERS	CA	dreckner@reckner.com
 206.168.34.0	206.168.34.255	24	1068	-	-	-
-167.94.138.0	167.94.138.255	24	978	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	979	CENSYS-ARIN-01	US	None
 147.185.132.0	147.185.132.255	24	902	GOOGLE-CLOUD-PLATFORM	US	None
 57.129.64.0	57.129.64.255	24	898	OVH	FR	abuse@ovh.net
 193.163.125.0	193.163.125.255	24	852	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
@@ -44,5 +44,5 @@
 154.81.156.0	154.81.156.255	24	807	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
 147.185.133.0	147.185.133.255	24	790	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	790	GOOGLE-CLOUD-PLATFORM	US	None
-89.248.163.0	89.248.163.255	24	776	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.255	24	777	INT-NETWORK	SC	abuse@ipvolume.net
 35.203.211.0	35.203.211.255	24	773	GOOGLE-CLOUD-PLATFORM	US	None
