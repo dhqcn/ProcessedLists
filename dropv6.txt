@@ -1,7 +1,7 @@
 ; Spamhaus IPv6 DROP List 2025/05/18 - (c) 2025 The Spamhaus Project SLU
 ; https://www.spamhaus.org/drop/dropv6.txt
 ; Last-Modified: Fri, 16 May 2025 15:33:33 GMT
-; Expires: Sun, 18 May 2025 01:37:54 GMT
+; Expires: Sun, 18 May 2025 08:37:54 GMT
 2001:678:6c4::/48 ; SBL626637
 2001:678:724::/48 ; SBL631364
 2001:678:738::/48 ; SBL635837
