@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-05-24T06:30:37.023155
+#    updated: 2025-05-24T15:45:38.465795
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-65.49.1.0	65.49.1.255	24	401	HURRICANE	US	abuse@he.net
+65.49.1.0	65.49.1.255	24	402	HURRICANE	US	abuse@he.net
 204.76.203.0	204.76.203.255	24	399	INTELLIGENCE-ATOM-HOSTING	KN	None
 198.235.24.0	198.235.24.255	24	396	GOOGLE-CLOUD-PLATFORM	US	None
 147.185.132.0	147.185.132.255	24	395	GOOGLE-CLOUD-PLATFORM	US	None
@@ -37,12 +37,12 @@
 199.45.154.0	199.45.154.255	24	390	CENSYS-ARIN-03	US	None
 193.163.125.0	193.163.125.255	24	389	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 205.210.31.0	205.210.31.255	24	388	GOOGLE-CLOUD-PLATFORM	US	None
+104.234.115.0	104.234.115.255	24	387	DAILY	TR	abuse@orbittelekom.com
+64.62.197.0	64.62.197.255	24	386	HURRICANE	US	abuse@he.net
 83.222.191.0	83.222.191.255	24	386	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-104.234.115.0	104.234.115.255	24	386	DAILY	TR	abuse@orbittelekom.com
+64.62.156.0	64.62.156.255	24	385	HURRICANE	US	abuse@he.net
 176.65.148.0	176.65.148.255	24	385	-	-	-
-64.62.156.0	64.62.156.255	24	384	HURRICANE	US	abuse@he.net
-64.62.197.0	64.62.197.255	24	384	HURRICANE	US	abuse@he.net
 195.82.147.0	195.82.147.255	24	381	-	-	-
 83.222.190.0	83.222.190.255	24	380	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+91.196.152.0	91.196.152.255	24	379	ATT-INTERNET4	US	abuse@att.net
 45.144.212.0	45.144.212.255	24	378	BURSABIL	TR	abuse@bursabil.com.tr
-91.196.152.0	91.196.152.255	24	378	ATT-INTERNET4	US	abuse@att.net
