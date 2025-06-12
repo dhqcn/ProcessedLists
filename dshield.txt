@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-06-12T06:00:30.037541
+#    updated: 2025-06-12T14:30:31.738936
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-64.62.197.0	64.62.197.255	24	408	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.255	24	409	HURRICANE	US	abuse@he.net
 88.218.193.0	88.218.193.255	24	404	XNNET	US	sysadmin@tandbergdata.com
 199.45.154.0	199.45.154.255	24	400	CENSYS-ARIN-03	US	None
 65.49.1.0	65.49.1.255	24	397	HURRICANE	US	abuse@he.net
-87.121.84.0	87.121.84.255	24	396	EPIKWIRE-NET	GB	>>UNKNOWN<<
+87.121.84.0	87.121.84.255	24	397	EPIKWIRE-NET	GB	>>UNKNOWN<<
+45.82.76.0	45.82.76.255	24	395	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 167.94.138.0	167.94.138.255	24	394	CENSYS-ARIN-01	US	None
 167.94.145.0	167.94.145.255	24	393	CENSYS-ARIN-02	US	None
 176.65.148.0	176.65.148.255	24	393	-	-	-
 147.185.132.0	147.185.132.255	24	392	GOOGLE-CLOUD-PLATFORM	US	None
+167.94.146.0	167.94.146.255	24	391	CENSYS-ARIN-02	US	None
 193.163.125.0	193.163.125.255	24	391	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-167.94.146.0	167.94.146.255	24	390	CENSYS-ARIN-02	US	None
 205.210.31.0	205.210.31.255	24	390	GOOGLE-CLOUD-PLATFORM	US	None
-45.82.76.0	45.82.76.255	24	388	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 185.242.226.0	185.242.226.255	24	388	AS49870-BV	NL	abuse@westcall.ru
 64.62.156.0	64.62.156.255	24	387	HURRICANE	US	abuse@he.net
+91.196.152.0	91.196.152.255	24	387	ATT-INTERNET4	US	abuse@att.net
 213.209.143.0	213.209.143.255	24	387	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-91.196.152.0	91.196.152.255	24	386	ATT-INTERNET4	US	abuse@att.net
 206.168.34.0	206.168.34.255	24	386	-	-	-
-144.172.114.0	144.172.114.255	24	379	-	-	-
+144.172.114.0	144.172.114.255	24	382	-	-	-
 195.82.147.0	195.82.147.255	24	379	-	-	-
