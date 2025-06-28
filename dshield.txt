@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-06-28T06:00:35.436683
+#    updated: 2025-06-28T14:30:38.489091
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-79.124.62.0	79.124.62.255	24	423	DM_AUTO	BG	abuse@dm-auto.eu
+79.124.62.0	79.124.62.255	24	424	DM_AUTO	BG	abuse@dm-auto.eu
 198.235.24.0	198.235.24.255	24	410	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.255	24	401	GOOGLE-CLOUD-PLATFORM	US	None
 147.185.132.0	147.185.132.255	24	400	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.255	24	400	GOOGLE-CLOUD-PLATFORM	US	None
-199.45.154.0	199.45.154.255	24	389	CENSYS-ARIN-03	US	None
-45.82.76.0	45.82.76.255	24	387	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
+199.45.154.0	199.45.154.255	24	390	CENSYS-ARIN-03	US	None
+45.82.76.0	45.82.76.255	24	389	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
+167.94.146.0	167.94.146.255	24	386	CENSYS-ARIN-02	US	None
+65.49.1.0	65.49.1.255	24	385	HURRICANE	US	abuse@he.net
 167.94.138.0	167.94.138.255	24	385	CENSYS-ARIN-01	US	None
-167.94.146.0	167.94.146.255	24	385	CENSYS-ARIN-02	US	None
 193.163.125.0	193.163.125.255	24	385	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-65.49.1.0	65.49.1.255	24	384	HURRICANE	US	abuse@he.net
 93.152.230.0	93.152.230.255	24	384	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 206.168.34.0	206.168.34.255	24	384	-	-	-
 167.94.145.0	167.94.145.255	24	383	CENSYS-ARIN-02	US	None
+108.165.153.0	108.165.153.255	24	382	STRTEC	US	abuse@strongtechnology.net
 176.65.148.0	176.65.148.255	24	382	-	-	-
 195.184.76.0	195.184.76.255	24	382	EAJ-GLOBAL	GB	>>UNKNOWN<<
+198.55.98.0	198.55.98.255	24	382	ASN-QUADRANET-GLOBAL	US	support@quadranet.com
 213.209.143.0	213.209.143.255	24	382	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-64.62.156.0	64.62.156.255	24	380	HURRICANE	US	abuse@he.net
-64.62.197.0	64.62.197.255	24	380	HURRICANE	US	abuse@he.net
-83.222.191.0	83.222.191.255	24	380	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-88.218.193.0	88.218.193.255	24	380	XNNET	US	sysadmin@tandbergdata.com
+64.62.197.0	64.62.197.255	24	381	HURRICANE	US	abuse@he.net
+88.218.193.0	88.218.193.255	24	381	XNNET	US	sysadmin@tandbergdata.com
