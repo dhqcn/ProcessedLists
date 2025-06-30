@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-06-30T07:00:34.837374
+#    updated: 2025-06-30T14:15:35.068181
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,10 +26,10 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-79.124.62.0	79.124.62.255	24	427	DM_AUTO	BG	abuse@dm-auto.eu
+79.124.62.0	79.124.62.255	24	429	DM_AUTO	BG	abuse@dm-auto.eu
 64.62.156.0	64.62.156.255	24	402	HURRICANE	US	abuse@he.net
 87.121.84.0	87.121.84.255	24	387	EPIKWIRE-NET	GB	>>UNKNOWN<<
-104.234.115.0	104.234.115.255	24	386	DAILY	TR	abuse@orbittelekom.com
+104.234.115.0	104.234.115.255	24	387	DAILY	TR	abuse@orbittelekom.com
 204.76.203.0	204.76.203.255	24	385	INTELLIGENCE-ATOM-HOSTING	KN	None
 167.94.138.0	167.94.138.255	24	384	CENSYS-ARIN-01	US	None
 193.163.125.0	193.163.125.255	24	382	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
@@ -38,11 +38,11 @@
 176.65.148.0	176.65.148.255	24	380	-	-	-
 185.242.226.0	185.242.226.255	24	379	AS49870-BV	NL	abuse@westcall.ru
 205.210.31.0	205.210.31.255	24	379	GOOGLE-CLOUD-PLATFORM	US	None
+45.82.76.0	45.82.76.255	24	376	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 198.235.24.0	198.235.24.255	24	376	GOOGLE-CLOUD-PLATFORM	US	None
 91.196.152.0	91.196.152.255	24	375	ATT-INTERNET4	US	abuse@att.net
 167.94.145.0	167.94.145.255	24	374	CENSYS-ARIN-02	US	None
 147.185.132.0	147.185.132.255	24	372	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.146.0	167.94.146.255	24	372	CENSYS-ARIN-02	US	None
 199.45.154.0	199.45.154.255	24	372	CENSYS-ARIN-03	US	None
-45.82.76.0	45.82.76.255	24	369	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
-83.222.191.0	83.222.191.255	24	368	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+88.218.193.0	88.218.193.255	24	369	XNNET	US	sysadmin@tandbergdata.com
