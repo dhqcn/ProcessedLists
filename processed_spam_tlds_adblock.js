@@ -1,25 +1,40 @@
 const fs = require('fs');
+const path = require('path');
 
-// Đọc nội dung từ file
-const inputPath = './spam-tlds-adblock.txt';
-const outputPath = './most_abused_TLDs_Hagezi_blocklist.txt';
+// Đường dẫn tới file tải lên
+const inputFile = path.join(__dirname, 'spam-tlds-adblock.txt');
+const outputFile = path.join(__dirname, 'most_abused_TLDs_Hagezi_blocklist.txt');
 
-const rawText = fs.readFileSync(inputPath, 'utf-8');
+// Đọc nội dung file
+let lines = fs.readFileSync(inputFile, 'utf-8').split('\n');
 
-// Thay thế từng dòng theo yêu cầu
-const transformed = rawText
-  .replace('[Adblock Plus]', 'server:')
-  .split('\n')
-  .map(line => {
-    if (line.startsWith('||')) {
-      return line
-        .replace(/^(\|\|)(.+)(\^)$/, 'local-zone: "$2." always_nxdomain');
-    }
-    return line;
-  })
-  .join('\n');
+// Xử lý từng dòng
+let outputLines = [];
 
-// Ghi nội dung đã chuyển đổi ra file mới
-fs.writeFileSync(outputPath, transformed, 'utf-8');
+for (let line of lines) {
+  line = line.trim();
 
-console.log(`✅ File created: ${outputPath}`);
+  // Bỏ qua dòng bắt đầu bằng "!"
+  if (line.startsWith('!') || line === '') continue;
+
+  // Thay dòng [Adblock Plus] bằng server:
+  if (line === '[Adblock Plus]') {
+    outputLines.push('server:');
+    continue;
+  }
+
+  // Thay dòng kiểu ||domain^
+  if (line.startsWith('||') && line.endsWith('^')) {
+    const domain = line.slice(2, -1); // bỏ "||" và "^"
+    outputLines.push(`local-zone: "${domain}." always_nxdomain`);
+    continue;
+  }
+
+  // Nếu không trùng điều kiện nào, giữ nguyên
+  outputLines.push(line);
+}
+
+// Ghi ra file kết quả
+fs.writeFileSync(outputFile, outputLines.join('\n'), 'utf-8');
+
+console.log(`✅ File đã được tạo: ${outputFile}`);
