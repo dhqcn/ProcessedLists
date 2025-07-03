@@ -1,0 +1,158 @@
+[Adblock Plus]
+! Title: HaGeZi's The World's Most Abused TLDs
+! Description: The Top Most Abused Top Level Domains. Only TLDs that do not have any exclusions!
+! Source: https://www.spamhaus.org/reputation-statistics/gtlds/domains/
+!         https://radar.cloudflare.com/email-security
+!         https://trends.netcraft.com/cybercrime/tlds
+!         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
+!         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+! Homepage: https://github.com/hagezi/dns-blocklists
+! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+! Issues: https://github.com/hagezi/dns-blocklists/issues
+! Expires: 1 day
+! Last modified: 02 Jul 2025 16:22 UTC
+! Version: 2025.0702.1622.19
+! Syntax: AdBlock
+! Number of latin TLDs: 141/270
+!
+||actor^
+||apartments^
+||auction^
+||autos^
+||baby^
+||band^
+||beauty^
+||beer^
+||bet^
+||bid^
+||bingo^
+||black^
+||blue^
+||boats^
+||bond^
+||boo^
+||boston^
+||boutique^
+||builders^
+||business^
+||cam^
+||cash^
+||casino^
+||ceo^
+||channel^
+||charity^
+||cheap^
+||christmas^
+||claims^
+||clothing^
+||college^
+||consulting^
+||coupons^
+||credit^
+||cymru^
+||dance^
+||day^
+||dental^
+||diy^
+||engineer^
+||enterprises^
+||esq^
+||exposed^
+||faith^
+||family^
+||fashion^
+||finance^
+||financial^
+||fishing^
+||forex^
+||forsale^
+||fund^
+||futbol^
+||gent^
+||gives^
+||giving^
+||golf^
+||gq^
+||gratis^
+||green^
+||hair^
+||haus^
+||international^
+||irish^
+||jewelry^
+||joburg^
+||kim^
+||lat^
+||lifestyle^
+||llc^
+||llp^
+||loan^
+||loans^
+||locker^
+||london^
+||love^
+||luxe^
+||management^
+||markets^
+||mba^
+||miami^
+||moda^
+||mom^
+||motorcycles^
+||navy^
+||non^
+||observer^
+||okinawa^
+||ong^
+||parts^
+||pink^
+||poker^
+||post^
+||promo^
+||qpon^
+||realtor^
+||realty^
+||recipes^
+||rehab^
+||ren^
+||repair^
+||restaurant^
+||review^
+||reviews^
+||rich^
+||rodeo^
+||rugby^
+||ryukyu^
+||sale^
+||sbs^
+||schule^
+||sew^
+||shopping^
+||soy^
+||sport^
+||srl^
+||sydney^
+||tattoo^
+||tax^
+||taxi^
+||tel^
+||tennis^
+||tienda^
+||tires^
+||tokyo^
+||town^
+||trading^
+||vacations^
+||vegas^
+||ventures^
+||vin^
+||vision^
+||vlaanderen^
+||voto^
+||wales^
+||wang^
+||webcam^
+||wedding^
+||xin^
+||yoga^
+||you^
