@@ -60,3 +60,13 @@ https.get("https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/
     console.log("done");
   });
 });
+
+const file7 = fs.createWriteStream("spam-tlds-adblock-allow.txt");
+
+https.get("https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/spam-tlds-adblock-allow.txt", response => {
+  var stream = response.pipe(file7);
+
+  stream.on("finish", function() {
+    console.log("done");
+  });
+});
