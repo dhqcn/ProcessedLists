@@ -2,7 +2,7 @@
 
 const fs = require("fs");
 const inputFile = "spam-tlds-adblock-allow.txt";
-const outputFile = "most_abused_TLDs_Hagezi_allowlist.txt";
+const outputFile = "most_abused_TLDs_Hagezi_allowlist.conf";
 
 // Đọc nội dung từ file gốc
 let lines = fs.readFileSync(inputFile, "utf-8").split("\n");
