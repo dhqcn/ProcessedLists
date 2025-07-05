@@ -11,6 +11,9 @@ let lines = fs.readFileSync(inputFile, 'utf-8').split('\n');
 // Xử lý từng dòng
 let outputLines = [];
 
+// Dòng đầu tiên luôn là comment yêu cầu
+outputLines.push("# Most Abused TLDs Hagezi's blocklist");
+
 for (let line of lines) {
   line = line.trim();
 
