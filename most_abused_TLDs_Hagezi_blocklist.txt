@@ -1,3 +1,4 @@
+# Most Abused TLDs Hagezi's blocklist
 server:
 local-zone: "actor." always_nxdomain
 local-zone: "apartments." always_nxdomain
@@ -56,7 +57,6 @@ local-zone: "gent." always_nxdomain
 local-zone: "gives." always_nxdomain
 local-zone: "giving." always_nxdomain
 local-zone: "golf." always_nxdomain
-local-zone: "gq." always_nxdomain
 local-zone: "gratis." always_nxdomain
 local-zone: "green." always_nxdomain
 local-zone: "hair." always_nxdomain
