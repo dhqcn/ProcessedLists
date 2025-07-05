@@ -3,7 +3,7 @@ const path = require('path');
 
 // Đường dẫn tới file tải lên
 const inputFile = path.join(__dirname, 'spam-tlds-adblock.txt');
-const outputFile = path.join(__dirname, 'most_abused_TLDs_Hagezi_blocklist.txt');
+const outputFile = path.join(__dirname, 'most_abused_TLDs_Hagezi_blocklist.conf');
 
 // Đọc nội dung file
 let lines = fs.readFileSync(inputFile, 'utf-8').split('\n');
