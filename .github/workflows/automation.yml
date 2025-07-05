@@ -19,5 +19,6 @@ jobs:
       - run: node process_dshield.js
       - run: node process_AIP-Alpha7-latest.js
       - run: node processed_spam_tlds_adblock.js
+      - run: node processed_spam_tlds_adblock_allow.js
       - name: Commit & Push
         uses: actions-x/commit@v6
