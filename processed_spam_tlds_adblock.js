@@ -1,14 +1,14 @@
 const fs = require('fs');
 
 // Đường dẫn file input và output
-const inputPath = 'spam-tlds-adblock-aggressive.txt';
+const inputPath = 'spam-tlds-adblock.txt';
 const outputPath = 'most_abused_TLDs_Hagezi_blocklist.conf';
 
 // Đọc file gốc
 let lines = fs.readFileSync(inputPath, 'utf8').split('\n');
 
 // Dòng đầu tiên theo yêu cầu
-let result = ['# Most Abused TLDs Hagezi\'s blocklist aggressive'];
+let result = ['# Most Abused TLDs Hagezi\'s blocklist'];
 
 let serverInserted = false;
 
