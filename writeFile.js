@@ -53,7 +53,7 @@ https.get("https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AI
 
 const file6 = fs.createWriteStream("spam-tlds-adblock.txt");
 
-https.get("https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock-aggressive.txt", response => {
+https.get("https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock.txt", response => {
   var stream = response.pipe(file6);
 
   stream.on("finish", function() {
