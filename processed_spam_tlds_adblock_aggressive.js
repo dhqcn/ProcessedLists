@@ -17,9 +17,12 @@ outputLines.push("# Most Abused TLDs Hagezi's blocklist");
 for (let line of lines) {
   line = line.trim();
 
-  // Bỏ qua dòng bắt đầu bằng "!"
-  if (line.startsWith('!') || line === '') continue;
-
+  // Thay dấu ! bằng dấu #
+  if (line === '!') {
+    outputLines.push('#');
+    continue;
+  }
+  
   // Thay dòng [Adblock Plus] bằng server:
   if (line === '[Adblock Plus]') {
     outputLines.push('server:');
