@@ -1,46 +1,49 @@
 const fs = require('fs');
-const path = require('path');
 
-// Đường dẫn tới file tải lên
-const inputFile = path.join(__dirname, 'spam-tlds-adblock-aggressive.txt');
-const outputFile = path.join(__dirname, 'most_abused_TLDs_Hagezi_blocklist_aggressive.conf');
+// Đường dẫn file input và output
+const inputPath = 'spam-tlds-adblock-aggressive.txt';
+const outputPath = 'most_abused_TLDs_Hagezi_blocklist_aggressive.conf';
 
-// Đọc nội dung file
-let lines = fs.readFileSync(inputFile, 'utf-8').split('\n');
+// Đọc file gốc
+let lines = fs.readFileSync(inputPath, 'utf8').split('\n');
 
-// Xử lý từng dòng
-let outputLines = [];
+// Dòng đầu tiên theo yêu cầu
+let result = ['# Most Abused TLDs Hagezi\'s blocklist aggressive'];
 
-// Dòng đầu tiên luôn là comment yêu cầu
-outputLines.push("# Most Abused TLDs Hagezi's blocklist");
+let serverInserted = false;
 
-for (let line of lines) {
-  line = line.trim();
+for (let i = 0; i < lines.length; i++) {
+    let line = lines[i];
 
-  // Thay dấu ! bằng dấu #
-  if (line === '!') {
-    outputLines.push('#');
-    continue;
-  }
-  
-  // Thay dòng [Adblock Plus] bằng server:
-  if (line === '[Adblock Plus]') {
-    outputLines.push('server:');
-    continue;
-  }
+    // Bỏ dòng chứa [Adblock Plus]
+    if (line.trim() === '[Adblock Plus]') continue;
 
-  // Thay dòng kiểu ||domain^
-  if (line.startsWith('||') && line.endsWith('^')) {
-    const domain = line.slice(2, -1); // bỏ "||" và "^"
-    outputLines.push(`local-zone: "${domain}." always_nxdomain`);
-    continue;
-  }
+    // Đổi dòng bắt đầu bằng "!" thành "#"
+    if (line.startsWith('!')) {
+        line = '#' + line.slice(1);
+    }
 
-  // Nếu không trùng điều kiện nào, giữ nguyên
-  outputLines.push(line);
+    // Khi gặp dòng bắt đầu bằng "||" lần đầu tiên
+    if (!serverInserted && line.startsWith('||')) {
+        // Tìm dòng cuối cùng bắt đầu bằng "#" để thay bằng "server:"
+        for (let j = result.length - 1; j >= 0; j--) {
+            if (result[j].startsWith('#')) {
+                result[j] = 'server:';
+                break;
+            }
+        }
+        serverInserted = true;
+    }
+
+    // Thay thế "||" => local-zone: " và "^" => ." always_nxdomain
+    if (line.startsWith('||')) {
+        line = line.replace('||', 'local-zone: "').replace('^', '." always_nxdomain');
+    }
+
+    result.push(line);
 }
 
-// Ghi ra file kết quả
-fs.writeFileSync(outputFile, outputLines.join('\n'), 'utf-8');
+// Ghi ra file mới
+fs.writeFileSync(outputPath, result.join('\n'), 'utf8');
 
-console.log(`✅ File đã được tạo: ${outputFile}`);
+console.log(`✅ File đã được chuyển đổi và lưu thành: ${outputPath}`);
