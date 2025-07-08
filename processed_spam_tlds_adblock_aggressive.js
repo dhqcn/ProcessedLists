@@ -2,7 +2,7 @@ const fs = require('fs');
 
 // Đường dẫn file input và output
 const inputPath = 'spam-tlds-adblock-aggressive.txt';
-const outputPath = 'most_abused_TLDs_Hagezi_blocklist_aggressive.conf';
+const outputPath = 'most_abused_TLDs_Hagezi_blocklist.conf';
 
 // Đọc file gốc
 let lines = fs.readFileSync(inputPath, 'utf8').split('\n');
