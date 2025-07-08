@@ -64,6 +64,7 @@
 @@||rapidcdn.cc^
 @@||shottr.cc^
 @@||vern.cc^
+@@||vocus.cc^
 @@||wallhaven.cc^
 @@||zcyph.cc^
 @@||priv.center^
