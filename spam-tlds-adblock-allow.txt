@@ -199,6 +199,7 @@
 @@||work.ink^
 @@||doctolib.legal^
 @@||wbs.legal^
+@@||lex.lgbt^
 @@||tech.lgbt^
 @@||2ch.life^
 @@||akamaicdn.life^
