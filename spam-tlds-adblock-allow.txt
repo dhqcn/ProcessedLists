@@ -142,6 +142,7 @@
 @@||jp.foundation^
 @@||player.foundation^
 @@||chinaq.fun^
+@@||patterncraft.fun^
 @@||strem.fun^
 @@||apollo.fyi^
 @@||better.fyi^
