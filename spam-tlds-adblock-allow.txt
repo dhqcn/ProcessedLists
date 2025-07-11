@@ -60,9 +60,12 @@
 @@||frontrow.cc^
 @@||is.cc^
 @@||lilygo.cc^
+@@||lurl.cc^
 @@||mydaddy.cc^
+@@||myppt.cc^
 @@||postimg.cc^
 @@||rapidcdn.cc^
+@@||rutracker.cc^
 @@||shottr.cc^
 @@||vern.cc^
 @@||vocus.cc^
