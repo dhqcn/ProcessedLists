@@ -207,7 +207,6 @@
 @@||lex.lgbt^
 @@||tech.lgbt^
 @@||2ch.life^
-@@||akamaicdn.life^
 @@||circles.life^
 @@||colorgame.life^
 @@||digitalcitizen.life^
@@ -341,7 +340,6 @@
 @@||insomnia.rest^
 @@||nect.rest^
 @@||highquality.rip^
-@@||medium.rip^
 @@||nest.rip^
 @@||scribe.rip^
 @@||canonn.science^
