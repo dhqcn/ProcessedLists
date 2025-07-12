@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-12T06:30:04.794271
+#    updated: 2025-07-12T11:30:05.148194
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -37,12 +37,12 @@
 185.200.118.0	185.200.118.255	24	101	M247	RO	abuse@m247.com
 104.234.115.0	104.234.115.255	24	101	DAILY	TR	abuse@orbittelekom.com
 20.65.194.0	20.65.194.255	24	100	MICROSOFT-CORP-MSN-AS-BLOCK	US	abuse@microsoft.com
+68.69.186.0	68.69.186.255	24	99	DEDIOUTLET-NETWORKS	US	None
 167.94.145.0	167.94.145.255	24	99	CENSYS-ARIN-02	US	None
 135.237.126.0	135.237.126.255	24	99	-	-	-
-68.69.186.0	68.69.186.255	24	99	DEDIOUTLET-NETWORKS	US	None
-185.200.116.0	185.200.116.255	24	98	M247	RO	abuse@m247.com
 146.88.240.0	146.88.240.255	24	98	ARBOR	US	hostmaster@arbor.net
+185.200.116.0	185.200.116.255	24	98	M247	RO	abuse@m247.com
 65.49.1.0	65.49.1.255	24	97	HURRICANE	US	abuse@he.net
+205.210.31.0	205.210.31.255	24	94	GOOGLE-CLOUD-PLATFORM	US	None
 20.163.15.0	20.163.15.255	24	94	MICROSOFT-CORP-MSN-AS-BLOCK	US	abuse@microsoft.com
 91.231.89.0	91.231.89.255	24	94	BHA	FR	abuse@bha-conseil.com
-205.210.31.0	205.210.31.255	24	94	GOOGLE-CLOUD-PLATFORM	US	None
