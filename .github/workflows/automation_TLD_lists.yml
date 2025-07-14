@@ -13,7 +13,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: latest
-      - run: node writeFile.js
       - run: node processed_spam_tlds_adblock.js
       - run: node processed_spam_tlds_adblock_aggressive.js
       - run: node processed_spam_tlds_adblock_allow.js
