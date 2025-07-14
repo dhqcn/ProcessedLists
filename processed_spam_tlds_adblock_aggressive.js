@@ -8,7 +8,7 @@ const outputPath = 'most_abused_TLDs_Hagezi_blocklist_aggressive.conf';
 let lines = fs.readFileSync(inputPath, 'utf8').split('\n');
 
 // Dòng đầu tiên theo yêu cầu
-let result = ['# Most Abused TLDs Hagezi\'s blocklist aggressive'];
+let result = ['# Most Abused TLDs Hagezi\'s blocklist - Aggressive'];
 
 let serverInserted = false;
 
