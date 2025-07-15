@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-15T07:00:38.567372
+#    updated: 2025-07-15T14:30:39.138847
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -31,9 +31,9 @@
 64.62.156.0	64.62.156.255	24	388	HURRICANE	US	abuse@he.net
 206.168.34.0	206.168.34.255	24	388	-	-	-
 205.210.31.0	205.210.31.255	24	387	GOOGLE-CLOUD-PLATFORM	US	None
+167.94.145.0	167.94.145.255	24	384	CENSYS-ARIN-02	US	None
 193.163.125.0	193.163.125.255	24	384	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 64.62.197.0	64.62.197.255	24	383	HURRICANE	US	abuse@he.net
-167.94.145.0	167.94.145.255	24	383	CENSYS-ARIN-02	US	None
 167.94.138.0	167.94.138.255	24	382	CENSYS-ARIN-01	US	None
 65.49.1.0	65.49.1.255	24	378	HURRICANE	US	abuse@he.net
 213.209.143.0	213.209.143.255	24	378	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
@@ -44,5 +44,5 @@
 87.121.84.0	87.121.84.255	24	370	EPIKWIRE-NET	GB	>>UNKNOWN<<
 199.45.154.0	199.45.154.255	24	370	CENSYS-ARIN-03	US	None
 204.76.203.0	204.76.203.255	24	367	INTELLIGENCE-ATOM-HOSTING	KN	None
+88.218.193.0	88.218.193.255	24	366	XNNET	US	sysadmin@tandbergdata.com
 104.234.115.0	104.234.115.255	24	366	DAILY	TR	abuse@orbittelekom.com
-88.218.193.0	88.218.193.255	24	365	XNNET	US	sysadmin@tandbergdata.com

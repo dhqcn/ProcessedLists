@@ -70,6 +70,7 @@
 @@||vern.cc^
 @@||vocus.cc^
 @@||wallhaven.cc^
+@@||yipee.cc^
 @@||zcyph.cc^
 @@||priv.center^
 @@||google.cf^
@@ -119,6 +120,7 @@
 @@||passkeys.directory^
 @@||reactnative.directory^
 @@||real.discount^
+@@||heika.dog^
 @@||telegram.dog^
 @@||caido.download^
 @@||mkvtoolnix.download^
@@ -152,6 +154,7 @@
 @@||better.fyi^
 @@||genderdysphoria.fyi^
 @@||iusearchlinux.fyi^
+@@||laelaps.fyi^
 @@||levels.fyi^
 @@||lunar.fyi^
 @@||recollect.fyi^
