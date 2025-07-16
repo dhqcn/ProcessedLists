@@ -13,7 +13,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: latest
-      - run: node writeFile.js 
+      - run: node write_file_IPs.js 
       - run: node process_s_drop.js
       - run: node process_s_dropv6.js
       - run: node process_dshield.js
