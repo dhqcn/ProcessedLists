@@ -50,33 +50,3 @@ https.get("https://mcfp.felk.cvut.cz/publicDatasets/CTU-AIPP-BlackList/Latest/AI
     console.log("done");
   });
 });
-
-const file6 = fs.createWriteStream("spam-tlds-adblock.txt");
-
-https.get("https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock.txt", response => {
-  var stream = response.pipe(file6);
-
-  stream.on("finish", function() {
-    console.log("done");
-  });
-});
-
-const file7 = fs.createWriteStream("spam-tlds-adblock-aggressive.txt");
-
-https.get("https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/spam-tlds-adblock-aggressive.txt", response => {
-  var stream = response.pipe(file7);
-
-  stream.on("finish", function() {
-    console.log("done");
-  });
-});
-
-const file8 = fs.createWriteStream("spam-tlds-adblock-allow.txt");
-
-https.get("https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/spam-tlds-adblock-allow.txt", response => {
-  var stream = response.pipe(file8);
-
-  stream.on("finish", function() {
-    console.log("done");
-  });
-});
