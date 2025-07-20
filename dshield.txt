@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-20T06:45:27.064961
+#    updated: 2025-07-20T14:00:28.896337
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,18 +26,18 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-79.124.62.0	79.124.62.255	24	453	DM_AUTO	BG	abuse@dm-auto.eu
-104.234.115.0	104.234.115.255	24	396	DAILY	TR	abuse@orbittelekom.com
+79.124.62.0	79.124.62.255	24	455	DM_AUTO	BG	abuse@dm-auto.eu
+104.234.115.0	104.234.115.255	24	397	DAILY	TR	abuse@orbittelekom.com
 147.185.132.0	147.185.132.255	24	396	GOOGLE-CLOUD-PLATFORM	US	None
 176.65.148.0	176.65.148.255	24	394	-	-	-
+206.168.34.0	206.168.34.255	24	393	-	-	-
 87.121.84.0	87.121.84.255	24	392	EPIKWIRE-NET	GB	>>UNKNOWN<<
 167.94.138.0	167.94.138.255	24	392	CENSYS-ARIN-01	US	None
 167.94.146.0	167.94.146.255	24	392	CENSYS-ARIN-02	US	None
-206.168.34.0	206.168.34.255	24	392	-	-	-
 204.76.203.0	204.76.203.255	24	390	INTELLIGENCE-ATOM-HOSTING	KN	None
 65.49.1.0	65.49.1.255	24	389	HURRICANE	US	abuse@he.net
 193.163.125.0	193.163.125.255	24	389	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-109.205.213.0	109.205.213.255	24	386	IS-AS-1	US	abusencc@interserver.net
+109.205.213.0	109.205.213.255	24	387	IS-AS-1	US	abusencc@interserver.net
 83.222.191.0	83.222.191.255	24	385	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 205.210.31.0	205.210.31.255	24	385	GOOGLE-CLOUD-PLATFORM	US	None
 64.62.156.0	64.62.156.255	24	384	HURRICANE	US	abuse@he.net
