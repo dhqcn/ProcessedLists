@@ -54,6 +54,7 @@
 @@||commonspirit.careers^
 @@||nabu.casa^
 @@||adguard-vpn.cc^
+@@||akami-solutions.cc^
 @@||arduino.cc^
 @@||coolkit.cc^
 @@||dict.cc^
