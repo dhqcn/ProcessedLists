@@ -270,6 +270,7 @@
 @@||prompt.ml^
 @@||aniya.moe^
 @@||catbox.moe^
+@@||cubari.moe^
 @@||ddlc.moe^
 @@||mathi.moe^
 @@||flowyour.money^
@@ -388,6 +389,7 @@
 @@||claude.site^
 @@||fbsmarthome.site^
 @@||gov-img.site^
+@@||heyflow.site^
 @@||i5i.site^
 @@||kaylees.site^
 @@||notion.site^
