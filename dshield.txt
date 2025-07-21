@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-21T05:30:42.301597
+#    updated: 2025-07-21T14:00:45.797036
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,12 +26,12 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-79.124.62.0	79.124.62.255	24	475	DM_AUTO	BG	abuse@dm-auto.eu
+79.124.62.0	79.124.62.255	24	477	DM_AUTO	BG	abuse@dm-auto.eu
 87.121.84.0	87.121.84.255	24	429	EPIKWIRE-NET	GB	>>UNKNOWN<<
-154.212.141.0	154.212.141.255	24	419	MULTA-ASN1	US	abuse@multacom.com
+154.212.141.0	154.212.141.255	24	420	MULTA-ASN1	US	abuse@multacom.com
 176.65.148.0	176.65.148.255	24	418	-	-	-
 91.196.152.0	91.196.152.255	24	413	ATT-INTERNET4	US	abuse@att.net
-104.234.115.0	104.234.115.255	24	411	DAILY	TR	abuse@orbittelekom.com
+104.234.115.0	104.234.115.255	24	412	DAILY	TR	abuse@orbittelekom.com
 167.94.138.0	167.94.138.255	24	408	CENSYS-ARIN-01	US	None
 206.168.34.0	206.168.34.255	24	408	-	-	-
 64.62.156.0	64.62.156.255	24	407	HURRICANE	US	abuse@he.net
@@ -44,5 +44,5 @@
 64.62.197.0	64.62.197.255	24	401	HURRICANE	US	abuse@he.net
 176.65.149.0	176.65.149.255	24	401	-	-	-
 93.152.230.0	93.152.230.255	24	400	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
-167.94.146.0	167.94.146.255	24	399	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.255	24	400	CENSYS-ARIN-02	US	None
 198.55.98.0	198.55.98.255	24	398	ASN-QUADRANET-GLOBAL	US	support@quadranet.com
