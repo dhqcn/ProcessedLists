@@ -49,6 +49,7 @@
 @@||wspay.biz^
 @@||wyborcza.biz^
 @@||yoox.biz^
+@@||spook.boo^
 @@||sideb.buzz^
 @@||scalable.capital^
 @@||commonspirit.careers^
@@ -406,6 +407,7 @@
 @@||optimizer.solar^
 @@||dragonscave.space^
 @@||drgns.space^
+@@||embed-player.space^
 @@||hf.space^
 @@||httpjames.space^
 @@||hullseals.space^
