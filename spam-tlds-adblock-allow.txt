@@ -12,12 +12,14 @@
 @@||autoads.asia^
 @@||bandainamcoent.asia^
 @@||dbankcloud.asia^
+@@||elgaucho.asia^
 @@||homelands.asia^
 @@||pansci.asia^
 @@||fap.bar^
 @@||strem.bar^
 @@||epg.best^
 @@||xhamster.best^
+@@||dat.bike^
 @@||lime.bike^
 @@||rapido.bike^
 @@||anonymurl.biz^
@@ -567,6 +569,7 @@
 @@||wiz.world^
 @@||akko.wtf^
 @@||cyber.wtf^
+@@||ip.wtf^
 @@||lemmy.wtf^
 @@||myip.wtf^
 @@||tigress.wtf^
