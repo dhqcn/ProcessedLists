@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-24T07:15:41.747599
+#    updated: 2025-07-24T14:45:44.562077
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,12 +26,12 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-79.124.62.0	79.124.62.255	24	484	DM_AUTO	BG	abuse@dm-auto.eu
+79.124.62.0	79.124.62.255	24	489	DM_AUTO	BG	abuse@dm-auto.eu
 167.94.138.0	167.94.138.255	24	415	CENSYS-ARIN-01	US	None
-93.152.230.0	93.152.230.255	24	410	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
+93.152.230.0	93.152.230.255	24	411	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 185.242.226.0	185.242.226.255	24	407	AS49870-BV	NL	abuse@westcall.ru
 87.121.84.0	87.121.84.255	24	405	EPIKWIRE-NET	GB	>>UNKNOWN<<
-167.94.145.0	167.94.145.255	24	404	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.255	24	405	CENSYS-ARIN-02	US	None
 91.196.152.0	91.196.152.255	24	403	ATT-INTERNET4	US	abuse@att.net
 64.62.156.0	64.62.156.255	24	401	HURRICANE	US	abuse@he.net
 176.65.148.0	176.65.148.255	24	400	-	-	-
@@ -41,8 +41,8 @@
 45.156.129.0	45.156.129.255	24	397	AS-BITSIGHT	PT	>>UNKNOWN<<
 147.185.132.0	147.185.132.255	24	397	GOOGLE-CLOUD-PLATFORM	US	None
 65.49.1.0	65.49.1.255	24	396	HURRICANE	US	abuse@he.net
+207.154.197.0	207.154.197.255	24	392	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
 64.62.197.0	64.62.197.255	24	391	HURRICANE	US	abuse@he.net
 45.156.128.0	45.156.128.255	24	390	AS-BITSIGHT	PT	>>UNKNOWN<<
 213.209.143.0	213.209.143.255	24	390	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 83.222.191.0	83.222.191.255	24	388	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-193.46.255.0	193.46.255.255	24	388	UNMANAGED-DEDICATED-SERVERS	GB	abuse@dedicated.net.ua
