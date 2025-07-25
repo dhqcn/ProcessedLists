@@ -118,6 +118,7 @@
 @@||gg.deals^
 @@||opf.degree^
 @@||three60.degree^
+@@||push.delivery^
 @@||return-my.delivery^
 @@||xhamster.desi^
 @@||2fa.directory^
@@ -325,6 +326,7 @@
 @@||rafael.phd^
 @@||faceapp.photo^
 @@||picsum.photos^
+@@||covet.pics^
 @@||pixers.pics^
 @@||sexhd.pics^
 @@||slow.pics^
