@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-27T06:00:48.370329
+#    updated: 2025-07-27T14:30:48.448654
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,16 +26,16 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-79.124.62.0	79.124.62.255	24	494	DM_AUTO	BG	abuse@dm-auto.eu
-93.152.230.0	93.152.230.255	24	418	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
-167.94.145.0	167.94.145.255	24	418	CENSYS-ARIN-02	US	None
+79.124.62.0	79.124.62.255	24	495	DM_AUTO	BG	abuse@dm-auto.eu
+93.152.230.0	93.152.230.255	24	419	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
+167.94.145.0	167.94.145.255	24	419	CENSYS-ARIN-02	US	None
 198.235.24.0	198.235.24.255	24	415	GOOGLE-CLOUD-PLATFORM	US	None
 213.209.143.0	213.209.143.255	24	413	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 205.210.31.0	205.210.31.255	24	411	GOOGLE-CLOUD-PLATFORM	US	None
 206.168.34.0	206.168.34.255	24	411	-	-	-
 176.65.148.0	176.65.148.255	24	410	-	-	-
 193.163.125.0	193.163.125.255	24	410	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-167.94.138.0	167.94.138.255	24	408	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	409	CENSYS-ARIN-01	US	None
 64.62.197.0	64.62.197.255	24	407	HURRICANE	US	abuse@he.net
 64.62.156.0	64.62.156.255	24	406	HURRICANE	US	abuse@he.net
 147.185.132.0	147.185.132.255	24	406	GOOGLE-CLOUD-PLATFORM	US	None
