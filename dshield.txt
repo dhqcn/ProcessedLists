@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-28T07:00:44.573106
+#    updated: 2025-07-28T14:15:48.065594
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,15 +28,15 @@
 #     
 167.94.138.0	167.94.138.255	24	409	CENSYS-ARIN-01	US	None
 176.65.148.0	176.65.148.255	24	409	-	-	-
-64.62.156.0	64.62.156.255	24	405	HURRICANE	US	abuse@he.net
+64.62.156.0	64.62.156.255	24	406	HURRICANE	US	abuse@he.net
 91.196.152.0	91.196.152.255	24	405	ATT-INTERNET4	US	abuse@att.net
 206.168.34.0	206.168.34.255	24	405	-	-	-
 199.45.154.0	199.45.154.255	24	404	CENSYS-ARIN-03	US	None
 45.194.66.0	45.194.66.255	24	403	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
+176.65.149.0	176.65.149.255	24	403	-	-	-
 64.62.197.0	64.62.197.255	24	402	HURRICANE	US	abuse@he.net
 65.49.1.0	65.49.1.255	24	402	HURRICANE	US	abuse@he.net
-176.65.149.0	176.65.149.255	24	402	-	-	-
-193.163.125.0	193.163.125.255	24	400	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.255	24	401	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 45.142.154.0	45.142.154.255	24	399	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 104.234.115.0	104.234.115.255	24	393	DAILY	TR	abuse@orbittelekom.com
 109.205.213.0	109.205.213.255	24	393	IS-AS-1	US	abusencc@interserver.net
