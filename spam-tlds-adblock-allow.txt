@@ -564,6 +564,7 @@
 @@||boo.world^
 @@||calckey.world^
 @@||camhub.world^
+@@||lemmings.world^
 @@||lemmy.world^
 @@||mastodon.world^
 @@||maxwellcat.world^
