@@ -293,6 +293,7 @@
 @@||peerflix.mov^
 @@||pstream.mov^
 @@||spankbang.mov^
+@@||google.com.my^
 @@||davidwalsh.name^
 @@||bolt.new^
 @@||doc.new^
@@ -384,6 +385,7 @@
 @@||music-merchant.shop^
 @@||nordland.shop^
 @@||owl-dampfer.shop^
+@@||prohibited.shop^
 @@||schweden.shop^
 @@||scorpions.shop^
 @@||sentry.shop^
@@ -466,6 +468,8 @@
 @@||ada.support^
 @@||jitsi.support^
 @@||s-wings.surf^
+@@||filemoon.sx^
+@@||voe.sx^
 @@||air.tk^
 @@||bstweaker.tk^
 @@||budterence.tk^
