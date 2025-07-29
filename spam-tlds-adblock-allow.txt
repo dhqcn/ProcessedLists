@@ -129,6 +129,7 @@
 @@||heika.dog^
 @@||telegram.dog^
 @@||caido.download^
+@@||kali.download^
 @@||mkvtoolnix.download^
 @@||up4ever.download^
 @@||upfiles.download^
@@ -399,6 +400,7 @@
 @@||additive-apps.site^
 @@||aftermath.site^
 @@||bio.site^
+@@||canva.site^
 @@||claude.site^
 @@||fbsmarthome.site^
 @@||gov-img.site^
