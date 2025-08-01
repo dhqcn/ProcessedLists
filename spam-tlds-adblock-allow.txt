@@ -351,6 +351,16 @@
 @@||infosec.pub^
 @@||static.pub^
 @@||wapo.pub^
+@@||buttercup.pw^
+@@||core.pw^
+@@||darkcrystal.pw^
+@@||dpc.pw^
+@@||gopass.pw^
+@@||palaugov.pw^
+@@||petridish.pw^
+@@||plutonium.pw^
+@@||xor.pw^
+@@||zok.pw^
 @@||dice.quest^
 @@||epochal.quest^
 @@||mhn.quest^
