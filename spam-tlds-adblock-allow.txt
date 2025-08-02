@@ -545,10 +545,12 @@
 @@||consumerrights.wiki^
 @@||cooked.wiki^
 @@||datei.wiki^
+@@||deltarune.wiki^
 @@||fallout.wiki^
 @@||getindie.wiki^
 @@||hacktricks.wiki^
 @@||hollowknight.wiki^
+@@||klingon.wiki^
 @@||kodi.wiki^
 @@||kometa.wiki^
 @@||libreelec.wiki^
@@ -556,6 +558,7 @@
 @@||mediaclients.wiki^
 @@||minecraft.wiki^
 @@||modding.wiki^
+@@||mtg.wiki^
 @@||namu.wiki^
 @@||nixos.wiki^
 @@||notifiarr.wiki^
@@ -567,8 +570,10 @@
 @@||tajrobe.wiki^
 @@||tardis.wiki^
 @@||thehomelab.wiki^
+@@||undertale.wiki^
 @@||usermanual.wiki^
 @@||w.wiki^
+@@||zeldawiki.wiki^
 @@||zeppelin.wiki^
 @@||activated.win^
 @@||communities.win^
