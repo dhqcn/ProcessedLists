@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-08-03T06:45:46.801805
+#    updated: 2025-08-03T15:00:50.278739
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,10 +30,10 @@
 93.152.230.0	93.152.230.255	24	410	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 213.209.143.0	213.209.143.255	24	408	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 206.168.34.0	206.168.34.255	24	405	-	-	-
-193.163.125.0	193.163.125.255	24	403	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-167.94.146.0	167.94.146.255	24	402	CENSYS-ARIN-02	US	None
-45.194.66.0	45.194.66.255	24	400	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
-167.94.138.0	167.94.138.255	24	400	CENSYS-ARIN-01	US	None
+193.163.125.0	193.163.125.255	24	404	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+167.94.146.0	167.94.146.255	24	403	CENSYS-ARIN-02	US	None
+45.194.66.0	45.194.66.255	24	401	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
+167.94.138.0	167.94.138.255	24	401	CENSYS-ARIN-01	US	None
 64.62.197.0	64.62.197.255	24	398	HURRICANE	US	abuse@he.net
 91.196.152.0	91.196.152.255	24	396	ATT-INTERNET4	US	abuse@att.net
 167.94.145.0	167.94.145.255	24	396	CENSYS-ARIN-02	US	None
