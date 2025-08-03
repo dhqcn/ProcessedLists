@@ -12,10 +12,12 @@
 @@||autoads.asia^
 @@||bandainamcoent.asia^
 @@||dbankcloud.asia^
+@@||disney.asia^
 @@||elgaucho.asia^
 @@||homelands.asia^
 @@||pansci.asia^
 @@||rainviewer.asia^
+@@||shopdisney.asia^
 @@||fap.bar^
 @@||strem.bar^
 @@||epg.best^
