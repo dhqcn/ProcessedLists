@@ -60,6 +60,7 @@
 @@||scalable.capital^
 @@||commonspirit.careers^
 @@||nabu.casa^
+@@||10gen.cc^
 @@||adguard-vpn.cc^
 @@||akami-solutions.cc^
 @@||arduino.cc^
@@ -175,6 +176,7 @@
 @@||mmo.ga^
 @@||crazypanda.games^
 @@||embark.games^
+@@||eneba.games^
 @@||gxcorner.games^
 @@||skystone.games^
 @@||cst.gdn^
