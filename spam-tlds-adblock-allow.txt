@@ -127,6 +127,7 @@
 @@||return-my.delivery^
 @@||xhamster.desi^
 @@||2fa.directory^
+@@||cursor.directory^
 @@||fedi.directory^
 @@||passkeys.directory^
 @@||reactnative.directory^
