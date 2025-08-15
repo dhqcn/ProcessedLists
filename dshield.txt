@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-08-15T07:15:38.140321
+#    updated: 2025-08-15T13:45:41.151795
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,8 +26,8 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-123.136.6.0	123.136.6.255	24	488	PEOPLESPHONE-HK China Mobile Hong Kong Company Limited	HK	abusehandler@hk.chinamobile.com
-64.62.197.0	64.62.197.255	24	399	HURRICANE	US	abuse@he.net
+123.136.6.0	123.136.6.255	24	489	PEOPLESPHONE-HK China Mobile Hong Kong Company Limited	HK	abusehandler@hk.chinamobile.com
+64.62.197.0	64.62.197.255	24	400	HURRICANE	US	abuse@he.net
 198.235.24.0	198.235.24.255	24	397	GOOGLE-CLOUD-PLATFORM	US	None
 64.62.156.0	64.62.156.255	24	395	HURRICANE	US	abuse@he.net
 193.163.125.0	193.163.125.255	24	395	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
@@ -35,14 +35,14 @@
 206.168.34.0	206.168.34.255	24	391	-	-	-
 167.94.138.0	167.94.138.255	24	390	CENSYS-ARIN-01	US	None
 104.234.115.0	104.234.115.255	24	388	DAILY	TR	abuse@orbittelekom.com
+45.82.76.0	45.82.76.255	24	384	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 176.65.149.0	176.65.149.255	24	384	-	-	-
 195.96.129.0	195.96.129.255	24	384	HALSERVICE	IT	pbelotti@halservice.it
-45.82.76.0	45.82.76.255	24	382	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
 93.152.230.0	93.152.230.255	24	382	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 195.184.76.0	195.184.76.255	24	382	EAJ-GLOBAL	GB	>>UNKNOWN<<
 45.156.128.0	45.156.128.255	24	381	AS-BITSIGHT	PT	>>UNKNOWN<<
 205.210.31.0	205.210.31.255	24	380	GOOGLE-CLOUD-PLATFORM	US	None
+45.156.87.0	45.156.87.255	24	379	SKYLINK	NL	marcel.vm@gmx.de
 147.185.132.0	147.185.132.255	24	379	GOOGLE-CLOUD-PLATFORM	US	None
 65.49.1.0	65.49.1.255	24	378	HURRICANE	US	abuse@he.net
 88.218.193.0	88.218.193.255	24	377	XNNET	US	sysadmin@tandbergdata.com
-204.76.203.0	204.76.203.255	24	377	INTELLIGENCE-ATOM-HOSTING	KN	None
