@@ -316,8 +316,6 @@
 @@||david.mov^
 @@||peerflix.mov^
 @@||pstream.mov^
-@@||edu.my^
-@@||google.com.my^
 @@||chris.boyle.name^
 @@||davidwalsh.name^
 @@||stefvanbuuren.name^
@@ -488,6 +486,7 @@
 @@||scurra.space^
 @@||searx.space^
 @@||takeb1nzyto.space^
+@@||telegram.space^
 @@||truepeople.space^
 @@||uexcorp.space^
 @@||adidashardware.store^
@@ -502,6 +501,7 @@
 @@||heavysaurus.store^
 @@||iqunix.store^
 @@||pbshop.store^
+@@||rokomari.store^
 @@||shoplazza.store^
 @@||stan.store^
 @@||tatemcraeeu.store^
@@ -562,6 +562,7 @@
 @@||dx.trade^
 @@||kite.trade^
 @@||hoes.tube^
+@@||neat.tube^
 @@||platform.uno^
 @@||18comic.vip^
 @@||liberta.vip^
