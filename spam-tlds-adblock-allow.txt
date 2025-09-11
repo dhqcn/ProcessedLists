@@ -441,6 +441,7 @@
 @@||majblomman.shop^
 @@||munu.shop^
 @@||music-merchant.shop^
+@@||nocut.shop^
 @@||nordland.shop^
 @@||owl-dampfer.shop^
 @@||prohibited.shop^
@@ -560,6 +561,7 @@
 @@||lemmy.today^
 @@||oldweb.today^
 @@||type.today^
+@@||tmaeno.tokyo^
 @@||ambr.top^
 @@||caitlin.top^
 @@||corriente.top^
@@ -662,6 +664,7 @@
 @@||wiz.world^
 @@||akko.wtf^
 @@||cyber.wtf^
+@@||fx.wtf^
 @@||ip.wtf^
 @@||lemmy.wtf^
 @@||myip.wtf^
