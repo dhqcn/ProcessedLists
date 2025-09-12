@@ -164,6 +164,7 @@
 @@||lemmy.fan^
 @@||os.fan^
 @@||haal.fashion^
+@@||xynth.finance^
 @@||appetit.fit^
 @@||clubb.fit^
 @@||justget.fit^
