@@ -478,7 +478,6 @@
 @@||wishonly.site^
 @@||wolow.site^
 @@||wpdns.site^
-@@||quermbbd.skin^
 @@||forecast.solar^
 @@||optimizer.solar^
 @@||dragonscave.space^
