@@ -344,6 +344,7 @@
 @@||poe.ninja^
 @@||protomedia.ninja^
 @@||gc.onl^
+@@||2kweb.online^
 @@||adguard-vpn.online^
 @@||argon2.online^
 @@||blink.online^
