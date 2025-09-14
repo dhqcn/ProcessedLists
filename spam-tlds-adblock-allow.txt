@@ -418,6 +418,7 @@
 @@||insomnia.rest^
 @@||nect.rest^
 @@||moyos.restaurant^
+@@||vecchioamore.restaurant^
 @@||highquality.rip^
 @@||medium.rip^
 @@||nest.rip^
