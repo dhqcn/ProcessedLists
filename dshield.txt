@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-09-13T23:45:33.780255
+#    updated: 2025-09-14T07:00:49.685381
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-123.136.6.0	123.136.6.255	24	435	PEOPLESPHONE-HK China Mobile Hong Kong Company Limited	HK	abusehandler@hk.chinamobile.com
-134.255.231.0	134.255.231.255	24	381	AUROLOGIC aurologic GmbH	DE	abuse@combahton.net
-167.94.146.0	167.94.146.255	24	362	CENSYS-ARIN-02	US	None
-64.62.156.0	64.62.156.255	24	361	HURRICANE	US	abuse@he.net
-206.168.34.0	206.168.34.255	24	360	-	-	-
-146.88.240.0	146.88.240.255	24	358	ARBOR	US	hostmaster@arbor.net
-216.180.246.0	216.180.246.255	24	357	NTHL	US	abuse@networktransit.net
-64.62.197.0	64.62.197.255	24	357	HURRICANE	US	abuse@he.net
-167.94.138.0	167.94.138.255	24	355	CENSYS-ARIN-01	US	None
-164.90.180.0	164.90.180.255	24	355	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
-79.124.49.0	79.124.49.255	24	353	TAMATIYA-AS	BG	noc@4vendeta.com
-93.152.230.0	93.152.230.255	24	352	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
-91.196.152.0	91.196.152.255	24	351	ATT-INTERNET4	US	abuse@att.net
-66.132.153.0	66.132.153.255	24	351	-	-	-
-193.163.125.0	193.163.125.255	24	351	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-147.185.132.0	147.185.132.255	24	351	GOOGLE-CLOUD-PLATFORM	US	None
-195.184.76.0	195.184.76.255	24	350	EAJ-GLOBAL	GB	>>UNKNOWN<<
-176.65.148.0	176.65.148.255	24	350	-	-	-
-146.88.241.0	146.88.241.255	24	350	ARBOR	US	hostmaster@arbor.net
-65.49.1.0	65.49.1.255	24	349	HURRICANE	US	abuse@he.net
+123.136.6.0	123.136.6.255	24	459	PEOPLESPHONE-HK China Mobile Hong Kong Company Limited	HK	abusehandler@hk.chinamobile.com
+134.255.231.0	134.255.231.255	24	402	AUROLOGIC aurologic GmbH	DE	abuse@combahton.net
+167.94.146.0	167.94.146.255	24	386	CENSYS-ARIN-02	US	None
+206.168.34.0	206.168.34.255	24	385	-	-	-
+167.94.138.0	167.94.138.255	24	382	CENSYS-ARIN-01	US	None
+64.62.156.0	64.62.156.255	24	381	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.255	24	381	HURRICANE	US	abuse@he.net
+216.180.246.0	216.180.246.255	24	380	NTHL	US	abuse@networktransit.net
+164.90.180.0	164.90.180.255	24	380	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
+147.185.132.0	147.185.132.255	24	379	GOOGLE-CLOUD-PLATFORM	US	None
+146.88.240.0	146.88.240.255	24	378	ARBOR	US	hostmaster@arbor.net
+91.196.152.0	91.196.152.255	24	376	ATT-INTERNET4	US	abuse@att.net
+193.163.125.0	193.163.125.255	24	376	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+79.124.49.0	79.124.49.255	24	376	TAMATIYA-AS	BG	noc@4vendeta.com
+66.132.153.0	66.132.153.255	24	375	-	-	-
+93.152.230.0	93.152.230.255	24	375	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
+195.184.76.0	195.184.76.255	24	373	EAJ-GLOBAL	GB	>>UNKNOWN<<
+65.49.1.0	65.49.1.255	24	373	HURRICANE	US	abuse@he.net
+176.65.148.0	176.65.148.255	24	373	-	-	-
+51.79.6.0	51.79.6.255	24	372	OVH	FR	abuse@ovh.net
