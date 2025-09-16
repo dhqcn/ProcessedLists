@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-09-16T08:00:51.972595
+#    updated: 2025-09-16T16:00:56.893972
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-123.136.6.0	123.136.6.255	24	461	PEOPLESPHONE-HK China Mobile Hong Kong Company Limited	HK	abusehandler@hk.chinamobile.com
+123.136.6.0	123.136.6.255	24	462	PEOPLESPHONE-HK China Mobile Hong Kong Company Limited	HK	abusehandler@hk.chinamobile.com
 65.49.1.0	65.49.1.255	24	399	HURRICANE	US	abuse@he.net
 198.235.24.0	198.235.24.255	24	394	GOOGLE-CLOUD-PLATFORM	US	None
 64.62.156.0	64.62.156.255	24	392	HURRICANE	US	abuse@he.net
-64.62.197.0	64.62.197.255	24	389	HURRICANE	US	abuse@he.net
 78.128.114.0	78.128.114.255	24	389	TAMATIYA-AS	BG	noc@4vendeta.com
-93.152.230.0	93.152.230.255	24	387	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
+64.62.197.0	64.62.197.255	24	389	HURRICANE	US	abuse@he.net
+93.152.230.0	93.152.230.255	24	388	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
 205.210.31.0	205.210.31.255	24	386	GOOGLE-CLOUD-PLATFORM	US	None
 185.242.226.0	185.242.226.255	24	384	AS49870-BV	NL	abuse@westcall.ru
+71.6.232.0	71.6.232.255	24	378	CARINET	US	complaints@cari.net
 193.163.125.0	193.163.125.255	24	378	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 167.94.138.0	167.94.138.255	24	378	CENSYS-ARIN-01	US	None
-71.6.232.0	71.6.232.255	24	378	CARINET	US	complaints@cari.net
+216.180.246.0	216.180.246.255	24	375	NTHL	US	abuse@networktransit.net
 146.88.240.0	146.88.240.255	24	375	ARBOR	US	hostmaster@arbor.net
-216.180.246.0	216.180.246.255	24	374	NTHL	US	abuse@networktransit.net
 87.120.191.0	87.120.191.255	24	373	SKATTV-AS	BG	abuse@neterra.net
 176.65.149.0	176.65.149.255	24	372	-	-	-
 207.90.244.0	207.90.244.255	24	372	COGENT-174	US	abuse@cogentco.com
-195.184.76.0	195.184.76.255	24	370	EAJ-GLOBAL	GB	>>UNKNOWN<<
+195.184.76.0	195.184.76.255	24	371	EAJ-GLOBAL	GB	>>UNKNOWN<<
 66.132.153.0	66.132.153.255	24	370	-	-	-
 199.45.154.0	199.45.154.255	24	368	CENSYS-ARIN-03	US	None
