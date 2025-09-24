@@ -1,7 +1,7 @@
 const fs = require("fs");
 const https = require("https");
 
-const file = fs.createWriteStream("NRD/nrd7_wildcard.txt");
+const file = fs.createWriteStream("nrd7_wildcard.txt");
 
 https.get("https://cebeerre.github.io/dnsblocklists/NRD/nrd7_asterisk.txt", response => {
   var stream = response.pipe(file);
