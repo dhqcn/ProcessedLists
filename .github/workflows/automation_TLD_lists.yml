@@ -1,4 +1,4 @@
-name: Processing_Hagezi_TLD_and_NRD_lists
+name: Processing_Hagezi_TLD_lists
 on:
   schedule:
     - cron: "0 0/12 * * *" # Runs every 12 hours (UTC)
@@ -14,7 +14,6 @@ jobs:
         with:
           node-version: latest
       - run: node write_file_TLDs.js
-      - run: node write_file_NRDs.js
       - run: node processed_spam_tlds_adblock.js
       - run: node processed_spam_tlds_adblock_aggressive.js
       - run: node processed_spam_tlds_adblock_allow.js
