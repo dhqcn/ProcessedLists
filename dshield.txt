@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-09-30T15:01:06.314848
+#    updated: 2025-10-01T00:01:08.753202
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -31,15 +31,15 @@
 65.49.1.0	65.49.1.255	24	368	HURRICANE	US	abuse@he.net
 71.6.232.0	71.6.232.255	24	367	CARINET	US	complaints@cari.net
 206.168.34.0	206.168.34.255	24	366	-	-	-
+66.132.153.0	66.132.153.255	24	366	-	-	-
 64.62.156.0	64.62.156.255	24	365	HURRICANE	US	abuse@he.net
-66.132.153.0	66.132.153.255	24	364	-	-	-
-193.163.125.0	193.163.125.255	24	363	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+78.128.114.0	78.128.114.255	24	364	TAMATIYA-AS	BG	noc@4vendeta.com
+167.94.145.0	167.94.145.255	24	364	CENSYS-ARIN-02	US	None
 167.94.146.0	167.94.146.255	24	363	CENSYS-ARIN-02	US	None
-167.94.145.0	167.94.145.255	24	363	CENSYS-ARIN-02	US	None
-78.128.114.0	78.128.114.255	24	363	TAMATIYA-AS	BG	noc@4vendeta.com
+193.163.125.0	193.163.125.255	24	363	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+167.94.138.0	167.94.138.255	24	362	CENSYS-ARIN-01	US	None
 87.120.191.0	87.120.191.255	24	361	SKATTV-AS	BG	abuse@neterra.net
 64.62.197.0	64.62.197.255	24	360	HURRICANE	US	abuse@he.net
-167.94.138.0	167.94.138.255	24	360	CENSYS-ARIN-01	US	None
 185.242.226.0	185.242.226.255	24	358	AS49870-BV	NL	abuse@westcall.ru
 123.136.6.0	123.136.6.255	24	357	PEOPLESPHONE-HK China Mobile Hong Kong Company Limited	HK	abusehandler@hk.chinamobile.com
 207.90.244.0	207.90.244.255	24	356	COGENT-174	US	abuse@cogentco.com
