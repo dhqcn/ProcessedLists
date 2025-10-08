@@ -553,6 +553,7 @@
 @@||firebase.studio^
 @@||flourish.studio^
 @@||starapps.studio^
+@@||woodsea.studio^
 @@||zenn.studio^
 @@||primer.style^
 @@||shiki.style^
