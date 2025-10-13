@@ -497,6 +497,7 @@
 @@||shopapps.site^
 @@||srht.site^
 @@||toast.site^
+@@||tst.site^
 @@||wishonly.site^
 @@||wolow.site^
 @@||wpdns.site^
