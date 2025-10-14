@@ -183,6 +183,7 @@
 @@||player.foundation^
 @@||cdn.fun^
 @@||chinaq.fun^
+@@||enza.fun^
 @@||neal.fun^
 @@||patterncraft.fun^
 @@||strem.fun^
@@ -321,6 +322,7 @@
 @@||trace.moe^
 @@||uma.moe^
 @@||flowyour.money^
+@@||super.money^
 @@||unstoppable.money^
 @@||usual.money^
 @@||vivid.money^
