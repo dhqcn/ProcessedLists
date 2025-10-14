@@ -82,6 +82,7 @@
 @@||postimg.cc^
 @@||ptt.cc^
 @@||rapidcdn.cc^
+@@||reurl.cc^
 @@||rutracker.cc^
 @@||shottr.cc^
 @@||ultra.cc^
@@ -314,6 +315,7 @@
 @@||anh.moe^
 @@||aniya.moe^
 @@||catbox.moe^
+@@||cdn.moe^
 @@||cubari.moe^
 @@||ddlc.moe^
 @@||honse.moe^
@@ -389,6 +391,7 @@
 @@||faceapp.photo^
 @@||glass.photo^
 @@||picsum.photos^
+@@||am-cdn.pics^
 @@||covet.pics^
 @@||pixers.pics^
 @@||sexhd.pics^
