@@ -90,6 +90,7 @@
 @@||vocus.cc^
 @@||wallhaven.cc^
 @@||yipee.cc^
+@@||yz168.cc^
 @@||zcyph.cc^
 @@||mein-kunden.center^
 @@||oh.center^
@@ -103,6 +104,7 @@
 @@||bypass.city^
 @@||ops.city^
 @@||technical.city^
+@@||am-videos.click^
 @@||buybox.click^
 @@||popcat.click^
 @@||popdog.click^
@@ -321,6 +323,7 @@
 @@||honse.moe^
 @@||mathi.moe^
 @@||nyarchlinux.moe^
+@@||save.moe^
 @@||trace.moe^
 @@||uma.moe^
 @@||flowyour.money^
