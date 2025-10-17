@@ -707,6 +707,7 @@
 @@||maxwellcat.world^
 @@||meming.world^
 @@||mnetplus.world^
+@@||mnr.world^
 @@||shitposter.world^
 @@||unidays.world^
 @@||userstyles.world^
