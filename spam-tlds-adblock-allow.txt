@@ -77,6 +77,7 @@
 @@||fanbox.cc^
 @@||frontrow.cc^
 @@||is.cc^
+@@||libstc.cc^
 @@||lilygo.cc^
 @@||lurl.cc^
 @@||mydaddy.cc^
