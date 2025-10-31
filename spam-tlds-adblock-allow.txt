@@ -566,6 +566,7 @@
 @@||glitchproductions.store^
 @@||hacksmith.store^
 @@||heavysaurus.store^
+@@||immich.store^
 @@||iqunix.store^
 @@||pbshop.store^
 @@||peugeot.store^
@@ -576,6 +577,7 @@
 @@||tatemcraeeu.store^
 @@||tatemcrae.store^
 @@||timberjacks.store^
+@@||affinity.studio^
 @@||ai.studio^
 @@||firebase.studio^
 @@||flourish.studio^
