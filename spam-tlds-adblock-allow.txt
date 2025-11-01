@@ -334,6 +334,7 @@
 @@||save.moe^
 @@||trace.moe^
 @@||uma.moe^
+@@||copilot.money^
 @@||flowyour.money^
 @@||super.money^
 @@||unstoppable.money^
@@ -562,6 +563,7 @@
 @@||bigtimerushuk.store^
 @@||cleanmasters.store^
 @@||ettoresoftware.store^
+@@||fbits.store^
 @@||g-h.store^
 @@||glitchproductions.store^
 @@||hacksmith.store^
