@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-11-04T07:30:29.860149
+#    updated: 2025-11-04T15:15:30.825374
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-199.45.154.0	199.45.154.255	24	351	CENSYS-ARIN-03	US	None
+199.45.154.0	199.45.154.255	24	352	CENSYS-ARIN-03	US	None
 206.168.34.0	206.168.34.255	24	350	-	-	-
 88.218.193.0	88.218.193.255	24	349	XNNET	US	sysadmin@tandbergdata.com
 167.94.138.0	167.94.138.255	24	349	CENSYS-ARIN-01	US	None
@@ -34,15 +34,15 @@
 65.49.1.0	65.49.1.255	24	344	HURRICANE	US	abuse@he.net
 193.163.125.0	193.163.125.255	24	343	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 66.132.153.0	66.132.153.255	24	342	-	-	-
+207.154.254.0	207.154.254.255	24	342	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
+176.65.149.0	176.65.149.255	24	340	-	-	-
 204.76.203.0	204.76.203.255	24	340	INTELLIGENCE-ATOM-HOSTING	KN	None
-176.65.149.0	176.65.149.255	24	339	-	-	-
 205.210.31.0	205.210.31.255	24	339	GOOGLE-CLOUD-PLATFORM	US	None
 64.62.156.0	64.62.156.255	24	337	HURRICANE	US	abuse@he.net
+146.88.241.0	146.88.241.255	24	337	ARBOR	US	hostmaster@arbor.net
 207.90.244.0	207.90.244.255	24	337	COGENT-174	US	abuse@cogentco.com
-207.154.254.0	207.154.254.255	24	337	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
+64.62.197.0	64.62.197.255	24	336	HURRICANE	US	abuse@he.net
 79.124.49.0	79.124.49.255	24	336	TAMATIYA-AS	BG	noc@4vendeta.com
-146.88.241.0	146.88.241.255	24	336	ARBOR	US	hostmaster@arbor.net
-64.62.197.0	64.62.197.255	24	335	HURRICANE	US	abuse@he.net
 147.185.132.0	147.185.132.255	24	335	GOOGLE-CLOUD-PLATFORM	US	None
 176.65.148.0	176.65.148.255	24	333	-	-	-
 78.128.114.0	78.128.114.255	24	332	TAMATIYA-AS	BG	noc@4vendeta.com
