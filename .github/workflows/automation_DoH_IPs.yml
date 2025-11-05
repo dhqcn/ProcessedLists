@@ -14,5 +14,6 @@ jobs:
         with:
           node-version: 'latest'
       - run: node write_file_DoH_IPs.js
+      - run: node processed_DoH_servers_IPs.js
       - name: Commit & Push
         uses: actions-x/commit@v6
