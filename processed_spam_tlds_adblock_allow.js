@@ -1,6 +1,7 @@
 // processed_spam_tlds_adblock_allow.js
 
 const fs = require("fs");
+const https = require("https");
 const inputFile = "spam-tlds-adblock-allow.txt";
 const outputFile = "most_abused_TLDs_Hagezi_allowlist.conf";
 
