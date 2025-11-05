@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Use node2x
+      - name: Use latest node.js
         uses: actions/setup-node@v4
         with:
-          node-version: latest
+          node-version: 'latest'
       - run: node write_file_DoH_IPs.js
       - name: Commit & Push
         uses: actions-x/commit@v6
