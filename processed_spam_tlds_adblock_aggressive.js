@@ -1,4 +1,5 @@
 const fs = require('fs');
+const https = require("https");
 
 // Đường dẫn file input và output
 const inputPath = 'spam-tlds-adblock-aggressive.txt';
