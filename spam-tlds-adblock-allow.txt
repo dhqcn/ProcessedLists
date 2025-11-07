@@ -479,6 +479,7 @@
 @@||medium.rip^
 @@||nest.rip^
 @@||scribe.rip^
+@@||ecopulse.sbs^
 @@||amazon.science^
 @@||canonn.science^
 @@||hal.science^
@@ -632,6 +633,7 @@
 @@||xn--qubec-csa.tk^
 @@||zete.tk^
 @@||addtocart.today^
+@@||applefans.today^
 @@||archive.today^
 @@||futurology.today^
 @@||lemmy.today^
