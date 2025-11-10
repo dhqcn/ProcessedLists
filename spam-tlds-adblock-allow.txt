@@ -396,6 +396,7 @@
 @@||discuss.online^
 @@||dnsspeedtest.online^
 @@||eufh.online^
+@@||fireshinegames.online^
 @@||flexilead.online^
 @@||geoigarape.online^
 @@||grapheneos.online^
