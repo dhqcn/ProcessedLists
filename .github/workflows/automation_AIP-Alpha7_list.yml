@@ -1,4 +1,4 @@
-name: Processing_IP_Blocklists
+name: Processing_AIP-Alpha7_blocklist
 on:
   schedule:
     - cron: "0 0/8 * * *" # Runs every 08 hours (UTC)
