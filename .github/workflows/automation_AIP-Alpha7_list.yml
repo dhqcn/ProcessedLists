@@ -1,0 +1,19 @@
+name: Processing_IP_Blocklists
+on:
+  schedule:
+    - cron: "0 0/8 * * *" # Runs every 08 hours (UTC)
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use latest node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'latest'
+      - run: node write_file_AIP-Alpha7.js 
+      - run: node process_AIP-Alpha7-latest.js
+      - name: Commit & Push
+        uses: actions-x/commit@v6
