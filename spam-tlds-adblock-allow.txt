@@ -668,6 +668,7 @@
 @@||platform.uno^
 @@||18comic.vip^
 @@||liberta.vip^
+@@||oldskool.vip^
 @@||posh.vip^
 @@||ryde.vip^
 @@||stream.vip^
