@@ -83,7 +83,7 @@ const summaryBlock = [
   `# Total duplicates removed:  ${total_duplicates_removed}`,
   `# Malformed IP addresses:    ${malformed.length}`,
   "# ================================================",
-  "",
+  "#",
   ""
 ].join("\n");
 
