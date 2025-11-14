@@ -13,6 +13,10 @@ function isIPv6(ip) {
   return /^[0-9a-fA-F:]+$/.test(ip);
 }
 
+// Remove duplicates
+const ipv4_unique = [...new Set(ipv4)];
+const ipv6_unique = [...new Set(ipv6)];
+
 // Sort IPv4 correctly (numeric sort)
 function sortIPv4(list) {
   return list.sort((a, b) => {
