@@ -13,7 +13,7 @@ function getTimestamp() {
        + `${pad(now.getHours())}:${pad(now.getMinutes())}:${pad(now.getSeconds())}`;
 }
 
-// IPv4 / IPv6 validation
+// Validators
 function isIPv4(ip) {
   return /^(\d{1,3}\.){3}\d{1,3}$/.test(ip);
 }
@@ -31,21 +31,18 @@ function ipToSortable(ip) {
 }
 
 try {
-  // -----------------------------
-  // Read & sanitize input
-  // -----------------------------
+  // Read & clean lines
   const rawLines = fs.readFileSync(inputFile, "utf8")
     .split(/\r?\n/)
     .map(l => l.trim())
     .filter(l => l.length > 0);
 
-  // Before filtering duplicates
+  // Count before processing
   const ipv4_before = rawLines.filter(isIPv4).length;
   const ipv6_before = rawLines.filter(isIPv6).length;
 
-  const malformed = rawLines.filter(
-    l => !isIPv4(l) && !isIPv6(l)
-  );
+  // Detect malformed entries
+  const malformed = rawLines.filter(l => !isIPv4(l) && !isIPv6(l));
 
   // Valid IPs only
   const validIPv4 = rawLines.filter(isIPv4);
@@ -59,13 +56,14 @@ try {
   const ipv6_duplicates_removed = validIPv6.length - ipv6_unique.length;
   const total_duplicates_removed = ipv4_duplicates_removed + ipv6_duplicates_removed;
 
-  // Sort separately
+  // Sort IPv4 and IPv6 separately
   ipv4_unique.sort((a, b) => ipToSortable(a).localeCompare(ipToSortable(b)));
   ipv6_unique.sort((a, b) => ipToSortable(a).localeCompare(ipToSortable(b)));
 
-  // -----------------------------
-  // Build Summary section
-  // -----------------------------
+  // Raw output only — one IP per line
+  const formattedOutput = [...ipv4_unique, ...ipv6_unique].join("\n");
+
+  // Build Summary
   const timestamp = getTimestamp();
 
   const summary =
@@ -83,10 +81,10 @@ try {
 # Malformed IP addresses:    ${malformed.length}
 # ================================================`;
 
-  // Write output file with Summary on top
+  // Write final file
   fs.writeFileSync(
     outputFile,
-    `${summary}\n\n${formatted}\n`,
+    `${summary}\n\n${formattedOutput}\n`,
     "utf8"
   );
 
