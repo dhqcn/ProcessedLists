@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const inputFile = path.join(__dirname, "DoH_servers_IPs.txt");
-const outputFile = path.join(__dirname, "processed_DoH_servers_IPs.txt");
+const outputFile = path.join(__dirname, "processed_DoH_servers_IPs_AdGuard.txt");
 
 // Convert IPs into a sortable form
 function ipToSortable(ip) {
