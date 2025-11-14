@@ -112,11 +112,7 @@ const output =
   [...ipv4_unique, ...ipv6_unique].map(formatLine).join("\n") +
   "\n";
 
-  // Write output
-  fs.writeFileSync(outputFile, formatted, "utf8");
+// Write final file
+fs.writeFileSync(outputFile, output, "utf8");
 
-  console.log("✅ Sorting and formatting complete!");
-  console.log(`Output saved to: ${outputFile}`);
-} catch (err) {
-  console.error("❌ Error processing file:", err);
-}
+console.log("✅ Sorting and formatting complete! Output file saved to:", outputFile);
