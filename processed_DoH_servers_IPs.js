@@ -79,8 +79,8 @@ try {
 # Duplicates removed (IPv6): ${ipv6_duplicates_removed}
 # Total duplicates removed:  ${total_duplicates_removed}
 # Malformed IP addresses:    ${malformed.length}
-# ================================================`;
-
+# ================================================
+#`;
   // Write final file
   fs.writeFileSync(
     outputFile,
