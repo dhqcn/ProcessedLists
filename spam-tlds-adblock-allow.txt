@@ -485,7 +485,6 @@
 @@||medium.rip^
 @@||nest.rip^
 @@||scribe.rip^
-@@||ecopulse.sbs^
 @@||goflix.sbs^
 @@||amazon.science^
 @@||canonn.science^
@@ -649,6 +648,7 @@
 @@||tmaeno.tokyo^
 @@||ambr.top^
 @@||caitlin.top^
+@@||chillx.top^
 @@||corriente.top^
 @@||cpolar.top^
 @@||edgeless.top^
