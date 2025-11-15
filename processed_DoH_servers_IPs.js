@@ -79,15 +79,15 @@ try {
 # Duplicates removed (IPv6): ${ipv6_duplicates_removed}
 # Total duplicates removed:  ${total_duplicates_removed}
 # Malformed IP addresses:    ${malformed.length}
-# ================================================
-#`;
+# ================================================`;
+  
   // Write final file
-  fs.writeFileSync(
-    outputFile,
-    `${summary}\n\n${formattedOutput}\n`,
-    "utf8"
-  );
-
+fs.writeFileSync(
+  outputFile,
+  `${summary}\n${formattedOutput}\n`,
+  "utf8"
+);
+  
   console.log("✅ Completed!");
   console.log(`📄 Output saved to: ${outputFile}`);
 
