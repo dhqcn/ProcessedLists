@@ -407,6 +407,7 @@
 @@||geoigarape.online^
 @@||grapheneos.online^
 @@||incdn.online^
+@@||infomax.online^
 @@||instructions.online^
 @@||manuals.online^
 @@||mastodon.online^
