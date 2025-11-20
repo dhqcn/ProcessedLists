@@ -14,7 +14,6 @@ jobs:
         with:
           node-version: 'latest'
       - run: node write_file_DoH_IPs.js
-      - run: node processed_DoH_servers_IPs.js
       - run: node processed_DoH_servers_IPs_seperated_files.js
       - run: node processed_DoH_servers_IPs_AdGuard.js
       - name: Commit & Push
