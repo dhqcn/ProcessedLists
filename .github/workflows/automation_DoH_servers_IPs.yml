@@ -9,9 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          ref: main
       - name: Use latest node.js
         uses: actions/setup-node@v4
         with:
@@ -22,7 +19,3 @@ jobs:
       - run: node processed_DoH_servers_IPs_AdGuard.js
       - name: Commit & Push
         uses: actions-x/commit@v6
-        with:
-          fetch_depth: 0     # fetch full history before committing
-          amend: false
-          push: true
