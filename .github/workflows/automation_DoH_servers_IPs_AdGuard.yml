@@ -1,0 +1,19 @@
+name: Processing_DoH_servers_IPs_lists
+on:
+  schedule:
+    - cron: "32 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use latest node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'latest'
+      - run: node processed_DoH_servers_IPs.js
+      - run: node processed_DoH_servers_IPs_AdGuard.js
+      - name: Commit & Push
+        uses: actions-x/commit@v6
