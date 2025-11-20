@@ -9,6 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
       - name: Use latest node.js
         uses: actions/setup-node@v4
         with:
@@ -20,5 +23,6 @@ jobs:
       - name: Commit & Push
         uses: actions-x/commit@v6
         with:
-          # Tells the action to pull and merge the remote changes before pushing
-          pull_strategy: merge
+          fetch_depth: 0     # fetch full history before committing
+          amend: false
+          push: true
