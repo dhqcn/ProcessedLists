@@ -73,6 +73,7 @@
 @@||arduino.cc^
 @@||clashofmagic.cc^
 @@||coolkit.cc^
+@@||crcon.cc^
 @@||dhilosnetworks.cc^
 @@||dict.cc^
 @@||fanbox.cc^
@@ -141,6 +142,7 @@
 @@||thelemmy.club^
 @@||tilde.club^
 @@||xhtml.club^
+@@||google.cm^
 @@||helium.computer^
 @@||libre.computer^
 @@||neat.computer^
