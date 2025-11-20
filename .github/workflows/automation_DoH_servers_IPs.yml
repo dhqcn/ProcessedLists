@@ -1,4 +1,5 @@
 name: Processing_DoH_servers_IPs_lists
+
 on:
   schedule:
     - cron: "22 0 * * *"
@@ -7,15 +8,47 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - name: Use latest node.js
+      # Checkout the repository with full history
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0        # IMPORTANT — allows pulling/rebasing
+          ref: main
+
+      # Install Node.js
+      - name: Use latest Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 'latest'
-      - run: node write_file_DoH_IPs.js
-      - run: node processed_DoH_servers_IPs.js
-      - run: node processed_DoH_servers_IPs_seperated_files.js
-      - run: node processed_DoH_servers_IPs_AdGuard.js
-      - name: Commit & Push
-        uses: actions-x/commit@v6
+          node-version: "latest"
+
+      # Run your processing scripts
+      - name: Run IP processing scripts
+        run: |
+          node write_file_DoH_IPs.js
+          node processed_DoH_servers_IPs.js
+          node processed_DoH_servers_IPs_seperated_files.js
+          node processed_DoH_servers_IPs_AdGuard.js
+
+      # Configure git identity
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      # Pull latest changes and rebase — PREVENTS divergence
+      - name: Pull latest changes (rebase)
+        run: |
+          git pull --rebase origin main
+
+      # Commit changes (if any)
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Automatically updated using GitHub Actions" || echo "No changes to commit"
+
+      # Push updated files back to GitHub
+      - name: Push changes
+        run: |
+          git push origin main
