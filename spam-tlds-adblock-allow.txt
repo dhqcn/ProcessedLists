@@ -206,6 +206,7 @@
 @@||e.foundation^
 @@||grapheneos.foundation^
 @@||jp.foundation^
+@@||lgbt.foundation^
 @@||player.foundation^
 @@||cdn.fun^
 @@||chinaq.fun^
