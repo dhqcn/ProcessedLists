@@ -568,6 +568,7 @@
 @@||hyper.space^
 @@||infosec.space^
 @@||ippen.space^
+@@||jetbrains.space^
 @@||keyboard-test.space^
 @@||latent.space^
 @@||link.space^
