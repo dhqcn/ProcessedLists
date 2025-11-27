@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Nov 2025 19:43 UTC
-! Version: 2025.1126.1943.57
+! Last modified: 27 Nov 2025 10:34 UTC
+! Version: 2025.1127.1034.05
 ! Syntax: AdBlock
 ! Number of latin TLDs: 283 - punycode TLDs: 151
 !
