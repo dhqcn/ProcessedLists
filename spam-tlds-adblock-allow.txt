@@ -77,7 +77,9 @@
 @@||dhilosnetworks.cc^
 @@||dict.cc^
 @@||fanbox.cc^
+@@||fiedler.cc^
 @@||frontrow.cc^
+@@||imgus.cc^
 @@||is.cc^
 @@||libstc.cc^
 @@||lilygo.cc^
@@ -85,6 +87,7 @@
 @@||mydaddy.cc^
 @@||myppt.cc^
 @@||postimg.cc^
+@@||ppt.cc^
 @@||ptt.cc^
 @@||pttweb.cc^
 @@||rapha.cc^
