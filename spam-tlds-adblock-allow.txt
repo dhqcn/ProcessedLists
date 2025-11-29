@@ -270,6 +270,7 @@
 @@||kustomer.help^
 @@||pixiv.help^
 @@||stremio.homes^
+@@||lanparty.house^
 @@||nature.house^
 @@||mond.how^
 @@||notrace.how^
