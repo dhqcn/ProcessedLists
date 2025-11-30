@@ -78,6 +78,7 @@
 @@||dict.cc^
 @@||fanbox.cc^
 @@||fiedler.cc^
+@@||forestapp.cc^
 @@||frontrow.cc^
 @@||imgus.cc^
 @@||is.cc^
