@@ -89,6 +89,7 @@
 @@||myppt.cc^
 @@||postimg.cc^
 @@||ppt.cc^
+@@||pretendo.cc^
 @@||ptt.cc^
 @@||pttweb.cc^
 @@||rapha.cc^
