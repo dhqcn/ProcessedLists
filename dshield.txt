@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-12-08T07:30:31.190852
+#    updated: 2025-12-08T15:15:35.320111
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,12 +27,12 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 66.132.153.0	66.132.153.255	24	335	-	-	-
-64.62.156.0	64.62.156.255	24	325	HURRICANE	US	abuse@he.net
+64.62.156.0	64.62.156.255	24	326	HURRICANE	US	abuse@he.net
 206.168.34.0	206.168.34.255	24	325	-	-	-
 64.62.197.0	64.62.197.255	24	324	HURRICANE	US	abuse@he.net
 147.185.132.0	147.185.132.255	24	323	GOOGLE-CLOUD-PLATFORM	US	None
+167.94.138.0	167.94.138.255	24	321	CENSYS-ARIN-01	US	None
 193.163.125.0	193.163.125.255	24	321	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-167.94.138.0	167.94.138.255	24	320	CENSYS-ARIN-01	US	None
 65.49.1.0	65.49.1.255	24	318	HURRICANE	US	abuse@he.net
 87.120.191.0	87.120.191.255	24	318	SKATTV-AS	BG	abuse@neterra.net
 91.196.152.0	91.196.152.255	24	318	ATT-INTERNET4	US	abuse@att.net
@@ -43,6 +43,6 @@
 207.90.244.0	207.90.244.255	24	313	COGENT-174	US	abuse@cogentco.com
 198.235.24.0	198.235.24.255	24	311	GOOGLE-CLOUD-PLATFORM	US	None
 199.45.154.0	199.45.154.255	24	311	CENSYS-ARIN-03	US	None
+213.209.143.0	213.209.143.255	24	311	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 45.156.87.0	45.156.87.255	24	310	SKYLINK	NL	marcel.vm@gmx.de
 176.65.148.0	176.65.148.255	24	310	-	-	-
-213.209.143.0	213.209.143.255	24	310	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
