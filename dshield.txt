@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-12-17T07:30:10.197061
+#    updated: 2025-12-17T15:15:09.572152
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,14 +30,14 @@
 216.180.246.0	216.180.246.255	24	259	NTHL	US	abuse@networktransit.net
 185.242.226.0	185.242.226.255	24	254	AS49870-BV	NL	abuse@westcall.ru
 88.210.63.0	88.210.63.255	24	252	-	-	-
+66.132.153.0	66.132.153.255	24	251	-	-	-
 45.148.10.0	45.148.10.255	24	251	PPTECHNOLOGY	GB	abuse@vegatele.com
 193.163.125.0	193.163.125.255	24	251	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 193.142.147.0	193.142.147.255	24	251	COLOCATIONX-DATACENTER Dedicated Server Provider	GB	abuse@hostslick.de
-66.132.153.0	66.132.153.255	24	251	-	-	-
 206.168.34.0	206.168.34.255	24	249	-	-	-
+64.62.156.0	64.62.156.255	24	247	HURRICANE	US	abuse@he.net
 167.94.138.0	167.94.138.255	24	247	CENSYS-ARIN-01	US	None
 199.45.154.0	199.45.154.255	24	247	CENSYS-ARIN-03	US	None
-64.62.156.0	64.62.156.255	24	247	HURRICANE	US	abuse@he.net
 198.235.24.0	198.235.24.255	24	246	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	246	GOOGLE-CLOUD-PLATFORM	US	None
 91.230.168.0	91.230.168.255	24	243	BHA	FR	abuse@bha-conseil.com
