@@ -299,6 +299,7 @@
 @@||mint.lgbt^
 @@||tech.lgbt^
 @@||2ch.life^
+@@||akamaicdn.life^
 @@||billo.life^
 @@||circles.life^
 @@||colorgame.life^
