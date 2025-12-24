@@ -439,6 +439,7 @@
 @@||zander.online^
 @@||term.ooo^
 @@||toast.ooo^
+@@||nvidia.partners^
 @@||stripe.partners^
 @@||xh.partners^
 @@||ducks.party^
