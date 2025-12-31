@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-12-31T08:00:29.628333
+#    updated: 2025-12-31T15:30:30.785228
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,9 +26,9 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-78.128.114.0	78.128.114.255	24	333	TAMATIYA-AS	BG	noc@4vendeta.com
+78.128.114.0	78.128.114.255	24	334	TAMATIYA-AS	BG	noc@4vendeta.com
 45.142.154.0	45.142.154.255	24	327	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
-206.168.34.0	206.168.34.255	24	322	-	-	-
+206.168.34.0	206.168.34.255	24	323	-	-	-
 199.45.154.0	199.45.154.255	24	321	CENSYS-ARIN-03	US	None
 66.132.153.0	66.132.153.255	24	320	-	-	-
 193.163.125.0	193.163.125.255	24	319	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
@@ -43,6 +43,6 @@
 45.156.129.0	45.156.129.255	24	310	AS-BITSIGHT	PT	>>UNKNOWN<<
 89.42.231.0	89.42.231.255	24	310	CIANET-AS	RO	office@cianet.ro
 185.242.226.0	185.242.226.255	24	310	AS49870-BV	NL	abuse@westcall.ru
-88.210.63.0	88.210.63.255	24	308	-	-	-
-91.196.152.0	91.196.152.255	24	308	ATT-INTERNET4	US	abuse@att.net
+91.196.152.0	91.196.152.255	24	309	ATT-INTERNET4	US	abuse@att.net
 64.62.156.0	64.62.156.255	24	308	HURRICANE	US	abuse@he.net
+88.210.63.0	88.210.63.255	24	308	-	-	-
