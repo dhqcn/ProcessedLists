@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-01-05T08:00:33.670266
+#    updated: 2026-01-05T15:15:33.904026
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,7 +30,7 @@
 205.210.31.0	205.210.31.255	24	332	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.255	24	329	GOOGLE-CLOUD-PLATFORM	US	None
 95.214.55.0	95.214.55.255	24	328	MEVSPACE	PL	abuse@skynode.pl
-64.62.197.0	64.62.197.255	24	326	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.255	24	327	HURRICANE	US	abuse@he.net
 147.185.132.0	147.185.132.255	24	325	GOOGLE-CLOUD-PLATFORM	US	None
 194.180.48.0	194.180.48.255	24	322	-	-	-
 130.12.180.0	130.12.180.255	24	319	-	-	-
