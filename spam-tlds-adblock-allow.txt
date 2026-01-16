@@ -86,6 +86,7 @@
 @@||frontrow.cc^
 @@||imgus.cc^
 @@||is.cc^
+@@||itead.cc^
 @@||libstc.cc^
 @@||lilygo.cc^
 @@||lurl.cc^
@@ -450,6 +451,7 @@
 @@||zander.online^
 @@||term.ooo^
 @@||toast.ooo^
+@@||1password.partners^
 @@||nvidia.partners^
 @@||stripe.partners^
 @@||xh.partners^
