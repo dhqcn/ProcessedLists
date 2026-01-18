@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-01-17T15:30:27.235646
+#    updated: 2026-01-18T00:45:26.632768
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,7 +27,7 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 64.62.156.0	64.62.156.255	24	342	HURRICANE	US	abuse@he.net
-66.132.153.0	66.132.153.255	24	331	-	-	-
+66.132.153.0	66.132.153.255	24	332	-	-	-
 178.20.210.0	178.20.210.255	24	329	AS43260	TR	ip@dgn.net.tr
 193.163.125.0	193.163.125.255	24	319	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 176.65.148.0	176.65.148.255	24	318	-	-	-
@@ -40,9 +40,9 @@
 79.124.58.0	79.124.58.255	24	312	TAMATIYA-AS	BG	noc@4vendeta.com
 91.224.92.0	91.224.92.255	24	310	HOSTBALTIC	LT	>>UNKNOWN<<
 147.185.132.0	147.185.132.255	24	310	GOOGLE-CLOUD-PLATFORM	US	None
+45.148.10.0	45.148.10.255	24	309	PPTECHNOLOGY	GB	abuse@vegatele.com
 65.49.1.0	65.49.1.255	24	309	HURRICANE	US	abuse@he.net
 89.42.231.0	89.42.231.255	24	309	CIANET-AS	RO	office@cianet.ro
 198.235.24.0	198.235.24.255	24	309	GOOGLE-CLOUD-PLATFORM	US	None
 216.180.246.0	216.180.246.255	24	309	NTHL	US	abuse@networktransit.net
-45.148.10.0	45.148.10.255	24	308	PPTECHNOLOGY	GB	abuse@vegatele.com
 45.194.92.0	45.194.92.255	24	308	MULTA-ASN1	US	abuse@multacom.com
