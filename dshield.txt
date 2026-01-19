@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-01-18T16:00:12.603352
+#    updated: 2026-01-19T00:45:11.349606
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -38,8 +38,8 @@
 206.168.34.0	206.168.34.255	24	296	-	-	-
 89.42.231.0	89.42.231.255	24	295	CIANET-AS	RO	office@cianet.ro
 195.184.76.0	195.184.76.255	24	295	EAJ-GLOBAL	GB	>>UNKNOWN<<
+45.148.10.0	45.148.10.255	24	294	PPTECHNOLOGY	GB	abuse@vegatele.com
 185.242.226.0	185.242.226.255	24	294	AS49870-BV	NL	abuse@westcall.ru
-45.148.10.0	45.148.10.255	24	293	PPTECHNOLOGY	GB	abuse@vegatele.com
 167.94.138.0	167.94.138.255	24	292	CENSYS-ARIN-01	US	None
 91.231.89.0	91.231.89.255	24	291	BHA	FR	abuse@bha-conseil.com
 130.12.180.0	130.12.180.255	24	290	-	-	-
