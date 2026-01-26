@@ -269,6 +269,7 @@
 @@||inege.gq^
 @@||mastodon.green^
 @@||tilde.green^
+@@||treebal.green^
 @@||cfw.guide^
 @@||discordjs.guide^
 @@||hacks.guide^
