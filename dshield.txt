@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-02-18T07:45:27.418059
+#    updated: 2026-02-18T16:00:30.538205
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,21 +26,21 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-205.210.31.0	205.210.31.255	24	341	GOOGLE-CLOUD-PLATFORM	US	None
 65.49.1.0	65.49.1.255	24	341	HURRICANE	US	abuse@he.net
+205.210.31.0	205.210.31.255	24	341	GOOGLE-CLOUD-PLATFORM	US	None
 66.132.153.0	66.132.153.255	24	335	-	-	-
 178.20.210.0	178.20.210.255	24	335	AS43260	TR	ip@dgn.net.tr
 167.94.138.0	167.94.138.255	24	334	CENSYS-ARIN-01	US	None
 199.45.154.0	199.45.154.255	24	331	CENSYS-ARIN-03	US	None
 193.163.125.0	193.163.125.255	24	330	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-206.168.34.0	206.168.34.255	24	327	-	-	-
+206.168.34.0	206.168.34.255	24	328	-	-	-
+216.180.246.0	216.180.246.255	24	326	NTHL	US	abuse@networktransit.net
 45.156.128.0	45.156.128.255	24	326	AS-BITSIGHT	PT	>>UNKNOWN<<
 195.184.76.0	195.184.76.255	24	326	EAJ-GLOBAL	GB	>>UNKNOWN<<
+91.196.152.0	91.196.152.255	24	325	ATT-INTERNET4	US	abuse@att.net
 88.210.63.0	88.210.63.255	24	325	-	-	-
-216.180.246.0	216.180.246.255	24	325	NTHL	US	abuse@networktransit.net
 64.62.197.0	64.62.197.255	24	324	HURRICANE	US	abuse@he.net
 64.62.156.0	64.62.156.255	24	324	HURRICANE	US	abuse@he.net
-91.196.152.0	91.196.152.255	24	324	ATT-INTERNET4	US	abuse@att.net
 167.94.145.0	167.94.145.255	24	323	CENSYS-ARIN-02	US	None
 91.230.168.0	91.230.168.255	24	323	BHA	FR	abuse@bha-conseil.com
 198.235.24.0	198.235.24.255	24	322	GOOGLE-CLOUD-PLATFORM	US	None
