@@ -656,6 +656,7 @@
 @@||metahub.space^
 @@||momonster.space^
 @@||nitter.space^
+@@||nuvioapp.space^
 @@||ocr.space^
 @@||oldbytes.space^
 @@||qwik.space^
