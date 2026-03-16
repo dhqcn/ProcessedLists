@@ -449,6 +449,7 @@
 @@||sheet.new^
 @@||site.new^
 @@||slide.new^
+@@||coupa.ng^
 @@||google.com.ng^
 @@||clash.ninja^
 @@||poe.ninja^
@@ -733,6 +734,7 @@
 @@||archive.today^
 @@||futurology.today^
 @@||lemmy.today^
+@@||oceanhero.today^
 @@||oldweb.today^
 @@||som.today^
 @@||type.today^
