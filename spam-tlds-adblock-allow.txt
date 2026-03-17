@@ -223,6 +223,7 @@
 @@||elli.eco^
 @@||mer.eco^
 @@||play.eco^
+@@||bigdig.energy^
 @@||biqu.equipment^
 @@||ticketco.events^
 @@||infosec.exchange^
@@ -379,6 +380,7 @@
 @@||techaro.lol^
 @@||weblog.lol^
 @@||wpp.lol^
+@@||football.london^
 @@||digitalize.ltd^
 @@||homebrew.ltd^
 @@||picsee.ltd^
@@ -477,6 +479,7 @@
 @@||mastodon.online^
 @@||mrprice.online^
 @@||open.online^
+@@||order.online^
 @@||owncast.online^
 @@||photostore24.online^
 @@||radarpayment.online^
@@ -829,6 +832,7 @@
 @@||survivors.wiki^
 @@||tajrobe.wiki^
 @@||tardis.wiki^
+@@||thefitness.wiki^
 @@||thehomelab.wiki^
 @@||tilde.wiki^
 @@||twewy.wiki^
