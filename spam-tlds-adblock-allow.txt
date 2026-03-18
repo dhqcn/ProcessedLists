@@ -201,6 +201,7 @@
 @@||push.delivery^
 @@||return-my.delivery^
 @@||ze.delivery^
+@@||clear.dental^
 @@||xhamster.desi^
 @@||2fa.directory^
 @@||cursor.directory^
@@ -224,6 +225,7 @@
 @@||mer.eco^
 @@||play.eco^
 @@||bigdig.energy^
+@@||octopus.energy^
 @@||biqu.equipment^
 @@||ticketco.events^
 @@||infosec.exchange^
@@ -412,6 +414,7 @@
 @@||cubari.moe^
 @@||ddlc.moe^
 @@||dmn.moe^
+@@||ewe.moe^
 @@||honse.moe^
 @@||mathi.moe^
 @@||nyarchlinux.moe^
