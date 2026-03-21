@@ -41,6 +41,7 @@
 @@||onlinesizing.bike^
 @@||rapido.bike^
 @@||anonymurl.biz^
+@@||antiphishing.biz^
 @@||asana.biz^
 @@||beiniz.biz^
 @@||bonial.biz^
@@ -225,6 +226,7 @@
 @@||mer.eco^
 @@||play.eco^
 @@||bigdig.energy^
+@@||eonnext-kraken.energy^
 @@||octopus.energy^
 @@||biqu.equipment^
 @@||ticketco.events^
