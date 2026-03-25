@@ -322,6 +322,7 @@
 @@||gorgias.help^
 @@||kustomer.help^
 @@||pixiv.help^
+@@||lzk.hl.cn^
 @@||stremio.homes^
 @@||minecraft.hot^
 @@||lanparty.house^
