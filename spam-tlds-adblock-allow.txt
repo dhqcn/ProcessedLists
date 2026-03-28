@@ -189,7 +189,6 @@
 @@||daily.dad^
 @@||dear.dad^
 @@||gdflix.dad^
-@@||gdtot.dad^
 @@||rad.dad^
 @@||endoflife.date^
 @@||boo.dating^
@@ -561,6 +560,7 @@
 @@||insomnia.rest^
 @@||nect.rest^
 @@||moyos.restaurant^
+@@||swipein.restaurant^
 @@||vecchioamore.restaurant^
 @@||highquality.rip^
 @@||medium.rip^
