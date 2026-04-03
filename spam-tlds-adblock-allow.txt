@@ -769,6 +769,7 @@
 @@||suiten.top^
 @@||thedesk.top^
 @@||vsdb.top^
+@@||lofi.town^
 @@||tilde.town^
 @@||composer.trade^
 @@||dx.trade^
