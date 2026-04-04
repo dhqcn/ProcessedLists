@@ -95,6 +95,7 @@
 @@||dict.cc^
 @@||fanbox.cc^
 @@||fiedler.cc^
+@@||fito.cc^
 @@||forestapp.cc^
 @@||frontrow.cc^
 @@||godoflove.cc^
@@ -227,6 +228,7 @@
 @@||play.eco^
 @@||bigdig.energy^
 @@||eonnext-kraken.energy^
+@@||homewizard.energy^
 @@||octopus.energy^
 @@||biqu.equipment^
 @@||ticketco.events^
@@ -678,7 +680,6 @@
 @@||scurra.space^
 @@||searx.space^
 @@||slashtw.space^
-@@||snapapi.space^
 @@||takeb1nzyto.space^
 @@||telegram.space^
 @@||truepeople.space^
