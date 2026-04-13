@@ -848,6 +848,7 @@
 @@||survivors.wiki^
 @@||tajrobe.wiki^
 @@||tardis.wiki^
+@@||thedivisionresurgence.wiki^
 @@||thefitness.wiki^
 @@||thehomelab.wiki^
 @@||tilde.wiki^
