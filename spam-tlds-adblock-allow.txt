@@ -324,6 +324,7 @@
 @@||crisp.help^
 @@||fastmail.help^
 @@||gorgias.help^
+@@||intercom.help^
 @@||kustomer.help^
 @@||pixiv.help^
 @@||lzk.hl.cn^
@@ -766,6 +767,7 @@
 @@||mastodon.top^
 @@||mianbeian.top^
 @@||nfmirrorcdn.top^
+@@||noru.top^
 @@||pegelinux.top^
 @@||polar.top^
 @@||qwertycxz.top^
