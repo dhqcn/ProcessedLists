@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-04-19T08:01:00.204686
+#    updated: 2026-04-19T16:01:02.780429
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-147.185.132.0	147.185.132.255	24	350	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.132.0	147.185.132.255	24	351	GOOGLE-CLOUD-PLATFORM	US	None
 65.49.1.0	65.49.1.255	24	349	HURRICANE	US	abuse@he.net
 5.187.35.0	5.187.35.255	24	346	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 205.210.31.0	205.210.31.255	24	345	GOOGLE-CLOUD-PLATFORM	US	None
@@ -39,10 +39,10 @@
 45.142.193.0	45.142.193.255	24	332	MAGHOST_	RO	office@magbross.ro
 45.205.1.0	45.205.1.255	24	331	MULTA-ASN1	US	abuse@multacom.com
 64.62.156.0	64.62.156.255	24	329	HURRICANE	US	abuse@he.net
-176.65.148.0	176.65.148.255	24	327	-	-	-
-45.142.154.0	45.142.154.255	24	327	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 167.94.145.0	167.94.145.255	24	327	CENSYS-ARIN-02	US	None
+45.142.154.0	45.142.154.255	24	327	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
+176.65.148.0	176.65.148.255	24	327	-	-	-
 176.65.139.0	176.65.139.255	24	326	-	-	-
 64.62.197.0	64.62.197.255	24	326	HURRICANE	US	abuse@he.net
+66.132.195.0	66.132.195.255	24	324	-	-	-
 45.156.129.0	45.156.129.255	24	324	AS-BITSIGHT	PT	>>UNKNOWN<<
-167.94.146.0	167.94.146.255	24	323	CENSYS-ARIN-02	US	None
