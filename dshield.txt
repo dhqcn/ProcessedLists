@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-04-21T08:15:38.405887
+#    updated: 2026-04-21T16:00:40.239806
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,17 +26,17 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-160.119.76.0	160.119.76.255	24	357	-	-	-
+160.119.76.0	160.119.76.255	24	359	-	-	-
 64.62.197.0	64.62.197.255	24	342	HURRICANE	US	abuse@he.net
-87.251.64.0	87.251.64.255	24	337	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
+87.251.64.0	87.251.64.255	24	339	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
 178.20.210.0	178.20.210.255	24	335	AS43260	TR	ip@dgn.net.tr
 193.163.125.0	193.163.125.255	24	335	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 64.62.156.0	64.62.156.255	24	334	HURRICANE	US	abuse@he.net
 66.132.186.0	66.132.186.255	24	334	-	-	-
+71.6.232.0	71.6.232.255	24	334	CARINET	US	complaints@cari.net
 5.187.35.0	5.187.35.255	24	333	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 45.148.10.0	45.148.10.255	24	333	PPTECHNOLOGY	GB	abuse@vegatele.com
 65.49.1.0	65.49.1.255	24	333	HURRICANE	US	abuse@he.net
-71.6.232.0	71.6.232.255	24	333	CARINET	US	complaints@cari.net
 81.29.142.0	81.29.142.255	24	333	IMAQLIQ iqdata.center	RU	abuse@iqdata.center
 199.45.154.0	199.45.154.255	24	332	CENSYS-ARIN-03	US	None
 66.132.195.0	66.132.195.255	24	331	-	-	-
@@ -44,5 +44,5 @@
 45.135.193.0	45.135.193.255	24	328	-	-	-
 66.132.172.0	66.132.172.255	24	327	-	-	-
 66.132.224.0	66.132.224.255	24	327	-	-	-
-195.184.76.0	195.184.76.255	24	325	EAJ-GLOBAL	GB	>>UNKNOWN<<
-198.235.24.0	198.235.24.255	24	325	GOOGLE-CLOUD-PLATFORM	US	None
+195.184.76.0	195.184.76.255	24	326	EAJ-GLOBAL	GB	>>UNKNOWN<<
+77.90.185.0	77.90.185.255	24	325	BTHOSTER	GB	abuse@inetia.pl
