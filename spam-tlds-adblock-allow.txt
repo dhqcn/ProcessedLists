@@ -84,6 +84,7 @@
 @@||nabu.casa^
 @@||doe.cash^
 @@||redtiger.cash^
+@@||vitunleija.cash^
 @@||10gen.cc^
 @@||adguard-vpn.cc^
 @@||akami-solutions.cc^
@@ -761,6 +762,7 @@
 @@||addtocart.today^
 @@||applefans.today^
 @@||archive.today^
+@@||eventz.today^
 @@||futurology.today^
 @@||lemmy.today^
 @@||oceanhero.today^
