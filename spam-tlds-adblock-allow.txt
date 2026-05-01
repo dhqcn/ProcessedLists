@@ -664,6 +664,7 @@
 @@||privacy-test-pages.site^
 @@||reddit-doesnt-like-this.site^
 @@||shopapps.site^
+@@||silvatica.site^
 @@||srht.site^
 @@||toast.site^
 @@||tst.site^
@@ -915,6 +916,7 @@
 @@||wetdry.world^
 @@||wiz.world^
 @@||akko.wtf^
+@@||bgp.wtf^
 @@||cyber.wtf^
 @@||fx.wtf^
 @@||ip.wtf^
