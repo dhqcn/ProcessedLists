@@ -11,10 +11,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 May 2026 09:32 UTC
-! Version: 2026.0501.0932.05
+! Last modified: 01 May 2026 20:25 UTC
+! Version: 2026.0501.2025.13
 ! Syntax: AdBlock
-! Number of latin TLDs: 286 - punycode TLDs: 151
+! Number of latin TLDs: 289 - punycode TLDs: 151
 !
 ||actor^
 ||africa^
@@ -105,6 +105,7 @@
 ||faith^
 ||family^
 ||fan^
+||fans^
 ||fashion^
 ||finance^
 ||financial^
@@ -123,6 +124,7 @@
 ||fyi^
 ||ga^
 ||games^
+||garden^
 ||gdn^
 ||gent^
 ||gift^
@@ -160,6 +162,7 @@
 ||lgbt^
 ||life^
 ||lifestyle^
+||living^
 ||llc^
 ||llp^
 ||loan^
