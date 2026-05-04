@@ -127,6 +127,7 @@
 @@||shottr.cc^
 @@||silca.cc^
 @@||sneakpeek.cc^
+@@||theradio.cc^
 @@||toxicland.cc^
 @@||ultra.cc^
 @@||ultracloud.cc^
@@ -780,7 +781,6 @@
 @@||chillx.top^
 @@||corriente.top^
 @@||cpolar.top^
-@@||dinsden.top^
 @@||edgeless.top^
 @@||mastodon.top^
 @@||mianbeian.top^
