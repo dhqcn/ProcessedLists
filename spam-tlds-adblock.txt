@@ -11,10 +11,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 May 2026 16:38 UTC
-! Version: 2026.0503.1638.49
+! Last modified: 04 May 2026 16:37 UTC
+! Version: 2026.0504.1637.28
 ! Syntax: AdBlock
-! Number of latin TLDs: 128/290
+! Number of latin TLDs: 129/291
 !
 ||actor^
 ||apartments^
@@ -72,6 +72,7 @@
 ||gripe^
 ||hair^
 ||immo^
+||insure^
 ||irish^
 ||jetzt^
 ||jewelry^

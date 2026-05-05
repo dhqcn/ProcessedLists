@@ -677,6 +677,7 @@
 @@||forecast.solar^
 @@||optimizer.solar^
 @@||ariadne.space^
+@@||cslogs.space^
 @@||dragonscave.space^
 @@||drgns.space^
 @@||embed-player.space^
@@ -781,6 +782,7 @@
 @@||chillx.top^
 @@||corriente.top^
 @@||cpolar.top^
+@@||dinsden.top^
 @@||edgeless.top^
 @@||mastodon.top^
 @@||mianbeian.top^
