@@ -707,6 +707,7 @@
 @@||searx.space^
 @@||slashtw.space^
 @@||takeb1nzyto.space^
+@@||tapframe.space^
 @@||telegram.space^
 @@||truepeople.space^
 @@||uexcorp.space^
@@ -726,6 +727,7 @@
 @@||immich.store^
 @@||iqunix.store^
 @@||myexpresscarwash.store^
+@@||myshopline.store^
 @@||pbshop.store^
 @@||peugeot.store^
 @@||roble.store^
