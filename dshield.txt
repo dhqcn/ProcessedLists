@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-05-09T08:15:31.003539
+#    updated: 2026-05-09T16:30:31.728161
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,18 +27,18 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 64.62.197.0	64.62.197.255	24	351	HURRICANE	US	abuse@he.net
-193.163.125.0	193.163.125.255	24	344	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.255	24	345	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 66.132.172.0	66.132.172.255	24	341	-	-	-
+87.251.64.0	87.251.64.255	24	341	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
 147.185.132.0	147.185.132.255	24	341	GOOGLE-CLOUD-PLATFORM	US	None
-87.251.64.0	87.251.64.255	24	339	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
+151.243.11.0	151.243.11.255	24	341	RASANA	IR	abuse@rasana.net
 167.94.145.0	167.94.145.255	24	339	CENSYS-ARIN-02	US	None
-151.243.11.0	151.243.11.255	24	338	RASANA	IR	abuse@rasana.net
 66.132.186.0	66.132.186.255	24	334	-	-	-
 91.196.152.0	91.196.152.255	24	334	ATT-INTERNET4	US	abuse@att.net
 198.235.24.0	198.235.24.255	24	334	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.255	24	333	GOOGLE-CLOUD-PLATFORM	US	None
 66.132.224.0	66.132.224.255	24	332	-	-	-
 178.20.210.0	178.20.210.255	24	332	AS43260	TR	ip@dgn.net.tr
-205.210.31.0	205.210.31.255	24	332	GOOGLE-CLOUD-PLATFORM	US	None
 64.62.156.0	64.62.156.255	24	330	HURRICANE	US	abuse@he.net
 65.49.1.0	65.49.1.255	24	330	HURRICANE	US	abuse@he.net
 45.148.10.0	45.148.10.255	24	328	PPTECHNOLOGY	GB	abuse@vegatele.com
