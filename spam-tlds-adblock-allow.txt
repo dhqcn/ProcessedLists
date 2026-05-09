@@ -72,6 +72,7 @@
 @@||panasonic.biz^
 @@||slussen.biz^
 @@||surveycake.biz^
+@@||turbify.biz^
 @@||volvocars.biz^
 @@||wiz.biz^
 @@||wspay.biz^
@@ -479,6 +480,7 @@
 @@||clash.ninja^
 @@||poe.ninja^
 @@||protomedia.ninja^
+@@||tgtg.ninja^
 @@||project2025.observer^
 @@||gc.onl^
 @@||2kweb.online^
