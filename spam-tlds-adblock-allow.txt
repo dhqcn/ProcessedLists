@@ -788,6 +788,7 @@
 @@||cpolar.top^
 @@||dinsden.top^
 @@||edgeless.top^
+@@||magefan.top^
 @@||mastodon.top^
 @@||mianbeian.top^
 @@||nfmirrorcdn.top^
