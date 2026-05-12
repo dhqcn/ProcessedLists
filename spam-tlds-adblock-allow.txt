@@ -380,7 +380,6 @@
 @@||ratcloud.llc^
 @@||adsb.lol^
 @@||ags.lol^
-@@||animevietsub.lol^
 @@||browser.lol^
 @@||dankmemer.lol^
 @@||fmhy.lol^
@@ -606,7 +605,6 @@
 @@||buergerspital.shop^
 @@||chessvibes.shop^
 @@||cineorder.shop^
-@@||deportelibres.shop^
 @@||derweinladen.shop^
 @@||domainname.shop^
 @@||domene.shop^
@@ -756,6 +754,7 @@
 @@||saint2.su^
 @@||ada.support^
 @@||jitsi.support^
+@@||windrose.support^
 @@||s-wings.surf^
 @@||filemoon.sx^
 @@||voe.sx^
@@ -803,6 +802,7 @@
 @@||suiten.top^
 @@||thedesk.top^
 @@||vsdb.top^
+@@||gather.town^
 @@||lofi.town^
 @@||tilde.town^
 @@||composer.trade^
@@ -936,6 +936,7 @@
 @@||wxx.wtf^
 @@||xo.wtf^
 @@||sinking.yachts^
+@@||cheatsheets.zip^
 @@||community.zip^
 @@||financialstatement.zip^
 @@||lemmy.zip^
