@@ -636,6 +636,7 @@
 @@||schweden.shop^
 @@||scorpions.shop^
 @@||sentry.shop^
+@@||seyffer.shop^
 @@||swedish-supplements.shop^
 @@||terminal.shop^
 @@||urlbluemedia.shop^
