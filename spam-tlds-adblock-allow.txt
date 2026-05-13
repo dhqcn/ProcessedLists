@@ -223,6 +223,7 @@
 @@||passkeys.directory^
 @@||reactnative.directory^
 @@||real.discount^
+@@||cal.diy^
 @@||chainsawman.dog^
 @@||heika.dog^
 @@||misskey.dog^
@@ -380,6 +381,7 @@
 @@||ratcloud.llc^
 @@||adsb.lol^
 @@||ags.lol^
+@@||animevietsub.lol^
 @@||browser.lol^
 @@||dankmemer.lol^
 @@||fmhy.lol^
