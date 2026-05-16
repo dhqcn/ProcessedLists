@@ -930,9 +930,11 @@
 @@||akko.wtf^
 @@||bgp.wtf^
 @@||cyber.wtf^
+@@||e-mail.wtf^
 @@||fx.wtf^
 @@||ip.wtf^
 @@||jascha.wtf^
+@@||jsdate.wtf^
 @@||lemmy.wtf^
 @@||myip.wtf^
 @@||tigress.wtf^
