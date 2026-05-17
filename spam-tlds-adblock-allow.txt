@@ -680,6 +680,7 @@
 @@||forecast.solar^
 @@||optimizer.solar^
 @@||ariadne.space^
+@@||blinko.space^
 @@||cslogs.space^
 @@||dragonscave.space^
 @@||drgns.space^
@@ -737,6 +738,7 @@
 @@||rokomari.store^
 @@||shoplazza.store^
 @@||shopware.store^
+@@||sofascore.store^
 @@||stan.store^
 @@||tatemcraeeu.store^
 @@||tatemcrae.store^
