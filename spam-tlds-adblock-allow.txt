@@ -138,6 +138,7 @@
 @@||yipee.cc^
 @@||yz168.cc^
 @@||zcyph.cc^
+@@||found.center^
 @@||mein-kunden.center^
 @@||oh.center^
 @@||priv.center^
@@ -621,6 +622,7 @@
 @@||geekchic.shop^
 @@||grnk.shop^
 @@||grog.shop^
+@@||gurkistan.shop^
 @@||henssler.shop^
 @@||kalypso.shop^
 @@||layers.shop^
