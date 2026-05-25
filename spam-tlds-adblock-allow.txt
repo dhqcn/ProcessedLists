@@ -631,6 +631,7 @@
 @@||music-merchant.shop^
 @@||myshopline.shop^
 @@||narpy.shop^
+@@||neue.shop^
 @@||neurosama.shop^
 @@||nocut.shop^
 @@||nordland.shop^
@@ -914,6 +915,7 @@
 @@||schueller.work^
 @@||spiegel.work^
 @@||starlightnet.work^
+@@||betterme.world^
 @@||bevisioneers.world^
 @@||boo.world^
 @@||calckey.world^
