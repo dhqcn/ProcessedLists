@@ -349,6 +349,7 @@
 @@||nature.house^
 @@||mond.how^
 @@||notrace.how^
+@@||fastdl.icu^
 @@||intervals.icu^
 @@||lunar.icu^
 @@||mon.icu^
@@ -405,6 +406,7 @@
 @@||social.lol^
 @@||status.lol^
 @@||techaro.lol^
+@@||vcloud.lol^
 @@||weblog.lol^
 @@||wpp.lol^
 @@||football.london^
