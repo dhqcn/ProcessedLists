@@ -625,6 +625,7 @@
 @@||frontiers.shop^
 @@||funk-dichtungstechnik.shop^
 @@||geekchic.shop^
+@@||gourmet-kochmanufaktur.shop^
 @@||grnk.shop^
 @@||grog.shop^
 @@||gurkistan.shop^
@@ -689,6 +690,7 @@
 @@||forecast.solar^
 @@||optimizer.solar^
 @@||ariadne.space^
+@@||azccriminal.space^
 @@||blinko.space^
 @@||cslogs.space^
 @@||dragonscave.space^
