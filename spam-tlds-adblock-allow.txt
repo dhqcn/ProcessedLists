@@ -468,6 +468,7 @@
 @@||pstream.mov^
 @@||chris.boyle.name^
 @@||davidwalsh.name^
+@@||hostaan.name^
 @@||keenetic.name^
 @@||stefvanbuuren.name^
 @@||vlo.name^
@@ -528,6 +529,7 @@
 @@||nvidia.partners^
 @@||stripe.partners^
 @@||xh.partners^
+@@||r.parts^
 @@||ducks.party^
 @@||mstdn.party^
 @@||ntc.party^
@@ -560,6 +562,7 @@
 @@||arc.pub^
 @@||bierbaum.pub^
 @@||infosec.pub^
+@@||isu.pub^
 @@||leaflet.pub^
 @@||lunar.pub^
 @@||outpost.pub^
