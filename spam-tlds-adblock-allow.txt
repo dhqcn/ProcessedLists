@@ -63,6 +63,7 @@
 @@||line.biz^
 @@||localise.biz^
 @@||luckysbarbershop.biz^
+@@||meetbot.biz^
 @@||movabletype.biz^
 @@||mysubwaytoolbox.biz^
 @@||netcetera.biz^
@@ -647,6 +648,7 @@
 @@||owl-dampfer.shop^
 @@||oxiline.shop^
 @@||prohibited.shop^
+@@||redbrain.shop^
 @@||scayle.shop^
 @@||schweden.shop^
 @@||scorpions.shop^
