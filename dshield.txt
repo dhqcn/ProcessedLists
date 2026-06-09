@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-06-09T10:15:43.432764
+#    updated: 2026-06-09T17:30:43.979378
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -43,6 +43,6 @@
 204.76.203.0	204.76.203.255	24	334	INTELLIGENCE-ATOM-HOSTING	KN	None
 66.132.224.0	66.132.224.255	24	332	-	-	-
 199.45.154.0	199.45.154.255	24	331	CENSYS-ARIN-03	US	None
-87.251.64.0	87.251.64.255	24	327	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
+87.251.64.0	87.251.64.255	24	328	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
 167.94.145.0	167.94.145.255	24	327	CENSYS-ARIN-02	US	None
 64.62.197.0	64.62.197.255	24	326	HURRICANE	US	abuse@he.net
