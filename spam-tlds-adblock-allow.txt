@@ -817,6 +817,7 @@
 @@||mianbeian.top^
 @@||nfmirrorcdn.top^
 @@||noru.top^
+@@||passt.top^
 @@||pegelinux.top^
 @@||polar.top^
 @@||qwertycxz.top^
