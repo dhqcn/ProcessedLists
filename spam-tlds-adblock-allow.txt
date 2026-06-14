@@ -298,6 +298,7 @@
 @@||crazypanda.games^
 @@||embark.games^
 @@||eneba.games^
+@@||erkul.games^
 @@||gxcorner.games^
 @@||skystone.games^
 @@||file.garden^
