@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-06-18T11:00:33.706838
+#    updated: 2026-06-18T18:00:32.938070
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,13 +26,13 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-69.5.169.0	69.5.169.255	24	351	OMNIS	US	abuse@omnis.com
+69.5.169.0	69.5.169.255	24	352	OMNIS	US	abuse@omnis.com
 147.185.132.0	147.185.132.255	24	345	GOOGLE-CLOUD-PLATFORM	US	None
 64.62.156.0	64.62.156.255	24	343	HURRICANE	US	abuse@he.net
 66.132.186.0	66.132.186.255	24	337	-	-	-
 193.163.125.0	193.163.125.255	24	337	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+87.251.64.0	87.251.64.255	24	335	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
 65.49.1.0	65.49.1.255	24	334	HURRICANE	US	abuse@he.net
-87.251.64.0	87.251.64.255	24	334	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
 45.198.224.0	45.198.224.255	24	333	OWS	US	CSOC@ontario.ca
 64.62.197.0	64.62.197.255	24	333	HURRICANE	US	abuse@he.net
 176.65.139.0	176.65.139.255	24	332	-	-	-
@@ -42,7 +42,7 @@
 45.148.10.0	45.148.10.255	24	329	PPTECHNOLOGY	GB	abuse@vegatele.com
 66.132.172.0	66.132.172.255	24	329	-	-	-
 45.205.1.0	45.205.1.255	24	328	MULTA-ASN1	US	abuse@multacom.com
-5.61.209.0	5.61.209.255	24	325	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
+5.61.209.0	5.61.209.255	24	326	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 167.94.145.0	167.94.145.255	24	325	CENSYS-ARIN-02	US	None
 198.235.24.0	198.235.24.255	24	325	GOOGLE-CLOUD-PLATFORM	US	None
 141.98.83.0	141.98.83.255	24	323	FLYSERVERS-ASN	PA	>>UNKNOWN<<
