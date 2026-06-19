@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-06-19T11:30:32.107128
+#    updated: 2026-06-19T17:30:32.700214
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-66.132.195.0	66.132.195.255	24	338	-	-	-
+66.132.195.0	66.132.195.255	24	339	-	-	-
 87.251.64.0	87.251.64.255	24	334	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
 147.185.132.0	147.185.132.255	24	333	GOOGLE-CLOUD-PLATFORM	US	None
 193.163.125.0	193.163.125.255	24	330	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
