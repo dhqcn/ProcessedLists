@@ -540,6 +540,7 @@
 @@||ducks.party^
 @@||mstdn.party^
 @@||ntc.party^
+@@||searchengine.party^
 @@||spankbang.party^
 @@||wmars.party^
 @@||kickthespy.pet^
