@@ -338,6 +338,7 @@
 @@||watcher.guru^
 @@||webcal.guru^
 @@||lunar.haus^
+@@||tri.haus^
 @@||flo.health^
 @@||sca.health^
 @@||severance.healthcare^
@@ -379,6 +380,7 @@
 @@||circles.life^
 @@||colorgame.life^
 @@||digitalcitizen.life^
+@@||enerjoy.life^
 @@||fami.life^
 @@||iboost.life^
 @@||lifetime.life^
@@ -622,6 +624,7 @@
 @@||4id.shop^
 @@||aloedent.shop^
 @@||axisms.shop^
+@@||brothersinarms.shop^
 @@||buergerspital.shop^
 @@||chessvibes.shop^
 @@||cineorder.shop^
@@ -943,6 +946,7 @@
 @@||starlightnet.work^
 @@||betterme.world^
 @@||bevisioneers.world^
+@@||bk.world^
 @@||boo.world^
 @@||calckey.world^
 @@||camhub.world^
