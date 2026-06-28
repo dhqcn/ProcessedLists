@@ -151,6 +151,7 @@
 @@||online.church^
 @@||bypass.city^
 @@||ops.city^
+@@||sem.city^
 @@||technical.city^
 @@||am-videos.click^
 @@||buybox.click^
