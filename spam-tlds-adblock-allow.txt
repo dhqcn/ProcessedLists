@@ -256,6 +256,7 @@
 @@||bahn.expert^
 @@||booking.expert^
 @@||malware.expert^
+@@||ktr.fan^
 @@||lemmy.fan^
 @@||os.fan^
 @@||haal.fashion^
@@ -700,6 +701,7 @@
 @@||platformsh.site^
 @@||privacy-test-pages.site^
 @@||reddit-doesnt-like-this.site^
+@@||saily.site^
 @@||shopapps.site^
 @@||silvatica.site^
 @@||srht.site^
