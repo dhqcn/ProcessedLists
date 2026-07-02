@@ -897,6 +897,7 @@
 @@||fallout.wiki^
 @@||gbf.wiki^
 @@||getindie.wiki^
+@@||gta.wiki^
 @@||hacktricks.wiki^
 @@||hollowknight.wiki^
 @@||hololive.wiki^
