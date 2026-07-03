@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-03T09:30:33.738694
+#    updated: 2026-07-03T16:15:33.455693
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -32,8 +32,8 @@
 45.198.224.0	45.198.224.255	24	340	OWS	US	CSOC@ontario.ca
 66.132.195.0	66.132.195.255	24	339	-	-	-
 65.49.1.0	65.49.1.255	24	337	HURRICANE	US	abuse@he.net
+147.185.132.0	147.185.132.255	24	337	GOOGLE-CLOUD-PLATFORM	US	None
 94.154.43.0	94.154.43.255	24	336	EKSENBILISIM	TR	abuse@ruyaserver.com
-147.185.132.0	147.185.132.255	24	336	GOOGLE-CLOUD-PLATFORM	US	None
 66.132.186.0	66.132.186.255	24	332	-	-	-
 64.62.197.0	64.62.197.255	24	331	HURRICANE	US	abuse@he.net
 45.148.10.0	45.148.10.255	24	329	PPTECHNOLOGY	GB	abuse@vegatele.com
@@ -43,6 +43,6 @@
 199.45.154.0	199.45.154.255	24	327	CENSYS-ARIN-03	US	None
 5.61.209.0	5.61.209.255	24	326	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 198.235.24.0	198.235.24.255	24	326	GOOGLE-CLOUD-PLATFORM	US	None
+167.94.145.0	167.94.145.255	24	324	CENSYS-ARIN-02	US	None
 91.196.152.0	91.196.152.255	24	323	ATT-INTERNET4	US	abuse@att.net
-167.94.145.0	167.94.145.255	24	323	CENSYS-ARIN-02	US	None
 204.76.203.0	204.76.203.255	24	322	INTELLIGENCE-ATOM-HOSTING	KN	None
