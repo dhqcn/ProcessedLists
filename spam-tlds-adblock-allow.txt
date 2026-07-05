@@ -20,6 +20,7 @@
 @@||rainviewer.asia^
 @@||shopdisney.asia^
 @@||flying-circus.band^
+@@||bestell.bar^
 @@||bolero.bar^
 @@||brexx.bar^
 @@||einhorn.bar^
