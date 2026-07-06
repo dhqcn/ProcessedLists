@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-05T16:30:35.309668
+#    updated: 2026-07-06T01:15:37.770317
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -34,15 +34,15 @@
 66.132.172.0	66.132.172.255	24	328	-	-	-
 64.62.197.0	64.62.197.255	24	327	HURRICANE	US	abuse@he.net
 65.49.1.0	65.49.1.255	24	327	HURRICANE	US	abuse@he.net
-45.205.1.0	45.205.1.255	24	323	MULTA-ASN1	US	abuse@multacom.com
+45.205.1.0	45.205.1.255	24	324	MULTA-ASN1	US	abuse@multacom.com
+91.196.152.0	91.196.152.255	24	324	ATT-INTERNET4	US	abuse@att.net
 66.132.186.0	66.132.186.255	24	323	-	-	-
-91.196.152.0	91.196.152.255	24	323	ATT-INTERNET4	US	abuse@att.net
 5.61.209.0	5.61.209.255	24	321	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 66.132.195.0	66.132.195.255	24	321	-	-	-
-94.154.43.0	94.154.43.255	24	318	EKSENBILISIM	TR	abuse@ruyaserver.com
+94.154.43.0	94.154.43.255	24	319	EKSENBILISIM	TR	abuse@ruyaserver.com
 204.76.203.0	204.76.203.255	24	318	INTELLIGENCE-ATOM-HOSTING	KN	None
 195.184.76.0	195.184.76.255	24	317	EAJ-GLOBAL	GB	>>UNKNOWN<<
 147.185.132.0	147.185.132.255	24	316	GOOGLE-CLOUD-PLATFORM	US	None
+151.243.11.0	151.243.11.255	24	316	RASANA	IR	abuse@rasana.net
 198.235.24.0	198.235.24.255	24	316	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	316	GOOGLE-CLOUD-PLATFORM	US	None
-45.198.224.0	45.198.224.255	24	315	OWS	US	CSOC@ontario.ca
