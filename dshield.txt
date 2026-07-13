@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-13T10:30:32.680800
+#    updated: 2026-07-13T17:30:33.956009
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -43,6 +43,6 @@
 66.132.224.0	66.132.224.255	24	315	-	-	-
 66.132.186.0	66.132.186.255	24	314	-	-	-
 81.19.216.0	81.19.216.255	24	313	BANDWIDTH-AS	GB	abuse@zare.com
+85.217.149.0	85.217.149.255	24	313	MAYAK	BG	ripe@mayak.bg
 167.94.145.0	167.94.145.255	24	312	CENSYS-ARIN-02	US	None
 195.178.110.0	195.178.110.255	24	312	DATAFOREST	DE	abuse@timeweb.ru
-193.163.125.0	193.163.125.255	24	311	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
