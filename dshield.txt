@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-14T08:45:30.571456
+#    updated: 2026-07-14T16:45:36.041398
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,21 +28,21 @@
 #     
 45.33.41.0	45.33.41.255	24	527	AKAMAI-LINODE-AP Akamai Connected Cloud	SG	tasaro@linode.com
 64.62.156.0	64.62.156.255	24	348	HURRICANE	US	abuse@he.net
-156.225.1.0	156.225.1.255	24	345	OCTL-AS-AP OceanBlue Cloud Technology Limited	HK	sam.yang@oceanbluecloud.com
+156.225.1.0	156.225.1.255	24	347	OCTL-AS-AP OceanBlue Cloud Technology Limited	HK	sam.yang@oceanbluecloud.com
 193.163.125.0	193.163.125.255	24	345	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 45.194.67.0	45.194.67.255	24	344	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
+66.132.195.0	66.132.195.255	24	339	-	-	-
 45.198.224.0	45.198.224.255	24	338	OWS	US	CSOC@ontario.ca
-66.132.195.0	66.132.195.255	24	338	-	-	-
 205.210.31.0	205.210.31.255	24	338	GOOGLE-CLOUD-PLATFORM	US	None
 147.185.132.0	147.185.132.255	24	336	GOOGLE-CLOUD-PLATFORM	US	None
+45.156.129.0	45.156.129.255	24	331	AS-BITSIGHT	PT	>>UNKNOWN<<
 5.61.209.0	5.61.209.255	24	330	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
-45.156.129.0	45.156.129.255	24	330	AS-BITSIGHT	PT	>>UNKNOWN<<
 94.154.43.0	94.154.43.255	24	329	EKSENBILISIM	TR	abuse@ruyaserver.com
 216.180.246.0	216.180.246.255	24	327	NTHL	US	abuse@networktransit.net
 45.148.10.0	45.148.10.255	24	326	PPTECHNOLOGY	GB	abuse@vegatele.com
 45.205.1.0	45.205.1.255	24	323	MULTA-ASN1	US	abuse@multacom.com
 45.156.128.0	45.156.128.255	24	322	AS-BITSIGHT	PT	>>UNKNOWN<<
-66.132.172.0	66.132.172.255	24	321	-	-	-
+66.132.172.0	66.132.172.255	24	322	-	-	-
 213.209.159.0	213.209.159.255	24	320	AS43260	TR	ip@dgn.net.tr
 64.62.197.0	64.62.197.255	24	319	HURRICANE	US	abuse@he.net
 167.94.145.0	167.94.145.255	24	319	CENSYS-ARIN-02	US	None
