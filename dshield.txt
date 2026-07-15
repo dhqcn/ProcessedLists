@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-15T08:45:37.372699
+#    updated: 2026-07-15T16:45:37.767341
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,12 +26,12 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-45.33.41.0	45.33.41.255	24	578	AKAMAI-LINODE-AP Akamai Connected Cloud	SG	tasaro@linode.com
-66.132.186.0	66.132.186.255	24	353	-	-	-
+45.33.41.0	45.33.41.255	24	580	AKAMAI-LINODE-AP Akamai Connected Cloud	SG	tasaro@linode.com
+66.132.186.0	66.132.186.255	24	354	-	-	-
 69.5.169.0	69.5.169.255	24	350	OMNIS	US	abuse@omnis.com
 198.235.24.0	198.235.24.255	24	350	GOOGLE-CLOUD-PLATFORM	US	None
 193.163.125.0	193.163.125.255	24	348	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-151.243.11.0	151.243.11.255	24	346	RASANA	IR	abuse@rasana.net
+151.243.11.0	151.243.11.255	24	347	RASANA	IR	abuse@rasana.net
 205.210.31.0	205.210.31.255	24	345	GOOGLE-CLOUD-PLATFORM	US	None
 65.49.1.0	65.49.1.255	24	340	HURRICANE	US	abuse@he.net
 66.132.195.0	66.132.195.255	24	337	-	-	-
@@ -44,5 +44,5 @@
 77.90.185.0	77.90.185.255	24	327	BTHOSTER	GB	abuse@inetia.pl
 195.184.76.0	195.184.76.255	24	327	EAJ-GLOBAL	GB	>>UNKNOWN<<
 85.217.149.0	85.217.149.255	24	326	MAYAK	BG	ripe@mayak.bg
-45.156.129.0	45.156.129.255	24	325	AS-BITSIGHT	PT	>>UNKNOWN<<
-147.185.132.0	147.185.132.255	24	325	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.132.0	147.185.132.255	24	326	GOOGLE-CLOUD-PLATFORM	US	None
+160.119.76.0	160.119.76.255	24	326	-	-	-
