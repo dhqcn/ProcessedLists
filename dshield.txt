@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-17T08:45:36.308789
+#    updated: 2026-07-17T16:15:38.898985
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,14 +29,14 @@
 45.33.41.0	45.33.41.255	24	569	AKAMAI-LINODE-AP Akamai Connected Cloud	SG	tasaro@linode.com
 64.62.197.0	64.62.197.255	24	353	HURRICANE	US	abuse@he.net
 66.132.172.0	66.132.172.255	24	344	-	-	-
+151.217.4.0	151.217.4.255	24	343	-	-	-
 64.62.156.0	64.62.156.255	24	341	HURRICANE	US	abuse@he.net
 185.242.226.0	185.242.226.255	24	339	AS49870-BV	NL	abuse@westcall.ru
-151.217.4.0	151.217.4.255	24	338	-	-	-
-66.132.195.0	66.132.195.255	24	337	-	-	-
+66.132.195.0	66.132.195.255	24	338	-	-	-
 69.5.169.0	69.5.169.255	24	337	OMNIS	US	abuse@omnis.com
 45.198.224.0	45.198.224.255	24	336	OWS	US	CSOC@ontario.ca
 94.154.43.0	94.154.43.255	24	335	EKSENBILISIM	TR	abuse@ruyaserver.com
-147.185.132.0	147.185.132.255	24	333	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.132.0	147.185.132.255	24	334	GOOGLE-CLOUD-PLATFORM	US	None
 193.163.125.0	193.163.125.255	24	330	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 45.156.129.0	45.156.129.255	24	325	AS-BITSIGHT	PT	>>UNKNOWN<<
 45.194.67.0	45.194.67.255	24	325	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
