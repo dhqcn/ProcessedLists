@@ -955,6 +955,7 @@
 @@||nostr.wine^
 @@||doesmycode.work^
 @@||frame.work^
+@@||funtuan.work^
 @@||koding.work^
 @@||mirror.work^
 @@||schueller.work^
