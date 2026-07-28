@@ -423,7 +423,6 @@
 @@||techaro.lol^
 @@||vcloud.lol^
 @@||weblog.lol^
-@@||wpp.lol^
 @@||football.london^
 @@||digitalize.ltd^
 @@||homebrew.ltd^
