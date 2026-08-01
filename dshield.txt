@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-31T16:45:39.084863
+#    updated: 2026-08-01T00:45:40.650907
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -43,6 +43,6 @@
 193.163.125.0	193.163.125.255	24	322	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 213.209.159.0	213.209.159.255	24	320	AS43260	TR	ip@dgn.net.tr
 91.231.89.0	91.231.89.255	24	319	BHA	FR	abuse@bha-conseil.com
+193.24.211.0	193.24.211.255	24	319	HGCOMP-ASN	DE	abuse@aixit.com
 151.243.11.0	151.243.11.255	24	318	RASANA	IR	abuse@rasana.net
-193.24.211.0	193.24.211.255	24	318	HGCOMP-ASN	DE	abuse@aixit.com
 160.119.76.0	160.119.76.255	24	317	-	-	-
