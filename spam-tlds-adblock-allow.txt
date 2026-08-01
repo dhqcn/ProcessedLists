@@ -326,7 +326,6 @@
 @@||discordjs.guide^
 @@||goodtravel.guide^
 @@||hacks.guide^
-@@||homebrew.guide^
 @@||opensource.guide^
 @@||ripped.guide^
 @@||site.guide^
@@ -636,6 +635,7 @@
 @@||buergerspital.shop^
 @@||chessvibes.shop^
 @@||cineorder.shop^
+@@||deportelibres.shop^
 @@||der-marmeladenladen.shop^
 @@||derweinladen.shop^
 @@||domainname.shop^
