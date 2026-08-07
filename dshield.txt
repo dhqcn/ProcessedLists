@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-08-07T01:00:22.173092
+#    updated: 2026-08-07T08:15:39.204950
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-64.62.156.0	64.62.156.255	24	300	HURRICANE	US	abuse@he.net
-66.132.186.0	66.132.186.255	24	296	-	-	-
-45.198.224.0	45.198.224.255	24	294	OWS	US	CSOC@ontario.ca
-162.217.100.0	162.217.100.255	24	291	SINGLEHOP-LLC	US	netops@singlehop.com
-85.217.140.0	85.217.140.255	24	284	NETERRA-AS	BG	abuse@neterra.net
-195.182.16.0	195.182.16.255	24	280	OT2-AS	UA	abuse@omegatelecom.ua
-5.61.209.0	5.61.209.255	24	279	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
-64.62.197.0	64.62.197.255	24	278	HURRICANE	US	abuse@he.net
-65.49.1.0	65.49.1.255	24	277	HURRICANE	US	abuse@he.net
-193.163.125.0	193.163.125.255	24	277	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-45.205.1.0	45.205.1.255	24	275	MULTA-ASN1	US	abuse@multacom.com
-81.19.219.0	81.19.219.255	24	275	BANDWIDTH-AS	GB	abuse@zare.com
-138.226.239.0	138.226.239.255	24	275	-	-	-
-66.132.195.0	66.132.195.255	24	274	-	-	-
-77.91.71.0	77.91.71.255	24	274	CLOUVIDER Clouvider - Global ASN	GB	abuse@clouvider.net
-77.90.185.0	77.90.185.255	24	273	BTHOSTER	GB	abuse@inetia.pl
-85.217.149.0	85.217.149.255	24	273	MAYAK	BG	ripe@mayak.bg
-91.92.40.0	91.92.40.255	24	273	EUROCRYPT-AS	BG	support@evro.net
-91.231.89.0	91.231.89.255	24	273	BHA	FR	abuse@bha-conseil.com
-151.243.11.0	151.243.11.255	24	273	RASANA	IR	abuse@rasana.net
+64.62.156.0	64.62.156.255	24	348	HURRICANE	US	abuse@he.net
+66.132.186.0	66.132.186.255	24	345	-	-	-
+45.198.224.0	45.198.224.255	24	338	OWS	US	CSOC@ontario.ca
+198.235.24.0	198.235.24.255	24	338	GOOGLE-CLOUD-PLATFORM	US	None
+151.243.11.0	151.243.11.255	24	334	RASANA	IR	abuse@rasana.net
+162.217.100.0	162.217.100.255	24	332	SINGLEHOP-LLC	US	netops@singlehop.com
+85.217.140.0	85.217.140.255	24	331	NETERRA-AS	BG	abuse@neterra.net
+65.49.1.0	65.49.1.255	24	326	HURRICANE	US	abuse@he.net
+77.90.185.0	77.90.185.255	24	326	BTHOSTER	GB	abuse@inetia.pl
+91.92.40.0	91.92.40.255	24	326	EUROCRYPT-AS	BG	support@evro.net
+193.163.125.0	193.163.125.255	24	325	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+195.182.16.0	195.182.16.255	24	325	OT2-AS	UA	abuse@omegatelecom.ua
+199.45.154.0	199.45.154.255	24	325	CENSYS-ARIN-03	US	None
+195.184.76.0	195.184.76.255	24	323	EAJ-GLOBAL	GB	>>UNKNOWN<<
+45.205.1.0	45.205.1.255	24	322	MULTA-ASN1	US	abuse@multacom.com
+66.132.172.0	66.132.172.255	24	322	-	-	-
+45.194.67.0	45.194.67.255	24	321	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
+45.148.10.0	45.148.10.255	24	320	PPTECHNOLOGY	GB	abuse@vegatele.com
+64.62.197.0	64.62.197.255	24	320	HURRICANE	US	abuse@he.net
+185.242.226.0	185.242.226.255	24	320	AS49870-BV	NL	abuse@westcall.ru
