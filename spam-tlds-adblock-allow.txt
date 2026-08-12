@@ -254,6 +254,7 @@
 @@||homewizard.energy^
 @@||octopus.energy^
 @@||biqu.equipment^
+@@||dandelion.events^
 @@||lyyti.events^
 @@||ticketco.events^
 @@||infosec.exchange^
