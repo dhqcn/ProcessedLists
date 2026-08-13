@@ -105,6 +105,7 @@
 @@||dhilosnetworks.cc^
 @@||dict.cc^
 @@||dns36.cc^
+@@||eay.cc^
 @@||fanbox.cc^
 @@||fiedler.cc^
 @@||fito.cc^
