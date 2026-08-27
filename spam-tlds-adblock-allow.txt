@@ -412,6 +412,7 @@
 @@||kizuki.lol^
 @@||lemy.lol^
 @@||library.lol^
+@@||mainos.lol^
 @@||nexdrive.lol^
 @@||nos.lol^
 @@||noted.lol^
