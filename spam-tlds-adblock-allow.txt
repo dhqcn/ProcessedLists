@@ -31,7 +31,6 @@
 @@||mavie.bar^
 @@||metro.bar^
 @@||reit.bar^
-@@||strem.bar^
 @@||voi.bar^
 @@||amphi.beer^
 @@||catboy.best^
@@ -620,7 +619,6 @@
 @@||swipein.restaurant^
 @@||vecchioamore.restaurant^
 @@||highquality.rip^
-@@||medium.rip^
 @@||nest.rip^
 @@||scribe.rip^
 @@||goflix.sbs^
