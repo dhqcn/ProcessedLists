@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-09-16T12:00:57.899355
+#    updated: 2026-09-16T18:00:59.504617
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,9 +30,9 @@
 156.225.1.0	156.225.1.255	24	345	OCTL-AS-AP OceanBlue Cloud Technology Limited	HK	sam.yang@oceanbluecloud.com
 198.235.24.0	198.235.24.255	24	344	GOOGLE-CLOUD-PLATFORM	US	None
 65.49.1.0	65.49.1.255	24	343	HURRICANE	US	abuse@he.net
+148.59.129.0	148.59.129.255	24	342	SERVER-MANIA	CA	support@servermania.com
 205.210.31.0	205.210.31.255	24	342	GOOGLE-CLOUD-PLATFORM	US	None
 85.217.140.0	85.217.140.255	24	341	NETERRA-AS	BG	abuse@neterra.net
-148.59.129.0	148.59.129.255	24	341	SERVER-MANIA	CA	support@servermania.com
 85.217.149.0	85.217.149.255	24	339	MAYAK	BG	ripe@mayak.bg
 138.226.239.0	138.226.239.255	24	339	-	-	-
 185.242.226.0	185.242.226.255	24	338	AS49870-BV	NL	abuse@westcall.ru
