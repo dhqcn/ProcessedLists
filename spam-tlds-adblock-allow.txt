@@ -971,6 +971,7 @@
 @@||debloat.win^
 @@||ios-countdown.win^
 @@||patriots.win^
+@@||realdeals.win^
 @@||vaultcord.win^
 @@||nostr.wine^
 @@||doesmycode.work^
