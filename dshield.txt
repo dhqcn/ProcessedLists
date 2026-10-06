@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-10-06T14:01:05.278452
+#    updated: 2026-10-06T20:01:04.945677
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,8 +29,8 @@
 66.132.186.0	66.132.186.255	24	342	-	-	-
 160.119.76.0	160.119.76.255	24	342	-	-	-
 156.225.1.0	156.225.1.255	24	340	OCTL-AS-AP OceanBlue Cloud Technology Limited	HK	sam.yang@oceanbluecloud.com
+66.240.223.0	66.240.223.255	24	339	CARINET	US	complaints@cari.net
 66.132.195.0	66.132.195.255	24	338	-	-	-
-66.240.223.0	66.240.223.255	24	338	CARINET	US	complaints@cari.net
 85.217.149.0	85.217.149.255	24	338	MAYAK	BG	ripe@mayak.bg
 185.136.15.0	185.136.15.255	24	338	SOLUTIONS-FACTORY-AS	KZ	info@datixgroup.net
 167.94.145.0	167.94.145.255	24	336	CENSYS-ARIN-02	US	None
