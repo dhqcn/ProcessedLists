@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-10-20T12:46:23.291321
+#    updated: 2026-10-20T18:46:20.095386
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,7 +27,7 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 16.5.0.0	16.5.0.255	24	351	-	-	-
-216.180.246.0	216.180.246.255	24	331	NTHL	US	abuse@networktransit.net
+216.180.246.0	216.180.246.255	24	332	NTHL	US	abuse@networktransit.net
 198.235.24.0	198.235.24.255	24	330	GOOGLE-CLOUD-PLATFORM	US	None
 45.198.224.0	45.198.224.255	24	322	OWS	US	CSOC@ontario.ca
 185.73.23.0	185.73.23.255	24	322	RUB-AS	DE	abuse@rub.de
