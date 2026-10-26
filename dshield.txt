@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-10-25T17:31:04.822093
+#    updated: 2026-10-26T01:30:48.856996
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-199.165.159.0	199.165.159.255	24	344	-	-	-
-193.163.125.0	193.163.125.255	24	340	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-151.243.11.0	151.243.11.255	24	336	RASANA	IR	abuse@rasana.net
-64.62.197.0	64.62.197.255	24	335	HURRICANE	US	abuse@he.net
-77.239.124.0	77.239.124.255	24	335	-	-	-
-195.182.16.0	195.182.16.255	24	335	OT2-AS	UA	abuse@omegatelecom.ua
-66.132.172.0	66.132.172.255	24	333	-	-	-
-66.132.186.0	66.132.186.255	24	332	-	-	-
-69.5.169.0	69.5.169.255	24	330	OMNIS	US	abuse@omnis.com
-147.185.132.0	147.185.132.255	24	327	GOOGLE-CLOUD-PLATFORM	US	None
-66.132.195.0	66.132.195.255	24	323	-	-	-
-45.148.10.0	45.148.10.255	24	321	PPTECHNOLOGY	GB	abuse@vegatele.com
-64.205.72.0	64.205.72.255	24	321	MEGAPATH2-	US	abuse@gtt.net
-65.49.1.0	65.49.1.255	24	321	HURRICANE	US	abuse@he.net
-77.90.185.0	77.90.185.255	24	319	BTHOSTER	GB	abuse@inetia.pl
-212.102.58.0	212.102.58.255	24	317	CDN77 \^_^	GB	abuse@cdn77.com
-45.198.224.0	45.198.224.255	24	316	OWS	US	CSOC@ontario.ca
-79.124.58.0	79.124.58.255	24	316	TAMATIYA-AS	BG	noc@4vendeta.com
-216.180.246.0	216.180.246.255	24	316	NTHL	US	abuse@networktransit.net
-16.5.0.0	16.5.0.255	24	314	-	-	-
+193.163.125.0	193.163.125.255	24	330	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+77.239.124.0	77.239.124.255	24	325	-	-	-
+198.235.24.0	198.235.24.255	24	323	GOOGLE-CLOUD-PLATFORM	US	None
+64.62.197.0	64.62.197.255	24	322	HURRICANE	US	abuse@he.net
+69.5.169.0	69.5.169.255	24	318	OMNIS	US	abuse@omnis.com
+199.165.159.0	199.165.159.255	24	316	-	-	-
+66.132.195.0	66.132.195.255	24	311	-	-	-
+205.210.31.0	205.210.31.255	24	310	GOOGLE-CLOUD-PLATFORM	US	None
+65.49.1.0	65.49.1.255	24	309	HURRICANE	US	abuse@he.net
+66.132.186.0	66.132.186.255	24	309	-	-	-
+216.180.246.0	216.180.246.255	24	308	NTHL	US	abuse@networktransit.net
+195.182.16.0	195.182.16.255	24	306	OT2-AS	UA	abuse@omegatelecom.ua
+138.226.239.0	138.226.239.255	24	305	-	-	-
+77.67.26.0	77.67.26.255	24	303	GTT-BACKBONE GTT	US	abuse@gtt.net
+66.132.172.0	66.132.172.255	24	302	-	-	-
+185.136.15.0	185.136.15.255	24	302	SOLUTIONS-FACTORY-AS	KZ	info@datixgroup.net
+212.102.58.0	212.102.58.255	24	299	CDN77 \^_^	GB	abuse@cdn77.com
+138.199.40.0	138.199.40.255	24	298	CDN77 \^_^	GB	abuse@cdn77.com
+200.138.46.0	200.138.46.255	24	298	V tal	BR	ld-numeracaoip@oi.net.br
+79.124.56.0	79.124.56.255	24	295	TAMATIYA-AS	BG	noc@4vendeta.com
