@@ -1,11 +1,11 @@
 # ================================================
 # IPv4 / IPv6 Processing Summary
 # ================================================
-# Timestamp:                 19-11-2026 07:39:26
-# Total IPv4 entries:        6113
-# Total IPv6 entries:        117
-# Unique IPv4 entries:       6113
-# Unique IPv6 entries:       117
+# Timestamp:                 20-11-2026 07:30:34
+# Total IPv4 entries:        6803
+# Total IPv6 entries:        118
+# Unique IPv4 entries:       6803
+# Unique IPv6 entries:       118
 # Duplicates removed (IPv4): 0
 # Duplicates removed (IPv6): 0
 # Total duplicates removed:  0
@@ -47,6 +47,7 @@
 2400:6180:0:d0::5f6e:4001
 2405:3340:e000::77:77
 2409::1
+240c::6644
 240c::6666
 2604:ffc0::
 2606:1a40::
