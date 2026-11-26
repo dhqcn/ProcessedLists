@@ -1,10 +1,10 @@
 # ================================================
 # IPv4 / IPv6 Processing Summary
 # ================================================
-# Timestamp:                 25-11-2026 08:51:51
-# Total IPv4 entries:        6682
+# Timestamp:                 26-11-2026 08:37:29
+# Total IPv4 entries:        6021
 # Total IPv6 entries:        119
-# Unique IPv4 entries:       6682
+# Unique IPv4 entries:       6021
 # Unique IPv6 entries:       119
 # Duplicates removed (IPv4): 0
 # Duplicates removed (IPv6): 0
